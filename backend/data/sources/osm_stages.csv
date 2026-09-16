@@ -1,0 +1,495 @@
+stage_id,name,lat,lon,kind
+osm:5886553692,26,-1.278345,37.033710,bus_stop
+osm:4189426101,36 stage,-1.261424,36.886398,bus_stop
+osm:10832093292,3rd Parklands Avenue/Aga Kan Hospital Junction,-1.263229,36.825077,platform
+osm:5013388221,46 Bus station,-1.285710,36.824835,bus_station
+osm:8050414671,46 Stage,-1.283763,36.742466,bus_station
+osm:8050437496,56 Mwisho,-1.277738,36.752589,bus_stop
+osm:8050437508,56 Stage,-1.278267,36.750692,station
+osm:10832093303,5th parklands avenue,-1.260939,36.825850,platform
+osm:10844057340,6th Parklands Avenue/Regal House/Kobil,-1.257770,36.826910,platform
+osm:9800929004,75,-1.312494,36.923563,platform
+osm:7174109435,87,-1.257468,36.700283,platform
+osm:7174126754,87,-1.257869,36.700869,platform
+osm:7174143605,ABC,-1.258651,36.779467,platform
+osm:7174143606,ABC,-1.259058,36.778402,platform
+osm:2990724429,Abduba Stage,-1.059440,37.135251,bus_stop
+osm:5886553694,Acacia,-1.277026,37.021905,bus_stop
+osm:12075947861,Accacia Junction(King'eero Mwisho),-1.224559,36.706424,bus_stop
+osm:10832126032,ACK Thibigwa,-1.181032,36.762044,platform
+osm:30030231,Adams,-1.300038,36.780462,platform
+osm:2279270334,adapt a light,-1.258318,36.862067,bus_stop
+osm:2286564318,adapt alight,-1.248771,36.876453,bus_stop
+osm:2286564335,adapt alight,-1.249357,36.875144,pub
+osm:2286564341,adapt alight,-1.250290,36.876895,bus_stop
+osm:2286564347,adapt alight,-1.250680,36.875459,platform
+osm:2286564353,adapt alight,-1.251469,36.875289,bus_stop
+osm:2261405859,adopt a light,-1.248776,36.876446,bus_stop
+osm:10832126007,Aga Khan Academy,-1.266405,36.823195,platform
+osm:10844057352,Agha khan hospital junction/ 3rd parklands ave,-1.261936,36.825454,platform
+osm:6208217648,Airport Junction,-1.346523,36.902272,bus_station
+osm:9800813307,Amani bus stage,-1.280355,36.964260,platform
+osm:1507544234,Ambassador Bus Stage,-1.285462,36.825877,bus_station
+osm:9800855387,AP,-1.285189,36.956093,platform
+osm:5336131021,Arusha shuttle,-1.281025,36.818799,bus_station
+osm:3729213446,Athi River (MGR),-1.449094,36.975434,station
+osm:4893896401,Athi River (SGR),-1.467976,36.990919,station
+osm:12133974300,Aviation,-1.319754,36.906049,station
+osm:8050414678,Bada Kabiro,-1.285745,36.745186,bus_station
+osm:5552396279,Bahimia SACCO,-1.283671,36.825299,bus_station
+osm:10844129451,Banana Terminus,-1.173875,36.758608,bus_station
+osm:5743474193,Base Stage,-1.209111,36.893992,platform
+osm:2975791175,BAT Stage,-1.053856,37.108465,bus_stop
+osm:10832093298,Belgian Embassy/Karura,-1.246905,36.815684,platform
+osm:4200181227,Benedicta Bus Stage,-1.278606,36.967968,platform
+osm:5886549886,Block 10,-1.276099,37.010579,bus_stop
+osm:2875606117,Blue Line Shuttle,-1.287689,36.828490,platform
+osm:7942847243,BodaBoda Rider,-1.261486,36.862529,bus_stop
+osm:4967726212,Bombolulu Stage,-1.310975,36.774689,bus_stop
+osm:12075947854,Bridge,-1.233292,36.713026,bus_stop
+osm:3519591073,Bul Bul Bus Stop,-1.333997,36.673367,bus_stop
+osm:5552396291,Buruburu SACCO,-1.284453,36.826176,bus_station
+osm:3519591075,Bus station,-1.328226,36.683113,bus_stop
+osm:12282590101,Bus Station,-1.185565,36.907129,bus_station
+osm:1333669885,Bus Stop,-1.294037,36.795457,bus_stop
+osm:10832093300,Bypass,-1.204484,36.785515,platform
+osm:10844057331,Bypass,-1.204768,36.785477,platform
+osm:6208217427,Cabanas Bus Stop,-1.335589,36.893227,bus_station
+osm:10832093293,Canadian embassy,-1.241283,36.813340,platform
+osm:5743478021,Canopy stage,-1.206585,36.894376,platform
+osm:5743478022,Canopy-Town Stage,-1.206099,36.894797,platform
+osm:10844057338,Carwash,-1.200970,36.785177,platform
+osm:5001805022,Chania Cool Booking Office and Bus Stop,-1.282904,36.828172,platform
+osm:8050437497,Check Point,-1.274593,36.758754,bus_station
+osm:8050437493,Checkpoint,-1.276419,36.755259,bus_station
+osm:5776763653,Chiromo Bus Stage,-1.270893,36.807094,bus_station
+osm:5267678421,Chokaa Stage,-1.250985,36.952790,bus_stop
+osm:2162592074,Church army,-1.294795,36.853230,bus_stop
+osm:10844057380,Church Of Acts/Velvet Lounge,-1.203525,36.785397,platform
+osm:5552396289,City Bus,-1.283958,36.825622,bus_station
+osm:10844057379,City Park,-1.260570,36.826150,platform
+osm:10832093302,City park drive,-1.257162,36.826563,platform
+osm:8050414679,Coast,-1.287172,36.747486,bus_station
+osm:8050437485,Coast,-1.287997,36.749862,bus_station
+osm:8050437504,Coast,-1.289527,36.750092,bus_station
+osm:8050437502,Coast Stage,-1.290005,36.746858,bus_station
+osm:4967760823,Cocacola Stage,-1.306285,36.772186,bus_stop
+osm:8050414682,Congo,-1.288979,36.753129,bus_stop
+osm:8050414683,Congo,-1.289021,36.753166,bus_stop
+osm:8050414684,Congo,-1.289220,36.752923,bus_station
+osm:8050414681,Congo Kumi,-1.289000,36.753112,bus_stop
+osm:8050437499,Congo Stage,-1.289367,36.752893,bus_station
+osm:8050437501,Congo Stage,-1.289317,36.754023,bus_stop
+osm:7174109438,Coperation/Kopa,-1.260191,36.710478,platform
+osm:7174109439,Coperation/Kopa,-1.260447,36.710675,platform
+osm:7987341021,Corner Station,-1.185303,36.994719,bus_station
+osm:3519591025,Country Club,-1.354642,36.657740,bus_stop
+osm:8050437503,County Government,-1.288542,36.750673,bus_station
+osm:12075947813,Crossroads,-1.246299,36.774427,bus_stop
+osm:13924437764,Dagoretti,-1.291579,36.696193,station
+osm:619761216,Dagoretti Market,-1.286543,36.686769,platform
+osm:12848630937,Dagoretti Market,-1.284420,36.682853,station
+osm:10832126031,Delta Petrol Station Ruaka/Border,-1.208925,36.787827,platform
+osm:10844057378,Delta Petrol Station/Border,-1.209180,36.788200,platform
+osm:7234655285,Dreamline bus,-1.281798,36.827394,bus_station
+osm:4421822801,Dreamline Bus services,-1.322120,36.843274,bus_stop
+osm:6578209586,driver 985w,-1.197918,36.782605,bus_stop
+osm:6909462287,East Africa Shuttles and Safaris,-1.284087,36.820390,platform
+osm:5552492022,Eastleigh,-1.281983,36.823001,bus_station
+osm:5552396282,Eastleigh Commuter Services,-1.282535,36.823907,bus_station
+osm:5552396276,Eastleigh/Ngara/Mlango,-1.283816,36.825238,bus_station
+osm:2875606118,Easy Coach Booking Office Nairobi,-1.288981,36.828570,platform
+osm:3519591063,El Paso Bus Stop,-1.347723,36.662498,bus_stop
+osm:1874204335,Elgeyo,-1.292622,36.778916,bus_stop
+osm:3519591038,Elpaso,-1.352896,36.658217,bus_stop
+osm:5552396290,Embassava SACCO,-1.284156,36.826224,bus_station
+osm:12817662801,ENA Coach,-1.288157,36.830941,bus_station
+osm:6249063513,Equity,-1.218107,36.899931,platform
+osm:6249063514,Equity,-1.218004,36.900056,platform
+osm:8050437492,Fae,-1.277155,36.750816,bus_stop
+osm:4181655917,Fagilia Stage,-1.284412,36.971290,bus_stop
+osm:8168774398,Fedha Matatu Stage,-1.314498,36.894299,platform
+osm:10844057329,Fig Tree,-1.275692,36.822953,platform
+osm:12075947852,Gacio,-1.238508,36.726314,bus_stop
+osm:10832126005,Gathanga Stage/Kiambea,-1.198999,36.784440,platform
+osm:8050437495,Gatina,-1.277659,36.752845,bus_stop
+osm:12171680864,Gatitu B bus stop,-1.035818,36.857309,platform
+osm:5098143924,Gikuni Bus stop,-1.195858,36.697334,bus_stop
+osm:7174109428,Gitaru,-1.233091,36.670266,platform
+osm:7174109440,Gitaru,-1.234516,36.670713,platform
+osm:12848569569,Gitaru,-1.237374,36.675110,station
+osm:1617902152,Githunguri Matatu Stage,-1.056442,36.778871,bus_station
+osm:1719330031,Githurai,-1.205002,36.916300,bus_stop
+osm:1719330044,Githurai,-1.203168,36.917319,bus_stop
+osm:7643261486,Githurai 44,-1.195481,36.902841,bus_stop
+osm:3151632203,Githurai 44 Stage,-1.198341,36.901621,bus_stop
+osm:5552396285,Githurai Zimmerman,-1.282852,36.824694,bus_station
+osm:10832093286,Globe,-1.277348,36.821113,platform
+osm:10832126030,Guango,-1.195670,36.780800,platform
+osm:12075947855,Hanita,-1.227316,36.707608,bus_stop
+osm:5552396280,Hannover Trans,-1.283040,36.824304,bus_station
+osm:5973212787,High point,-1.095273,37.029124,bus_stop
+osm:5973212788,High point,-1.094816,37.028752,bus_stop
+osm:7166907091,Hunters,-1.227426,36.917978,platform
+osm:10974513714,ILRI Bus Stop,-1.268909,36.723119,platform
+osm:242166302,Imara Daima,-1.328340,36.874220,station
+osm:1003842253,Its Here,-1.262158,36.886751,bus_stop
+osm:7174143601,James Gichuru/Agriculture,-1.259885,36.773899,platform
+osm:7174143602,James Gichuru/Agriculture,-1.258857,36.775582,platform
+osm:612609336,Jamhuri Estate,-1.305194,36.772648,platform
+osm:10832093304,JamhurI High,-1.272161,36.822256,platform
+osm:10844057376,Jamhuri High School,-1.273350,36.822970,platform
+osm:3765367208,JKUAT Main stage,-1.104771,37.017513,bus_stop
+osm:8932284917,jomoko mangu,-1.041784,37.057671,bus_station
+osm:3519591064,Juanco Bus Stop,-1.342823,36.666266,bus_stop
+osm:3731530327,Juja Stage,-1.106597,37.015300,bus_station
+osm:7174109436,Junction,-1.258581,36.703456,platform
+osm:7174109437,Junction,-1.258811,36.703448,platform
+osm:12353556911,K-road,-1.124475,37.003140,platform
+osm:3519591076,K.C.B,-1.329527,36.686903,bus_stop
+osm:7645366487,K.U referral,-1.175466,36.913793,bus_stop
+osm:12075947851,Kabete Lane/Total Spring Valley/ Bypass,-1.254147,36.792827,bus_stop
+osm:12075947847,Kabete Spring Valley,-1.240795,36.751152,bus_stop
+osm:8283452721,Kabiria Kwa maji,-1.291341,36.733684,platform
+osm:8050414677,Kabiro,-1.284444,36.746258,bus_station
+osm:8050414680,Kabiro,-1.287524,36.748679,bus_station
+osm:4487469611,Kabuagi,-1.316013,36.718244,station
+osm:6274258897,Kagundo Road,-1.276670,37.017789,platform
+osm:6959365885,Kahawa sukari,-1.188875,36.931477,bus_stop
+osm:7645366387,Kahawa West,-1.185487,36.906786,bus_stop
+osm:7645366388,Kahawa West,-1.186202,36.906849,bus_stop
+osm:5552396288,Kaka Travellers Sacco,-1.283774,36.825422,bus_station
+osm:7942847236,Kambi,-1.265842,36.855168,bus_stop
+osm:2975791176,Kamenu Stage Makongeni,-1.059474,37.106515,bus_stop
+osm:7174109430,Kampala,-1.238799,36.674972,platform
+osm:7174109442,Kampala,-1.240250,36.675193,platform
+osm:8338714154,Kamulu Stage,-1.282617,37.064478,platform
+osm:12905326270,Kamuti-ini Bus stop,-1.229843,36.709793,platform
+osm:12905326271,Kamuti-ini Bus stop,-1.229761,36.709868,platform
+osm:12075947815,Kamutii-Ini,-1.234839,36.715046,bus_stop
+osm:1746482162,Kangemi,-1.264026,36.747245,bus_stop
+osm:1746482163,Kangemi,-1.264321,36.747931,bus_stop
+osm:4740212824,Kanisani,-1.270687,36.913075,bus_stop
+osm:5886553687,Kanisani,-1.278782,37.040129,bus_stop
+osm:712916686,Karanja Stage,-1.309828,36.780309,bus_stop
+osm:3519591081,Karen Bus Stop,-1.321927,36.707524,platform
+osm:4934449673,Karen Campus,-1.353613,36.747123,bus_stop
+osm:3519591084,Karen Hardy Bus Station,-1.323078,36.708018,platform
+osm:5555074090,Karen/Hardy,-1.286098,36.825763,bus_station
+osm:12133987509,Kariobangi South,-1.269377,36.887365,station
+osm:10844057343,Karura/Runda,-1.220820,36.801360,platform
+osm:558923025,Kawangware,-1.287781,36.741971,bus_stop
+osm:8050414674,Kawangware Sokoni,-1.286474,36.745826,bus_station
+osm:4740212822,Kayole 1,-1.262027,36.919566,platform
+osm:5636724232,Kayole Hospital,-1.270264,36.919738,platform
+osm:5636724262,Kayole Junction Ez,-1.257236,36.922792,station
+osm:6216321645,Kcb Community,-1.329685,36.687175,station
+osm:5378545277,KCB/Equity,-1.298746,36.812923,platform
+osm:12121997047,Kemrif,-1.241856,36.893414,platform
+osm:1537502919,Kencom,-1.285640,36.824990,bus_station
+osm:10673606287,Kenyatta Market,-1.307489,36.802784,platform
+osm:10673606286,Kenyatta Market Flyover,-1.306307,36.803270,platform
+osm:3912657550,Kenyatta National Hospital Bus Stop,-1.300903,36.808598,platform
+osm:6199038657,Kenyatta Road Stage,-1.124151,37.003410,bus_station
+osm:6251534645,Kenyatta University Stage Bus Bay,-1.179808,36.939130,bus_station
+osm:6216196498,Kephis Stage,-1.327567,36.691001,station
+osm:10844057346,Kiambea,-1.198614,36.784122,platform
+osm:5327776161,Kiambu Bus Stage,-1.168673,36.826347,bus_stop
+osm:2488266134,Kianda Stage,-1.263954,36.758685,platform
+osm:13924090576,Kibera,-1.305777,36.769666,station
+osm:612011639,Kibera Ayany Bus Stop,-1.307852,36.772862,platform
+osm:1831879014,Kibiria,-1.290516,36.728910,bus_stop
+osm:10844057345,Kibutu Stage/Bread of Life,-1.188314,36.771234,platform
+osm:13924437761,Kikuyu,-1.246166,36.660937,station
+osm:4324883798,Kikuyu Bus Station,-1.242617,36.664789,bus_station
+osm:2978942856,Kilimambogo Bus Station,-1.038386,37.081102,bus_station
+osm:5552396286,Killeton Sacco,-1.282562,36.825144,bus_station
+osm:3519605678,Kimbo Stage Bus Stop,-1.302414,36.752057,bus_stop
+osm:3547038996,Kimuka matatu stop,-1.358449,36.599385,bus_stop
+osm:12893741521,King'eero Bus Stop,-1.225470,36.706218,platform
+osm:12905359642,King'eero Bus Stop,-1.225278,36.705840,platform
+osm:12075947839,King'eero/Mwisho,-1.224966,36.705585,bus_stop
+osm:5886553889,King'oris,-1.280729,37.056229,bus_stop
+osm:1770676013,Kinoo Bus stop,-1.255244,36.694192,platform
+osm:7174109446,Kinoo Bus stop,-1.255383,36.693785,platform
+osm:5552396275,Kinoo/Kikuyu,-1.283667,36.825060,bus_station
+osm:5886553886,Kipawa,-1.279359,37.046062,bus_stop
+osm:12075947846,Kirawa Close,-1.240684,36.748833,bus_stop
+osm:5327798363,Kirigiti Bus Stop,-1.172450,36.841817,bus_stop
+osm:1239946724,Kiserian matatu station,-1.428404,36.686550,bus_stop
+osm:5333186922,Kitale shuttles Co.,-1.288245,36.828823,bus_station
+osm:9071589956,Kitengela,-1.489528,36.973002,station
+osm:30157497,KMTC Bus Stop,-1.297551,36.804170,bus_stop
+osm:10732771854,KNH/KMTC,-1.297480,36.805436,platform
+osm:10844057344,Kobil Gigiri,-1.239407,36.811688,platform
+osm:10832093295,Kobil/Regal house/6th Parklands ave,-1.257929,36.827080,platform
+osm:1507591543,Koja,-1.280352,36.821729,platform
+osm:12075903087,Koja,-1.280352,36.821729,platform
+osm:3519412631,Kona Stage 46,-1.376573,36.676614,bus_stop
+osm:5636724234,Kwa Chief,-1.271531,36.918848,bus_station
+osm:5221207081,Kwa Chief Stage,-1.282801,36.959959,platform
+osm:7942847238,Kwa Chief Stage,-1.262459,36.865713,bus_stop
+osm:12886532072,Kwa Chiefs Stage,-1.287012,36.951385,bus_stop
+osm:5636724258,Kwa D.O,-1.274677,36.910531,station
+osm:6249063867,Kwa DO,-1.219464,36.903590,platform
+osm:6249063868,Kwa DO,-1.219433,36.903813,platform
+osm:10832093287,Kwa Jeki,-1.194574,36.779445,platform
+osm:1717357041,Kwa Kairu Stage,-1.142084,36.967095,bus_station
+osm:10844057364,Kwa Kanisa ACK/National Oil,-1.193291,36.777536,platform
+osm:5961039485,Kwa maji,-1.270872,36.899794,platform
+osm:4189401438,Kwa Mbao Stage,-1.261807,36.883930,bus_stop
+osm:12121997045,Kwa Mosque,-1.240630,36.894714,platform
+osm:8168780225,Kwa Ndege Matatu Stage,-1.305296,36.902159,platform
+osm:3519412634,Kwa Nicholas Bus Stop1,-1.411750,36.687901,bus_stop
+osm:10844057347,Kwa Njoki,-1.194099,36.778615,platform
+osm:10844057365,Kwa Njoki Kamili,-1.184899,36.764492,platform
+osm:10832126022,Kwa Njoki/Ack Thimbigwa,-1.183893,36.763636,platform
+osm:10832126029,Kwa Shule/Seth Home Of Love Children's Home/Muchatha Dispensary,-1.189676,36.773216,platform
+osm:12075947829,Kwa Ziki Stairs,-1.232654,36.712237,bus_stop
+osm:6063333834,Kwambira,-1.108750,36.632675,platform
+osm:5552492025,Latema Sacco;Nawas Hotel,-1.281991,36.825262,bus_station
+osm:8050437487,Legomaria,-1.279673,36.756972,bus_station
+osm:5356726933,Lenana,-1.308095,36.733171,platform
+osm:1019412575,Lenana Halt,-1.302650,36.730110,station
+osm:10844057372,Life Sanctuary Church/Muchatha Shopping Centre,-1.191450,36.775071,platform
+osm:10832126027,Life Sanctuary/Muchatha,-1.191495,36.775223,platform
+osm:10832126028,Likoni,-1.179145,36.760945,platform
+osm:10844057373,Likoni,-1.178733,36.760654,platform
+osm:1627178986,Limuru Train Station,-1.115088,36.642791,station
+osm:10844057334,Little Servant,-1.186605,36.768223,platform
+osm:12075947834,Liz Gate Apartments,-1.238265,36.723835,bus_stop
+osm:1719355502,Lopha Travels,-1.282815,36.825000,bus_station
+osm:5178217728,Lopha Travels,-1.282137,36.825429,bus_station
+osm:5552396284,Lopha Travels,-1.281973,36.823679,bus_station
+osm:12075947856,Loresho,-1.247454,36.778922,bus_stop
+osm:6274284761,makongeni,-1.277407,37.025833,platform
+osm:5552396283,Manchester Travellers,-1.282577,36.823946,bus_station
+osm:10832126026,Mary Immaculate Catholic Church/Muchatha Shopping Centre,-1.190686,36.774242,platform
+osm:4421833594,Mash Bus services,-1.319044,36.836591,bus_stop
+osm:4740212721,Masimba,-1.278115,36.908061,bus_stop
+osm:6218304916,Matasia,-1.390897,36.681809,bus_station
+osm:2050452292,Matathia,-0.976563,36.620913,station
+osm:7942847237,Matatu,-1.265510,36.857382,bus_stop
+osm:8050437498,Matatu,-1.289265,36.752800,bus_station
+osm:7942847249,Mathare Bus Stop,-1.268015,36.842933,platform
+osm:7942847239,Mau Mau,-1.260080,36.864688,bus_stop
+osm:2990724430,Maua,-1.059045,37.141522,bus_stop
+osm:8050414668,Mayas,-1.286650,36.742211,bus_station
+osm:8050414666,Mayas Stage,-1.285670,36.741201,bus_station
+osm:7645366486,Maziwa,-1.193708,36.904786,bus_stop
+osm:1417861360,Maziwa bus stop,-1.323014,36.885306,bus_stop
+osm:7942847240,Mega Church,-1.265488,36.843983,platform
+osm:7645366389,Membley bus stop,-1.159303,36.923053,platform
+osm:12603738815,Membley/ Gitambaya,-1.157601,36.955307,station
+osm:5534129324,Mihango stage,-1.265300,36.923200,bus_station
+osm:5940324789,Minibuses for Naivasha,-1.284049,36.829676,platform
+osm:11301678570,Minibuses to Westlands,-1.282073,36.825408,platform
+osm:12901749586,Mitubiri,-0.995734,37.136199,station
+osm:7942847242,Mkokoteni,-1.266703,36.846038,bus_stop
+osm:8050437506,Mkokoteni,-1.288910,36.750198,bus_station
+osm:7942847251,Mkokoteni Stage,-1.267185,36.843693,platform
+osm:10832093290,Mkulima supermarket,-1.175079,36.759251,platform
+osm:10844057368,Mkulima Supermarket/Banana,-1.175287,36.759291,platform
+osm:7942847235,Mlango Kubwa Stage,-1.267695,36.843338,platform
+osm:7942847246,Mlango Kubwa Stage,-1.267323,36.843678,platform
+osm:7942847250,Mlango Kubwa Stage,-1.266793,36.843645,platform
+osm:7174109429,Mlango Soko,-1.235576,36.673249,platform
+osm:12565684133,Mlolongo,-1.399049,36.934514,station
+osm:4406623089,Modern Coast Booking Nairobi Cross Lane,-1.281783,36.827900,bus_station
+osm:5832891486,Modern Coast Booking Office,-1.281325,36.823794,bus_station
+osm:7942847241,Moffa Stage,-1.263210,36.854825,bus_stop
+osm:7942847253,Moffa Stage,-1.263052,36.854905,bus_stop
+osm:13143015821,Molo,-1.187314,36.769788,platform
+osm:5950738186,Mololine shuttle,-1.282019,36.825761,bus_station
+osm:10832126025,Mombasa,-1.177881,36.760284,platform
+osm:10673606285,Mosque,-1.302682,36.802626,platform
+osm:7174126757,Mountain View,-1.264297,36.738272,platform
+osm:7174126758,Mountain View,-1.264726,36.737721,platform
+osm:10832126021,Movers,-1.210059,36.789171,platform
+osm:10832126024,Movers/Rosslyn Centre,-1.210948,36.790209,platform
+osm:8050437486,Msalaba,-1.287575,36.748675,bus_station
+osm:8050437507,Msalaba Bus Stage,-1.287472,36.748727,bus_station
+osm:5552396281,MSL Operators,-1.282915,36.824143,bus_station
+osm:8050414669,Mtimoja,-1.283846,36.752963,bus_stop
+osm:10844057371,Muchatha Shopping Centre,-1.192055,36.775879,platform
+osm:1624301487,Muguga,-1.178713,36.648939,station
+osm:5352828547,Mugumoini,-1.209259,36.799736,bus_stop
+osm:2978942857,Munyu Bus Station,-1.038262,37.080204,bus_station
+osm:8050414670,Muslim Stage,-1.280088,36.743992,bus_station
+osm:5106128386,Muthaiga Bus Stop,-1.258853,36.842691,bus_stop
+osm:5106128387,Muthaiga Bus Stop,-1.259146,36.842357,bus_stop
+osm:10844057348,Muthaiga Mini Market,-1.250151,36.820749,platform
+osm:10832093301,Muthaiga Shopping Centre,-1.250537,36.819842,platform
+osm:7174109434,Muthiga,-1.249538,36.684582,platform
+osm:7174109445,Muthiga,-1.249630,36.684209,platform
+osm:12848638695,Mutuini,-1.296382,36.706409,station
+osm:13319259801,Mwihoko 160,-1.201771,36.960781,bus_stop
+osm:6249434335,Mwiki,-1.235081,36.937091,station
+osm:1728904152,N (Posta / Technical),-1.263747,36.729063,platform
+osm:1728904180,N (Posta),-1.263337,36.729498,platform
+osm:1728904157,N (Sokoni),-1.264077,36.730227,platform
+osm:10772600705,Naeka Sacco Bus to Oloitoktok 800ksh 2023,-1.284731,36.830608,bus_station
+osm:13375561501,Nairobi,-1.274501,36.811203,bus_station
+osm:13596656751,Nairobi Terminus,-1.355360,36.898072,station
+osm:5234651121,Naivasha bus stop,-1.284785,36.830764,platform
+osm:6210275899,Namanga Junction,-1.435656,36.972613,bus_station
+osm:5178217727,Narokline,-1.282369,36.830985,bus_station
+osm:10832126023,National Oil/Muchatha,-1.193428,36.777892,platform
+osm:7848968285,Nawasuku,-1.282525,36.824357,platform
+osm:7881075185,Nawasuku,-1.282587,36.824419,platform
+osm:5558893721,Ndemi bus stop,-1.300122,36.777367,platform
+osm:12075947833,Ndongoro,-1.229827,36.709870,bus_stop
+osm:895455531,Ndumbuini,-1.256589,36.724019,platform
+osm:2473361317,Ngara,-1.274246,36.823729,platform
+osm:7643249986,Ngomongo,-1.202348,36.890645,bus_stop
+osm:5525515329,Ngumba Bus Terminal,-1.233751,36.884409,bus_station
+osm:612007093,Ngummo Bus Stop,-1.310830,36.799816,platform
+osm:292003327,Ngumo Stage,-1.310638,36.799672,platform
+osm:12075947826,Ngurukuri/Kwa Ziki,-1.231887,36.711582,bus_stop
+osm:8757390817,Njomoko,-1.043693,37.060541,bus_stop
+osm:7942847248,No 10,-1.263775,36.861083,bus_stop
+osm:2875606116,North Rift Shuttle,-1.288128,36.828721,platform
+osm:5636724259,Nyando,-1.277339,36.915855,bus_station
+osm:10832126009,Oilibya/2nd Parklands Avenue,-1.264200,36.824691,platform
+osm:10844057342,OiLibya/2nd Parklands Avenue,-1.264690,36.824320,platform
+osm:3519412635,Oloosurutia Bus Stop,-1.411356,36.687890,bus_stop
+osm:4967709407,Olympic Stage,-1.311645,36.777996,bus_stop
+osm:4210565064,Pathway Stage,-1.304676,36.745409,bus_stop
+osm:12075947841,Pefa King'eero,-1.224108,36.707355,bus_stop
+osm:10832126020,Pefa/All Nations/Muchatha,-1.197161,36.782918,platform
+osm:12075947837,Peponi Road,-1.259390,36.801950,bus_stop
+osm:5961251086,Pioneer academy junction,-1.270244,36.899025,bus_stop
+osm:4512673877,Prestige Plaza,-1.299730,36.787241,bus_stop
+osm:5654059640,Prestige Shuttle,-1.282762,36.825589,bus_station
+osm:8050437488,Prime,-1.276463,36.759264,bus_station
+osm:4210570909,Racecourse Bus Stage,-1.305766,36.742133,platform
+osm:8050414667,Raila Estate,-1.281030,36.740878,bus_station
+osm:541352243,Railway Stage,-1.291403,36.828650,platform
+osm:10844057366,Redeemed/Pefa Muchatha,-1.197245,36.782859,platform
+osm:10832126016,Redhill Road Junction,-1.233980,36.803390,platform
+osm:10844057339,Redhill Road/Polish Embassy,-1.234483,36.803665,platform
+osm:1831879048,Riruta,-1.292834,36.737417,bus_stop
+osm:8050414664,Riruta Stage,-1.286687,36.752557,bus_station
+osm:8050414665,Riruta Stage,-1.285913,36.739590,bus_station
+osm:2556112945,Riverside Shuttle,-1.280921,36.818915,platform
+osm:5555074078,ROG SACCO,-1.286740,36.827167,bus_station
+osm:10832126015,Rosslyn Road/Karura Community Chapel,-1.216449,36.799275,platform
+osm:10844057360,Rosslyn Road/Riviera,-1.217251,36.800423,platform
+osm:10832093297,Rosslyn Total,-1.210491,36.789599,platform
+osm:10844057351,Rosslyn Valley,-1.223201,36.802579,platform
+osm:9800929010,Rounda,-1.324395,36.899441,platform
+osm:2324284695,Route 44/45,-1.227797,36.881578,bus_station
+osm:2324284696,Route 44/45,-1.243508,36.867789,platform
+osm:2306253587,ROUTE 46,-1.255416,36.878471,bus_station
+osm:13009141047,Royal swift Sacco,-1.284270,36.826301,bus_station
+osm:1719330033,Roysambu,-1.218227,36.892560,platform
+osm:1719330053,Roysambu,-1.218570,36.892742,platform
+osm:3289328866,Roysambu,-1.217985,36.890931,platform
+osm:6249063018,Roysambu,-1.220427,36.891057,platform
+osm:5743474195,Roysambu-Town stage,-1.217561,36.891493,platform
+osm:5331583695,Rt 107 Bus Stop,-1.194618,36.730884,bus_stop
+osm:5886553696,Ruai,-1.271334,36.997139,bus_stop
+osm:10844057353,Ruaka,-1.207580,36.786271,platform
+osm:10832126019,Ruaka/Banana Junction/Tuskys Supermarket,-1.207158,36.785993,platform
+osm:1645631466,Ruiru,-1.150303,36.960527,station
+osm:12886303155,Ruiru stage,-1.147137,36.959355,bus_station
+osm:10832126018,Runda Estate Entrance,-1.218730,36.801770,platform
+osm:10844057363,Runda Estate Entrance,-1.218600,36.801680,platform
+osm:10832126017,Runda/Karura Carwash,-1.220910,36.801440,platform
+osm:7174109431,Rungiri,-1.242993,36.677341,platform
+osm:7174109443,Rungiri,-1.242904,36.676971,platform
+osm:12075947820,Rungiri,-1.231160,36.711048,bus_stop
+osm:5636724236,Sabasaba,-1.273000,36.918141,bus_station
+osm:10832126014,Sacred Heart,-1.186278,36.767456,platform
+osm:7174143607,Safaricom/Saf,-1.259802,36.786112,platform
+osm:7174143608,Safaricom/Saf,-1.259708,36.788454,platform
+osm:8050437489,Salim,-1.276517,36.759313,bus_station
+osm:8050437491,Salim rd,-1.281414,36.754183,bus_station
+osm:3519605677,Santack stage,-1.302786,36.750565,bus_stop
+osm:13081656251,Santos Stage,-1.266819,36.949577,platform
+osm:7068668931,Satellite,-1.298582,36.745381,station
+osm:7174143603,School,-1.260413,36.771037,platform
+osm:7174143604,School,-1.259677,36.770911,platform
+osm:6063345642,SENIOURS STAGE,-1.260171,36.890599,platform
+osm:10844057359,Shakers/Rosslyn Gate,-1.211150,36.790240,platform
+osm:10832126008,Shell Banana Bus stop,-1.175814,36.759507,platform
+osm:4548730892,Simba Booking Office,-1.283302,36.828617,bus_station
+osm:5886553887,Sir Henry,-1.279871,37.050275,bus_stop
+osm:7174126759,Sodom,-1.263991,36.751098,platform
+osm:7174126760,Sodom,-1.264336,36.753092,platform
+osm:8050414672,Soko Mjinga,-1.282955,36.747142,bus_station
+osm:5552396287,Sony Classic,-1.283721,36.825351,bus_station
+osm:5636724257,Soweto,-1.281470,36.914816,station
+osm:8050414675,St Francis,-1.287123,36.753375,bus_stop
+osm:5743474196,Stage,-1.213037,36.893115,platform
+osm:8050437494,Stage,-1.275607,36.756787,bus_station
+osm:8050414676,Stage 2,-1.282327,36.752333,bus_stop
+osm:8050437490,Stage 2,-1.276434,36.759317,bus_station
+osm:1038219189,Stage 24,-1.250527,36.874027,bus_station
+osm:1038219160,Stage 29/30,-1.252330,36.867132,bus_station
+osm:1038219188,Stage 30,-1.254811,36.866717,bus_station
+osm:8050414663,Stage Two,-1.284965,36.754433,bus_station
+osm:12886264366,Stage ya Soko,-1.197232,36.902002,bus_stop
+osm:5552492026,Star Bus Sacco,-1.282117,36.825310,bus_station
+osm:4740212823,Step 1,-1.264978,36.916660,bus_stop
+osm:10832093294,Stima Plaza,-1.272612,36.821001,platform
+osm:10832093299,Stima Plaza,-1.269994,36.820604,platform
+osm:10844057357,Stima Plaza,-1.270430,36.820480,platform
+osm:10844057336,Stima Plaza Stage,-1.269600,36.820400,platform
+osm:5552396296,Supermetro,-1.284091,36.825342,bus_station
+osm:5552396297,Supermetro,-1.284256,36.825237,bus_station
+osm:5820858254,Tahmeed Booking Office,-1.282179,36.827083,bus_station
+osm:9800929009,Taj Mall,-1.323670,36.899162,bus_station
+osm:4934449671,Tangaza University,-1.348635,36.748664,bus_stop
+osm:3519605679,Tankard,-1.300696,36.756670,bus_stop
+osm:8168764988,Tassia Matatu Stage,-1.310208,36.891637,platform
+osm:3294734492,The Guardian Angel,-1.289709,36.829327,platform
+osm:3519591080,The Lower Shell Stage,-1.322595,36.706682,platform
+osm:2912829683,Thika,-1.050571,37.090528,station
+osm:12848641901,Thogoto,-1.266389,36.677167,station
+osm:12121997046,Tiba Stage,-1.241248,36.894136,platform
+osm:10844057350,Total City Park,-1.259304,36.826738,platform
+osm:10832126013,Total/City Park,-1.259430,36.826730,platform
+osm:10832126012,Total/Muchatha,-1.193078,36.777371,platform
+osm:3662343952,towards Nairobi,-1.106818,37.016104,bus_stop
+osm:10832093291,Traveller's View Muchatha,-1.188491,36.771639,platform
+osm:5552396278,Tripple (S) Services Kiambu/Kirigiti,-1.283605,36.825217,bus_station
+osm:6249063017,TRM,-1.220252,36.891427,platform
+osm:12075903086,Trufi Stop,-1.281726,36.822661,platform
+osm:4740212821,Tushauriane,-1.266515,36.916058,bus_stop
+osm:10832093296,Two Rivers Bus station,-1.214472,36.794860,platform
+osm:3519591074,Umoja Bus Station,-1.331217,36.676354,bus_stop
+osm:12133955373,Umoja/ Mutindwa,-1.286120,36.883876,station
+osm:10844057333,UN/Gigiri/KTTC,-1.238598,36.810546,platform
+osm:10832093289,UN/KTTC,-1.237755,36.809667,platform
+osm:5552396277,Unified Poa,-1.283279,36.824557,bus_station
+osm:13924437742,Uplands (Lari),-1.038901,36.643372,station
+osm:1728836702,Uthiru,-1.263137,36.718897,bus_stop
+osm:7174126755,Uthiru,-1.260748,36.717442,platform
+osm:7174126756,Uthiru Bus Stop,-1.260218,36.717945,platform
+osm:1763884021,Valley Arcade Bus Stop,-1.289940,36.770342,bus_stop
+osm:10832126011,Velvet Lounge/Kigwaru,-1.202782,36.785553,platform
+osm:10832126010,Victory Inn,-1.181698,36.762412,platform
+osm:6057123537,Village Market,-1.229727,36.803979,platform
+osm:10832093288,Village Market,-1.229770,36.804187,platform
+osm:4191435748,Wa Mwaris,-1.261090,36.887760,bus_stop
+osm:616095890,Waithaka,-1.279636,36.712223,bus_stop
+osm:10844057355,Wambugu Road Bus stop,-1.267990,36.821270,platform
+osm:5219991421,Wangige Bus Stop,-1.218861,36.712233,bus_stop
+osm:12075947862,Wangige Stage,-1.219173,36.712334,bus_stop
+osm:5333214406,Waruku/Deloitte,-1.262656,36.764241,bus_stop
+osm:7174126761,Waruku/Deloitte,-1.263211,36.764151,platform
+osm:5886556985,Welkim,-1.268389,36.992301,bus_stop
+osm:2706662296,Westlands Bus Stop,-1.265357,36.803034,platform
+osm:7174143609,Westlands Bus Stop,-1.265399,36.802209,platform
+osm:5552492023,Westlands/Graffins,-1.281665,36.822444,bus_station
+osm:5440156983,Westlands/Ngara/Town Stage,-1.261496,36.803609,bus_station
+osm:7174109432,White House/Regen,-1.247249,36.681357,platform
+osm:7174109444,White House/Regen,-1.245694,36.679395,platform
+osm:6207691322,Witethie,-1.067813,37.050386,bus_station
+osm:4011204430,Zambezi - Nairobi Bus Stage,-1.213638,36.660963,bus_stop
+osm:4011199339,Zambezi - Nakuru Bus Stage,-1.213179,36.660169,bus_stop
+osm:3519591027,Zambia,-1.354154,36.657842,bus_stop
+osm:3519591046,Zambia,-1.349662,36.660181,bus_stop
+osm:3151635001,Zimmerman Stage,-1.208939,36.893816,bus_stop
+osm:5552492024,Zuri Genesis,-1.282970,36.823676,bus_station

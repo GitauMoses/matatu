@@ -1,0 +1,1259 @@
+stage_id,name,lat,lon,corridor,routes,aliases,nearby_osm_name
+0211KMJ,19/60 Stage,-1.285344,36.832273,kiambu_road thika_road,43 100 120 121 17B 32D 1960 1961K,Githunguri Terminal | Ladhes Road/Otc,Naivasha bus stop
+0212LUT,25A Terminal,-1.282705,36.824584,thika_road,25 30 49 105 107 11A 11C 11F 25A 44G 44Z 48A 48B 48C 48O 23KG,Main Stage | Odeon | Odeon Terminal | Odeon Terminals | Odeon Terminus,Githurai Zimmerman
+0201MGN,2Nd Miguini,-1.218296,36.873967,,53,,
+0401SIX,36 Stage,-1.262577,36.886961,,36 23KS,Junction 36 Stage | Kariobangi South Estate/Deliverance Church,Its Here
+0501S39,39,-1.438724,36.978432,,110ATH,,Namanga Junction
+07113AV,3Rd Avenue,-1.294957,36.810238,,2 8 24 4W 7C 102 111 24C 32A 33NG,3Rd Ngong Avenue,KCB/Equity
+0110TPA,3Rd Parklands Avenue/ Aga Kan Hospital Junction,-1.263250,36.824980,,106 107 116 11A 11F 114R,Aga Khan Hospital Junction | Aga Khan Hospital Stage 2,3rd Parklands Avenue/Aga Kan Hospital Junction
+0311FTY,41 Stage,-1.251773,36.903160,,36 41 42 32D,,
+0701N44,44,-1.372973,36.671897,,126N,,Kona Stage 46
+0200STR,5 Star Estate,-1.189810,36.839590,kiambu_road,100 120 121 100A,,
+0400FSX,56,-1.264858,36.886968,,23KS,Friends Inn,Its Here
+0111RHK,6Th Parklands Avenue/Regal House/Kobil,-1.257770,36.826910,,106 107 116 11F 114R,,6th Parklands Avenue/Regal House/Kobil
+0511SUP,7Up,-1.307380,36.814910,,14A,,KCB/Equity
+0810EGT,87,-1.257979,36.701583,,103 105 115 135 114W,87/Gachecheni | 87/Total | Kinoo,87
+0710BBT,88Mph/Brew Bistro,-1.299571,36.765120,,2 24 4W 102 111,,Kibera
+0511ADP,A.P,-1.284949,36.956518,,33H 33J 33UTW,,AP
+0801SAF,Aacc/Safaricom/Church Road,-1.259820,36.786870,,30 105 115 135 48K 114W 23KG,Westlands Dc,Safaricom/Saf
+0700ABB,Abba Photo Studio/Kaberia,-1.290783,36.732013,,4W,St. John Othordox Church,Kabiria Kwa maji
+0800BAC,ABC,-1.259562,36.775694,,30 105 115 135 48K 114W 23KG,Abc | Abc Place Entrance | James Gichuru Junction | Kari/James Gichuru,James Gichuru/Agriculture
+0811ABC,Abc Place Stage,-1.258970,36.778600,,30 105 115 135 48K 114W 23KG,Apdk | Kabete Barracks,ABC
+0501ACA,Acacia,-1.398809,36.725319,,126 126RK,,
+0701ACC,Acacia Junction/King'Eero,-1.224886,36.705526,,103 118 129,Acacia Petrol Station Junction/King'Eero | Accacia Junction(Kingeero -Mwisho) | Kigeero-Mwisho,King'eero/Mwisho
+0511TOL,Acacia/Total,-1.355979,36.762093,,125 126,Park Place,
+0800ACA,Acacia/Wangige,-1.220700,36.715220,,119,,Wangige Stage
+0401ACC,Acc&S Kariobangi South Church,-1.266482,36.885569,,36,Pcea,Kariobangi South
+0801AGM,Ack Assemblies Of God Mwimuto,-1.234330,36.745640,,119,Kanini | Mwimuto,Kirawa Close
+0811AKK,Ack Kibichiku,-1.223400,36.722180,,119,Wangige Health Centre,
+0800ACH,Ack Kibichiku,-1.230440,36.734040,,119,,
+0701ACI,Ack St. Phillips,-1.229171,36.691852,,103 129,,
+0800ACB,"Ack, Bidii Premier School",-1.222780,36.720540,,119,Wangige Health Centre,Wangige Stage
+0800COS,Acorn House/Ipsos Synovate,-1.283087,36.765798,,48K,Ipsos Synovate/Acorn House,Valley Arcade Bus Stop
+0710ADC,Adams Arcade,-1.300006,36.780041,,2 5 24 4W 102 111 24C,,Adams
+0500AAL,Adopt Alight,-1.333549,36.889946,,110 110ATH,,Cabanas Bus Stop
+0501ADV,Adventist University,-1.401103,36.722692,,126 126RK,Barabara Mpya,
+0801AFL,Afralti,-1.263660,36.761300,,30 105 115 135 114W 23KG,,Kianda Stage
+0501AGC,Africa Gospel Church,-1.340190,36.748270,,24BK,Mosque,Tangaza University
+0701AIU,Africa International University,-1.301827,36.689733,,1,,
+0500ACC,African Conservatories Centre/Fa,-1.338660,36.738030,,24BK,Fair Acres Road,
+0200AFY,Afya Health,-1.199847,36.900519,thika_road,44G 44K 44Z,Car Wash | Leesta Supermarket | Main Stage,Githurai 44 Stage
+0101AGA,Aga Khan Academy,-1.266280,36.823310,,106 107 116 11A 11F 114R,,Aga Khan Academy
+0811AGA,Aga Khan High School,-1.259340,36.782810,,30 105 115 135 48K 114W 23KG,,Safaricom/Saf
+0101AKE,Aga Khan Hospital Entrance,-1.261780,36.822240,,11A,Aga Khan Hospital Stage,3rd Parklands Avenue/Aga Kan Hospital Junction
+0111AKS,Aga Khan Hospital Stage,-1.262370,36.823690,,11A,,3rd Parklands Avenue/Aga Kan Hospital Junction
+0201AGH,Agha Khan Hospital,-1.268924,36.809952,,23W,,Chiromo Bus Stage
+0510AGP,Agip,-1.291151,36.823288,,2 8 11 15 16 24 4W 56 102 110 111 125 126 14A 14B 24C 11_2 33NG 33IMR 33MKR 110ATH,,Railway Stage
+0311AGP,Agip,-1.263902,36.860826,,14 28 41 18C 32D 46B 46H 16/62 17Aky,N 10,No 10
+0500AGB,Agribusiness Centre,-1.365584,36.735952,,24C,,
+0801ATI,Ahiti,-1.263740,36.725040,,30,,N (Posta / Technical)
+0310ACC,AIC,-1.256659,36.897995,,36 41 42 18C 32D 3738 16/62,Aic Church,SENIOURS STAGE
+0201AIS,Aic Lucky Summer,-1.240432,36.895398,thika_road,25A,House Of Faith Ministry | Mosque | Mosque Syd Ya Juu,Kwa Mosque
+0700AIC,Aic Riruta,-1.283999,36.735204,,2 102,,Riruta Stage
+0301AIZ,Aic Ziwani,-1.279600,36.837297,,3N,Ziwani,Narokline
+0201AIP,Aipcea,-1.119750,36.819057,kiambu_road,120,,
+0410APT,Airport  Town Stage,-1.332423,36.926603,,34J,Passenger Drop Off,
+0501APJ,Airport Junction,-1.344124,36.902578,,110 110ATH,,Airport Junction
+0500APJ,Airport Junction,-1.346604,36.902371,,110 110ATH,,Airport Junction
+0501APV,Airportview Estate,-1.313913,36.812483,,16 24C 34L 33SB,Total/Strathmore,
+0510ATL,Airtel,-1.325894,36.848591,,110 33B 33IMR 33MKR 33UTW 110ATH,,Dreamline Bus services
+0501AKL,Akila/Akila Police Post,-1.322649,36.830285,,12C 12D,,Mash Bus services
+0500AME,Al-Mukaram Estate,-1.326178,36.831067,,12D,,
+0301ALB,Albadr,-1.266168,36.849023,,14 18C 32D 46B 46H 16/62 17Aky,,Mkokoteni
+0700AMD,All Mart Dagoretti Market,-1.285458,36.687271,,2,Dagoretti Market Mwisho | Kanisani/Pcea,Dagoretti Market
+0210ALS,All Sops,-1.245918,36.866681,thika_road,43 49 145 17B 237 25A 44G 44Z 45G 45K 29/30,Allsops,Route 44/45
+0701AHS,Alliance High School,-1.262897,36.669800,,102,,Thogoto
+0711ASS,Alliance High School Stage,-1.261021,36.668262,,102,,
+0511ALP,Allpack,-1.382828,36.931458,,110 110ATH,,
+0501ALP,Allpack,-1.384911,36.933262,,110 110ATH,Allpack /Orbit,
+0201ALP,Alsops,-1.245356,36.867652,thika_road,42 25A 2030,Terminal,Route 44/45
+0501AMN,Amani,-1.280458,36.964564,,33H 33J 33UTW,,Amani bus stage
+0101ALM,Amani Plaza/Almond Court,-1.259620,36.817170,,11A,Coca Cola Depot,Agha khan hospital junction/ 3rd parklands ave
+0512AMU,Ambassadeur,-1.285315,36.825615,,5 24 58 7C 24C 32A 34B 34J 46K 46Y 23KS 19Cjk 33UTW,Kencom,Ambassador Bus Stage
+0100ASD,Ambassadors,-1.197940,36.755370,,107 114R,Ambassadors Entrance | Ambassadors Stage,
+0600AMB,Amboseli,-1.289586,36.760559,,56 46K 48K,James Gichuru/Gitanga Road Junction,Congo Stage
+0501AMB,Amboseli Estate,-1.327511,36.839018,,12D,,Dreamline Bus services
+0501AMR,Amref,-1.319163,36.810873,,15 24 125 126 24C 34L,,
+0801APH,Aphrc,-1.229591,36.760284,,119A,,
+0402AQN,Aquinas,-1.292919,36.862590,,10 26 26S,Maringo Phase1,
+0810ARB,Arboretum,-1.273436,36.800785,,48B 48C 48O,Shell/Arboretum,Chiromo Bus Stage
+0810ARM,Arimis,-1.148981,36.637970,,115 135 114W,,
+0510ARK,Ark Junction,-1.309252,36.833673,,11 11_2,Makueni,
+0101ARY,Arya Girls' Secondary School,-1.260850,36.820070,,11A,,Agha khan hospital junction/ 3rd parklands ave
+0501ATH,Athi House,-1.327344,36.837894,,12D,Friends Court,Dreamline Bus services
+0400AP1,Avenue Park 1,-1.313665,36.893571,,33C 34J 33DC 33DP 33TP 33FED 33GTB,Fedha | Fedha Junction,Fedha Matatu Stage
+0400AP2,Avenue Park 2,-1.311383,36.892134,,33C 34J 33DC 33DP 33TP 33FED 33GTB,Meatland,Tassia Matatu Stage
+0510AVT,Aviation,-1.319394,36.907426,,33H 33J 33UTW,,Aviation
+0713AYN,Ayani,-1.307925,36.772739,,32A,,Kibera Ayany Bus Stop
+0200BDJ,Baba Dogo Junction,-1.247161,36.874858,thika_road,25 42 25A 2030,Corner,adapt alight
+0210BBD,Baba Ndogo,-1.244305,36.887506,thika_road,25 25A,Baba Ndogo Primary | Baba Ndogo Terminal | Terminal,Kemrif
+0200BBC,Baba Ndogo Catho,-1.244056,36.884075,thika_road,25 25A,Babandogo Catho,adapt alight
+0700BTG,Back To Glory School/Sainty,-1.294784,36.738820,,4W,Sainty | Satellite Stage,Riruta
+0400BHC,Bahati Clinic,-1.290332,36.858991,,23KS,Morisson Primary School | Ngorofani Pcea Bahati,Church army
+0401BPS,Bahati Primary School Kag Bahati,-1.288722,36.862330,,26S 23KS,Bahati Stage | Kag Bahati | Kimathi/Section 3 Junction,
+0200BLN,Balkan Sec School,-1.212420,36.833920,kiambu_road,100 120 121 100A,,
+0501BAL,Balozi,-1.318073,36.846677,,11 11_2,JCC Church | Our Lady Secondary,Dreamline Bus services
+0500BLZ,Balozi,-1.319938,36.848003,,11_2,,Dreamline Bus services
+0113BAA,Banana Terminus,-1.173830,36.758605,,106 116,Kobil/Banana,Banana Terminus
+0501BDS,Banda School,-1.365629,36.766651,,125 126,,
+0501BAN,Bandari,-1.304526,36.832493,,11 11_2,,
+0500BPS,Baptist,-1.395690,36.735542,,126 126RK,Laiser Hill,
+0501BRK,Baracks,-1.311577,36.925461,,33H 33J 33UTW,,75
+0501BRE,Baraka Estate,-1.298156,36.912689,,33B,,
+0500BAR,Barclays,-1.397279,36.759171,,125 126,Tyme Arcade/Ongata Mall,
+0403NYO,Baricho Road Terminus,-1.304110,36.827750,,405,,
+0511BRK,Barracks,-1.331919,36.783540,,15 24 125 126 24C 34L,Lang'Ata Barracks,
+0510BRK,Barracks,-1.313313,36.923192,,33B 33H 33J 33FED 33UTW,Nyayo Barracks | Roundabout Jeshi,75
+0501BAR,Barracks,-1.329545,36.782486,,15 34L,Maboko Road,
+0201BRA,Barua,-1.193330,36.839910,kiambu_road,100 120 121 100A,,
+0201BAS,Base,-1.206747,36.894434,thika_road,44G 44K 44Z,,Canopy stage
+0211BAS,Base,-1.203041,36.896759,thika_road,44G 44K 44Z,Catholic Church,Canopy-Town Stage
+0301BAS,Base,-1.261639,36.871653,,14 28 41 18C 32D 46B 46H 16/62 17Aky,Flats,Kwa Chief Stage
+0300BAS,Base,-1.262131,36.867370,,14 28 41 18C 32D 46B 46H 16/62 17Aky,Kwa Chief,Kwa Chief Stage
+0410BAT,Bat,-1.305330,36.856105,,70/71,Kie,
+0500GCT,Beacons Inn/Giraffe Centre,-1.366791,36.743641,,24 24C,Hardy Shopping Centre/Beacons In,
+0401BEN,Bee Centre,-1.282750,36.902849,,20 17A 1960 17Aky 1961K 19Cdc 19Cjk 1961Kd,Bee Centre/Roundabt,Masimba
+0111BEK,Belgian Embassy/Karura,-1.247010,36.815600,,106 107 116 11F 114R,,Belgian Embassy/Karura
+0810BEL,Bell,-1.167929,36.641045,,115 135 114W,Ha Joram,
+0511BLV,Belleview,-1.319354,36.838339,,110 12C 12D 33B 33TP 33FED 33IMR 33MKR 33UTW 110ATH,Oilibya/Nema,Mash Bus services
+0511BND,Benedicta,-1.278746,36.967980,,33H 33J 33UTW,Utawala Junction,Benedicta Bus Stage
+0201BHC,Beta Health Care,-1.059903,36.782865,kiambu_road,120,,Githunguri Matatu Stage
+0701BMK,Beth Mugo High School Kaberia,-1.283395,36.726863,,2 102,Beth Mugo Secondary School,Kibiria
+0311BET,Bethany,-1.250111,36.905767,,36 41 42 32D,Cinema,
+0301BHS,BH,-1.265820,36.857434,,14 28 41 18C 32D 46B 46H 16/62 17Aky,,Matatu
+0401BFR,Biafra,-1.286501,36.851676,,6E,Suncity,Church army
+0401BFA,Bifa,-1.290740,36.882550,,36 58,,Umoja/ Mutindwa
+0201BLC,Bilco,-1.243994,36.882399,thika_road,25 25A,,adapt alight
+0700BMC,Bishop Maigua Centre,-1.299050,36.796961,,2 8 24 4W 102 111 32A,,Bus Stop
+0201BLE,Bleria,-1.243924,36.880872,thika_road,25 25A,Kenafric,adapt alight
+0101BLU,Blue Kiosk,-1.154688,36.675681,,114R,Kabuku Juncion | Kiosk,
+0600STH,Blue Sky Estate,-1.312849,36.815248,,16 24C 34L 33SB,Bluesky Estate,
+0801BCM,Bluechip Apartments/Mwimuto Pefa/Tumaini Gardens,-1.233610,36.742150,,119,Mwimuto Salvation Army/Pefa/Bluechip Apartments,
+0501BMH,Boma Hotel,-1.324381,36.833850,,12D,Red Cross,Mash Bus services
+0500BMS,Bomas,-1.343352,36.766513,,24 125 126 24C 24BK,Bomas/Ongata Rongai Junction | Nakumatt Galleria,
+0501BOT,Botanical Gardens,-1.362273,36.747377,,24,,Karen Campus
+0701BPP,BP,-1.287695,36.741786,,2 3U 102 103,Bp,Kawangware
+0300BPS,Bp Filling Statioon,-1.254669,36.894599,,36 41 42 32D,,SENIOURS STAGE
+0601BRB,Braeburn,-1.289476,36.755692,,56 46K 48K,Rusinga School,Congo Stage
+0200BWD,Brentwood Hotel,-1.205090,36.832420,kiambu_road,100 120 121 100A,Kasarini | Kasarini Stage,
+0401BDG,Bridge,-1.271710,36.881350,,17A 23KS 17Aky,Pioneer Estate,Kariobangi South
+0700BRM,Britam,-1.298057,36.813424,,7C 32A,Old Mutual,KCB/Equity
+0200BRK,Brookfield,-1.232359,36.926861,thika_road,17B 17B_2,Kobil Petrol Station,
+0801BPA,Brooklyn Palm Apartments,-1.277354,36.790529,,48B 48O,Corner Primary School,
+0801BRK,Brookside,-1.260987,36.792201,,30 105 115 135 48K 114W 23KG,,Safaricom/Saf
+0800BRD,Brookside Drive,-1.255600,36.797660,,118 119,Brookside Drive Junction,Kabete Lane/Total Spring Valley/ Bypass
+0711BLB,Bulbul,-1.333908,36.673585,,111,Bulbul Deliverance Church/Kwa Bumps | Bulbul Kanisani(Catholic Church),Bul Bul Bus Stop
+0210BUL,Bull,-1.217492,36.897673,thika_road,49 17B 17B_2,Bull And Budh | Metro | Nesther,Equity
+0701BPS,Bumps,-1.295017,36.748142,,4W,Joyland,Satellite
+0401BMP,Bumps,-1.269890,36.908340,,19Cdc 19Cjk,Phase 3A,Kanisani
+0701BCA,Bumps/Pcea,-1.332217,36.675211,,111,,Umoja Bus Station
+0401BRG,Buru Buru Girls,-1.286377,36.874051,,26,Buruburu Girls,
+0410BBP,Buru Buru Police Post,-1.279672,36.878203,,36,,Umoja/ Mutindwa
+0401BPR,Buruburu 1 Primary School,-1.275435,36.877440,,26 26S 23KS,,
+0401BPF,Buruburu Phase 5 Favourites,-1.294030,36.879930,,36 58,Buruburu Phase 5 Stage | Npc Buruburu,Umoja/ Mutindwa
+0401BPH,Buruburu Phase One,-1.272791,36.877474,,26 36 26S 23KS,Phase 1 Stage | Raphael,
+0400BRB,Buruburu Roundabout,-1.277372,36.877340,,26 26S 23KS,,
+0512BST,Bus Station,-1.287281,36.828863,thika_road,11 15 16 43 12C 12D 14A 14B 17B 34B 34J 11_2 16/62 19Cjk 33MKR,Bus Station Terminal,Blue Line Shuttle
+0401BSA,Busia,-1.310628,36.848034,,69,,
+0411BPS,By Pass,-1.264119,36.983196,,33H 145B 3738 38/39,,
+0211BYP,By Pass,-1.164406,36.956953,thika_road,145 237 145B,Kihunguro,Membley/ Gitambaya
+0210BYP,By Pass,-1.167324,36.955388,thika_road,145 237,,
+0411BYP,By Pass,-1.256696,36.985723,,145B,,
+0801BYS,By-Pass,-1.235190,36.778266,,119A,,
+0800BYP,Bypass,-1.247410,36.779040,,118 119,,Loresho
+0101BKH,Bypass Stage Kiambu,-1.215448,36.835210,kiambu_road,100 120 121 100A 107D,Kwaheri Flyover,
+0513CAB,Cabanas,-1.331307,36.888246,,110 33B 33H 33J 33TP 33FED 33UTW 110ATH,Carbanas,Cabanas Bus Stop
+0400CBN,Cabanas,-1.330018,36.890475,,33C 33DC,,Cabanas Bus Stop
+0500CLX,Caltex,-1.395860,36.737801,,126 126RK,,
+0401CLX,Caltex,-1.278327,36.882877,,17A 04SK 19C2 17Aky 19Cdc 38/39,,Umoja/ Mutindwa
+0401CLT,Caltex,-1.300826,36.887514,,33C 34B 34J 33DC 33DP 33TP 1961K 19Cjk 33FED 33GTB 1961Kd,,
+0201CAL,Caltexdn,-1.268018,36.833628,,6 11C,,
+0401CLV,Calvary,-1.264600,36.916850,,17A 1960 19C2 17Aky 19Cdc 19Cjk,Step 1,Step 1
+0500CAM,Cambridge,-1.363635,36.765271,,125 126,,
+0511CPC,Capital Centre,-1.316765,36.833987,,110 12C 12D 33B 33TP 33FED 33IMR 33MKR 33UTW 110ATH,,Mash Bus services
+0411CGR,Car  & General,-1.301950,36.832430,,11 405 11_2,Car  &General | Car & General,
+0411MCW,Car Wash,-1.290170,36.893470,,1960,Manyanja Road Car Wash,
+0201CAR,Car Wash,-1.201003,36.898857,thika_road,44G 44K 44Z,Eden Supermarket | Gakena Supermarket,Githurai 44 Stage
+0501CRW,Car Wash,-1.308617,36.915672,,33B,,75
+0411CRG,Cargo,-1.336124,36.916187,,34J,,
+0510CAN,Carnivore/Rafikiz,-1.323061,36.802046,,15 24 125 126 24C 34L,Carnivore/Uchumi Hyper | Uchumi/Carnivore,
+0701CWH,Carwash,-1.350291,36.659713,,111,Zambia,Zambia
+0700CWH,Carwash,-1.352561,36.658285,,111,Coutry Club | Sportman | Venessa,Elpaso
+0401CWS,Carwash,-1.309150,36.901952,,33GTB,Gate B,Kwa Ndege Matatu Stage
+0400CST,Cathsam,-1.284590,36.893940,,35/60,Grand Supermaket | Nabuto,
+0800CCK,Cck,-1.263860,36.757800,,30 105 115 135 114W 23KG,Kianda School,Kianda Stage
+0501CEM,Cemastea,-1.353903,36.713090,,24 24C,Karen Blixen,
+0401CNK,Centy Club,-1.233479,36.990048,,145B,,
+0611CKA,Chaka Place,-1.293120,36.791316,,5 56 46K 46Y,,Bus Stop
+0100CHL,Chantilly School,-1.181032,36.762044,,106 116,Victory | Victory Inn,ACK Thibigwa
+0410CRN,Charina,-1.276920,36.887850,,17A 17Aky 35/60 3560_2,H | Umoja Junction,Kariobangi South
+0401CMT,Chemist,-1.319230,36.897193,,33C 34J 33DC 33DP 33TP 33FED,Spinners,Taj Mall
+0700CKK,Chemist/Kwa Maji/Kaberia,-1.290562,36.728944,,4W,,Kibiria
+0501CHF,Chiefs,-1.326560,36.780270,,15 34L,Kwa Chief | Stage,
+0200CHF,Chiefs Office,-1.201788,36.897735,thika_road,44G 44K 44Z,,Githurai 44 Stage
+0511CHN,China,-1.293510,36.943505,,33H 33J 33UTW,,
+0710CCT,China Centre,-1.298608,36.798992,,2 5 8 24 4W 102 111 24C 32A,Coptic /Memosa | Memosa/Coptic,KMTC Bus Stop
+0501CHN,Chini Ya Mlima,-1.302180,36.915626,,33B,,
+0811CHR,Chiromo,-1.272689,36.808988,,30 105 115 135 48A 48B 48C 48O 114W 23KG,Museum,Chiromo Bus Stage
+0801HIR,Chiromo,-1.271117,36.806804,,30 105 115 135 48A 48B 48C 48O 114W 23KG,Chiromo (Mortuary),Chiromo Bus Stage
+0801CFY,Chiromo Flyover,-1.272474,36.803714,,48A 48B 48O,Taj Apartments Stage,Chiromo Bus Stage
+0401CEX,Chloride Exide,-1.321591,36.868590,,69,,Imara Daima
+0401CHK,Chokaa,-1.250724,36.952748,,3738 38/39,,Chokaa Stage
+0100CTC,Christco,-1.196260,36.753050,,107 114R,Christco Church,
+0500CMZ,Christian Ministries In Africa,-1.360852,36.725832,,24 24C,Collingham Gardens,
+0700CRP,Christophers,-1.318646,36.715664,,24 111 24C,,Kabuagi
+0801CNG,Chunga Mali,-1.160813,36.639781,,115 135 114W,,
+0412CAR,Church Army,-1.294750,36.853260,,10 36 58 6E 33C 34B 34J 04SK 1960 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39 70/71,,Church army
+0101CAV,Church Of Acts/Velvet Lounge,-1.203525,36.785397,,106 116,Velvet Lounge,Church Of Acts/Velvet Lounge
+0810WPS,Church Road/Westlands Primary School,-1.260150,36.791200,,30 105 115 135 48K 114W 23KG,,Safaricom/Saf
+0211CID,Cid,-1.250300,36.846580,kiambu_road,100 120 121 100A,Kenya Forestry Service Station/Kfs Karura Gate,
+0500CIT,Cid Training School,-1.317071,36.829826,,12C 12D,,Mash Bus services
+0101CPK,City Park,-1.260570,36.826150,,106 107 116 11F 114R,Total/City Park,City Park
+0412CSD,City Stadium,-1.292224,36.843029,,10 36 58 33C 34B 34J 04SK 1960 23KS 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39 70/71,City Stadium Stage,
+0402CTY,City Stadium/Lusaka Road Junctn,-1.293450,36.840940,,69 405,,
+0511CIV,Civil,-1.322659,36.788846,,15 34L,Malezi School,
+0510CIV,Civil Servant Stage,-1.324073,36.785992,,15 34L,Talent Academy | Talent/Ngei,
+0501CIV,Civil Servants,-1.312130,36.819270,,14B,Miller Estate,
+0400CSV,Civil Servants,-1.269526,36.882858,,23KS,Civil Servants Southend Bar | Civil Servants Total Petrol Station,Kariobangi South
+0210CLM,Clay,-1.171357,36.948865,thika_road,145 237,Clay Works,
+0201CLY,Clay Works,-1.172752,36.945400,thika_road,145 237,,
+0600COP,Co-Op Bank,-1.287475,36.748821,,46K 48K,,Msalaba Bus Stage
+0601COA,Coast,-1.288240,36.750481,,46K 48K,,County Government
+0501COI,College Of Insurance,-1.325740,36.834027,,12D,,Mash Bus services
+0512CMC,Commercial,-1.283947,36.826437,,7 33B 33C 33TP 33FED 33GTB 33IMR,Commercial Imara | Luthuli Avenue | Town,Embassava SACCO
+0410COM,Commercial,-1.303715,36.838689,,69,Daresalam,
+0100CHE,Commission Of Higher Education,-1.227579,36.797994,,108,,Rosslyn Valley
+0611COM,Community,-1.292303,36.812936,,56 7C 32A,,KCB/Equity
+0601CNG,Congo,-1.289143,36.753033,,56 46K 48K,Kongo,Congo
+0400CNT,Connection,-1.321225,36.898180,,33C 34J 33DC 33DP 33TP 33FED,,Taj Mall
+0500CON,Consolata,-1.346721,36.765356,,125 126,,
+0811CSL,Consolata,-1.266975,36.801222,,48C,,Westlands Bus Stop
+0210CON,Consolata,-1.190834,36.897263,thika_road,44G 44K,Jacarada,Githurai 44
+0503CNA,Container/New Apostolic Church,-1.322103,36.828810,,12C 12D,Mugoya,Mash Bus services
+0800COT,Convent Drive,-1.284406,36.763979,,48K,Convent Lane,Valley Arcade Bus Stop
+0810COP,Cooperation,-1.260283,36.710522,,103 105 115 135 114W,Shell/Cooperation,Coperation/Kopa
+0100CBR,Cooperative Bank Ruaka,-1.206780,36.784640,,107 114R,Ruaka Ack Church,Ruaka/Banana Junction/Tuskys Supermarket
+0200CON,Corner,-1.243938,36.875717,thika_road,25 25A,Ruaraka Corner,adapt alight
+0701CMD,Corner/Meteorological Department,-1.299706,36.759325,,24 111 24C,Corner/Meteorological Department/Total,Tankard
+0400CTB,Country Bus,-1.286660,36.835242,,58 33C 34B 34J 04SK 1960 23KS 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60,,ENA Coach
+0401CRS,Crescent,-1.306213,36.881607,,70/71,,
+0400CWN,Crown,-1.307335,36.856425,,70/71,Viwandani,
+0400CRN,Crown,-1.314108,36.852687,,69,,
+0511CUE,Cuea,-1.352203,36.762892,,125 126,Cuea/Bogani,
+0500CUV,Cuea,-1.341490,36.757784,,24 24C 24BK,Cuea | Catholic University,
+0801CUS,Custoil,-1.263960,36.730310,,105 135 114W,Nne Market/Sokoni,N (Sokoni)
+0611DOD,D.O.D,-1.295282,36.801229,,5 56 46K 46Y,DoD,KMTC Bus Stop
+0300DSC,Dadora Sec,-1.251044,36.898828,,36 41 42 32D,,
+0500DAK,Dafam Hotel/Kenya Assemblies Of God,-1.325705,36.837034,,12D,Kenya Assemblies Of God/Dafam Hotel,Mash Bus services
+0710DCD,Dagoretti Cdf/Aps' Camp,-1.286467,36.740158,,2 3U 102 103,Precious Blood Girls' School,Riruta Stage
+0702DCS,Dagoretti Corner Stage,-1.298409,36.759430,,2 3U 4W 102 103,Kenol Dagoretti Corner,Tankard
+0703DGT,Dagoretti Market,-1.287804,36.686281,,1,,Dagoretti Market
+0701DGM,Dagoretti Market,-1.283091,36.689559,,2,,Dagoretti Market
+0711DRC,Dagoretti Rehabilitation Centre,-1.273861,36.684449,,102,,
+0501DME,Dam Estate,-1.322802,36.804624,,15 24 125 126 24C 34L,,
+0201DNK,Danamark Flats,-1.218210,36.900913,thika_road,49 17B 17B_2,,Equity
+0313DDS,Dandora Terminal,-1.245059,36.908460,,36 41 42 32D,New Jeruslaem,
+0501DAR,Dar-Es-Salaam,-1.305716,36.833025,,11 11_2,Mary Immaculate Vct Centre,
+0201DAW,Dawa Pharmacutical,-1.247043,36.873225,thika_road,25 42 25A 2030,Naivas,adapt alight
+0801DCR,Day Care/Kandara Road,-1.276964,36.785897,,48B 48O,Kandara Road/Kenya High,
+0400DSP,Dayspring,-1.263539,36.887485,,23KS,,Its Here
+0400BDC,Dc Bahati Office,-1.291113,36.857319,,23KS,,Church army
+0410DCJ,DC Jogoo Road,-1.296536,36.862100,,10 26 36 58 33C 34B 34J 04SK 1960 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39,Kotini | Makadara | Makadara/Mwisho | Uchumi Jogoo Road,
+0200DEC,Deliverance Church,-1.241361,36.894047,thika_road,25A,The Baptist Chapel | Timba Junior Academy,Tiba Stage
+0701DCR,Deliverance Church Riruta,-1.292742,36.751647,,2 3U 102 103,,Coast
+0701DCT,Deliverance Church/Dagoretti Market,-1.293618,36.683659,,1,,Dagoretti Market
+0510KAS,Deliverance Church/Kanisani,-1.323677,36.798897,,15 125 126 24C 34L,Uhuru Gardens,
+0801DEP,Deliverance Church/Petrol Station,-1.260860,36.713290,,103 105,,Coperation/Kopa
+0801DEL,Deloitte,-1.263090,36.764390,,30 105 115 135 114W 23KG,,Waruku/Deloitte
+0100DPA,Delta Petrol Station Ruaka,-1.209340,36.788470,,106 107 116 11F 114R,Delta Petrol Station/ Brook Apartmens,Delta Petrol Station/Border
+0801DPR,Dennis Pritt,-1.284874,36.787950,,48C,,
+0701DNL,Denoil,-1.269155,36.680122,,102,,Thogoto
+0502DVK,Devki,-1.444158,36.989459,,110AK 110ATH,,
+0200DMD,Diamond Flats,-1.203990,36.833010,kiambu_road,100 120 121 100A,,
+0501DPE,Diamond Park Estate,-1.319745,36.851265,,11_2,,Dreamline Bus services
+0401DSL,Diesel,-1.270568,36.919652,,20 17A 18C 1960 16/62 17Aky 1961K 1961Kd,Goa Kayole Church | Kayole Hispital/Biason Road,Kayole Hospital
+0501DSC,Discount,-1.307496,36.822293,,14A 14B 33SB,Kodi I | Nairobi West Stage,
+0801DMN,Dominion Church,-1.247590,36.681560,,103 105 115 135 114W,Regen,White House/Regen
+0500DBC,Don Bosco,-1.337240,36.727780,,24BK,Don Bosco Church,
+0701DBO,Don Bosco,-1.304255,36.692517,,1,Pepo Lane/St.Odillas,
+0501DBB,Don Bosco Boys Training Institut,-1.326854,36.711103,,24 24C,Karen Catholic Church,Karen Hardy Bus Station
+0410DNB,Donbeach,-1.305430,36.882598,,70/71,Doni Beach,
+0403DMS,Donholm,-1.300211,36.885745,,70/71,,
+0410DNR,Donholm Roundabout,-1.297260,36.885320,,33C 34B 34J 04SK 1960 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39,,
+0412DON,Doni,-1.298040,36.887080,,33C 34B 34J 1960 33DC 33DP 33TP 1961K 19Cjk 33FED 33GTB,,
+0411DLP,Dr. Livingstone Primary School,-1.287236,36.865176,,26S 23KS,,
+0211DRV,Drive In,-1.248373,36.863078,thika_road,25 43 49 145 17B 237 25A 44G 44Z 45G 45K 29/30,,Stage 29/30
+0411DTB,Dt Dobie,-1.298750,36.837810,,69 405,,
+0401DNE,Dune,-1.270022,36.994872,,3738 38/39,,Ruai
+0511MCH,Dunga Road/ Machakos,-1.299774,36.830073,,11 11_2,Machakos Road | Nairobi Water,Railway Stage
+0310DUN,Dunia,-1.255699,36.893000,,36 41 42 32D,,SENIOURS STAGE
+0400EST,East Capital,-1.275294,36.891604,,04SK 19C2 19Cdc 38/39,,Kariobangi South
+0313EST,Eastleigh Terminal,-1.272250,36.848948,,6 18C 17Aky,,Mkokoteni
+0512ESC,Easy Coach/Uchumi,-1.289218,36.828251,,2 8 56 102 110 111 110ATH,Railways,Easy Coach Booking Office Nairobi
+0800EDS,Eden Square,-1.269190,36.806400,,30 105 115 135 48C 114W 23KG,,Chiromo Bus Stage
+0800ELM,El Molo Drive/Subru Motors,-1.278324,36.770258,,48A 48K,Shell/Lavington/Subru Motors,
+0801ELW,Eldama Park/Westhouse,-1.252953,36.802685,,119A,Westhouse,Peponi Road
+0701ELM,Elim,-1.305045,36.772291,,5,,Jamhuri Estate
+0501ELD,Elshadai,-1.287591,36.979692,,33J 33UTW,,Fagilia Stage
+0500ELD,Elshadai,-1.289385,36.974660,,33J 33UTW,,Fagilia Stage
+0701ELP,Elsi Place,-1.340269,36.667122,,111,Kwa Muchina,Juanco Bus Stop
+0501EMB,Embakasi,-1.310516,36.913524,,33B 33FED,Embakasi Village | Village Police,
+0401EPA,Epren Academy,-1.295470,36.895680,,34B 1961K 19Cjk 1961Kd,,
+0511EPZ,EPZ,-1.469175,36.960858,,110 110AK,Epz,
+0401EQY,Equity,-1.258307,36.878860,,26 26S,KCB,ROUTE 46
+0401QTY,Equity,-1.309235,36.845737,,69,,
+0310EQT,Equity,-1.252438,36.897528,,36 41 42 32D,,
+0201EQT,Equity,-1.217701,36.898982,thika_road,49 17B 17B_2,Grand Point | Metro,Equity
+0300EQT,Equity,-1.278382,36.830223,kiambu_road,3N 100,New Ngara Estate | Ngara Stage | Total,Narokline
+0703EQY,Equity Ayani,-1.311096,36.775770,,8 32A,,Bombolulu Stage
+0500EQT,Equity Bank,-1.326770,36.789610,,15 34L,Oil Libya | Oilibya Petrol Station,
+0200EQY,Equity Gikomba,-1.285190,36.838020,,7,,Naivasha bus stop
+0510ETG,Eternity Gospel Church,-1.329351,36.713270,,24C,,Karen Hardy Bus Station
+0201EVR,Evergreen,-1.210600,36.833130,kiambu_road,100 120 121 100A,,
+0501EXC,Exciting,-1.395455,36.731754,,126 126RK,,
+0400EXP,Express,-1.314765,36.854370,,69,,
+0200FHA,Faith Home Academ,-1.253050,36.878651,,42 2030,,ROUTE 46
+0401FLC,Falcon,-1.322638,36.869840,,69,,Imara Daima
+0500FTM,Fatima,-1.396363,36.744656,,126 126RK,Olerai,
+0401FDA,Fedha,-1.314621,36.894288,,33C 34J 33DC 33DP 33GTB,Fedha Estate,Fedha Matatu Stage
+0210FIG,Fig Tree,-1.275607,36.823317,thika_road,6 25 49 106 107 119 11A 11C 11F 145 237 23W 25A 44G 44Z 45K 46B 46H,Ngara | Ngara Road,Fig Tree
+04001LV,First Love,-1.282480,36.896710,,35/60,Inner Core,
+0500FLT,Flats,-1.405433,36.716555,,126 126RK,,
+0310FLT,Flats,-1.261717,36.868798,,14 28 41 18C 32D 46B 46H 16/62 17Aky,,Kwa Chief Stage
+0210FLY,Fly Over,-1.150551,36.962155,thika_road,145 237,Ruiru Fly Over,Ruiru
+0201PGF,Fly Over Pangani,-1.267010,36.834376,kiambu_road thika_road,6 25 43 49 100 11C 120 121 145 17B 237 25A 44G 44Z 45G 45K 100A 29/30,Pangani,Mathare Bus Stop
+0801FLF,Flyover Turnoff,-1.258690,36.722670,,30 103,Ndumbuini Junction,Ndumbuini
+0500FRT,Forest Lane,-1.346624,36.714338,,24C,,
+0501FOR,Forest Road,-1.341346,36.714119,,24,,
+0700FVM,Forest View Mall,-1.307392,36.735457,,24 111,,Lenana
+0701FJE,Fort Jesus,-1.310756,36.779389,,8 32A,,Karanja Stage
+0700FMK,Free Methodist Church/Karinde,-1.301165,36.682693,,1,St.Hannah'S Girls/Kenya Assemblies Of God,
+0701FRK,Free Pentecostal Church/Karen End,-1.297870,36.682250,,1,Karen End Shops,
+0400FDS,Friends Centre,-1.293460,36.864653,,10 26,,
+0401FNN,Friends Inn,-1.265392,36.885949,,23KS,,Its Here
+0700FPI,Friends Paradise Inn/Kaberia,-1.291929,36.734345,,4W,Kwa Hospitali/Kaberia | Kwa Maji/Kaberia | New Kaberia Supermarket | Simpsons Bar And Rest,Kabiria Kwa maji
+0710FGP,Full Gospel,-1.298354,36.752460,,4W,Full Gospel Church/Kiruria,Kimbo Stage Bus Stop
+0701FGS,Full Gospel,-1.251979,36.665049,,102,Green Gardens School,Kikuyu
+0101FRK,Furaha/ Kag Ndenderu,-1.195400,36.751750,,107 114R,,
+0401GEE,G,-1.279820,36.887110,,35/60 3560_2,Umoja Primary,Umoja/ Mutindwa
+0210GAS,G Gas Shop,-1.205620,36.895016,thika_road,44G 44K 44Z,,Canopy-Town Stage
+0511GSU,G.S.U,-1.289458,36.949353,,33H 33J 33UTW,GSU,Kwa Chiefs Stage
+0701GDB,Gachangi/Darajani/Baptist Church,-1.273125,36.732513,,3U 103,,
+0101GRJ,Gacharage Junction,-1.200410,36.760580,,107 114R,Rumenya,
+0701GCU,Gachui,-1.281828,36.696257,,2 102,Gachui/Ruthimitu Chief'S Camp | Ruthimitu Secondary School,
+0801GAC,Gacio Junior Academy,-1.238560,36.726420,,118,Kasio,Gacio
+0800GPR,Gama Pinto Road,-1.261870,36.799740,,30 105 115 135 48K 114W 23KG,,Peponi Road
+0701GRG,Garage,-1.348812,36.661131,,111,,Zambia
+0201GRG,Garage,-1.231222,36.924549,thika_road,17B 17B_2,Kwa Garage | Kwa Miti,Hunters
+0210GRG,Garage Stage,-1.279238,36.849785,,28 41,,
+0500GOE,Garden 1 Estate,-1.325958,36.832582,,12D,,Mash Bus services
+0501GAR,Gardens,-1.325519,36.790575,,34L,,
+0701GRD,Gardens,-1.254207,36.665672,,102,,
+0113GCH,Gasolina/Gichagi Mwisho,-1.219641,36.766688,,108,,
+0310GTR,Gate 3 A,-1.266197,36.910637,,18C 16/62,Gertrudes,Kanisani
+0300GHT,Gate 8,-1.268780,36.912987,,17A 18C 1960 19C2 16/62 17Aky 19Cdc 19Cjk,Kanisani,Kanisani
+0511GTA,Gate A,-1.312560,36.909543,,33FED,,Aviation
+0403MWF,Gate B,-1.308021,36.903472,,33GTB,,Kwa Ndege Matatu Stage
+0501GTD,Gate D,-1.308442,36.909560,,33FED,,Kwa Ndege Matatu Stage
+0110GTH,Gathanga Stage,-1.198999,36.784440,,106 116,Kiambea,Gathanga Stage/Kiambea
+0201GTJ,Gathanji,-1.089753,36.782261,kiambu_road,120,Jamaica,
+0201GTC,Gathecha,-1.240786,36.887714,thika_road,25A,Ksc Intenational,Kemrif
+0800GAT,Gathiga,-1.219036,36.738837,,119A,Gathiga Mwisho,
+0801GAT,Gathiga Secondary School,-1.222008,36.747399,,119A,,
+0711GTD,Gathondeki,-1.271824,36.729725,,3U 103,,ILRI Bus Stop
+0800GMG,General Mathenge,-1.254809,36.802191,,119A,General Mathenge Junction,Peponi Road
+0701GNS,Genesis,-1.296426,36.741805,,4W,Ngotho Road,Satellite
+0700GEH,Gerick House,-1.297860,36.751375,,4W,,Kimbo Stage Bus Stop
+0800GRP,German Embassy/Riverside Paddocks,-1.268324,36.785744,,48A,Riverside Paddocks,Safaricom/Saf
+0400GPM,Giant Pharmaceuticals,-1.285790,36.887630,,35/60,Jambo Cyber,Umoja/ Mutindwa
+0500GCG,Gichagi,-1.425355,36.693466,,126 126RK,,Kiserian matatu station
+0811GCN,Gicini,-1.191999,36.650001,,115 135 114W,Kwa Gicini,
+0213GHD,Gihurai,-1.204341,36.916884,thika_road,145 237 45G 45K,Githurai,Githurai
+0303GKM,Gikomba,-1.284125,36.840499,,7 28 3N 41,Gikomba Market Terminals,
+0810GIT,Gitaro,-1.232893,36.669092,,103 105 115 129 135 114W,Gitaru | Gitaru Junction | Gitaru/Vantage School,Gitaru
+0800GIT,Gitaro,-1.239081,36.674939,,115 135 114W,,Kampala
+0700GRU,Gitaru,-1.231977,36.670458,,103 129,,Gitaru
+0501GTH,Githeri Rise,-1.316523,36.838543,,11,,Mash Bus services
+0201GTO,Githogoro,-1.218600,36.835790,kiambu_road,100 120 121 100A,,
+0513GTR,Githunguri,-1.286566,36.982478,,33J 33UTW,,
+0213GGD,Githunguri Terminal,-1.056368,36.778930,kiambu_road,120,,Githunguri Matatu Stage
+0201GIG,Githurai,-1.202923,36.917530,thika_road,145 237 45K,,Githurai
+0212GTP,Githurai,-1.205374,36.918576,,45P,,Githurai
+0501GMS,GM,-1.329676,36.870983,,69 110 33B 33TP 33FED 33IMR 33MKR 33UTW 110ATH,Gm Mwisho | Gm Town,Imara Daima
+0411GMM,Gm,-1.326088,36.870826,,69,,Imara Daima
+0711GCP,Golf Course Phase 2,-1.309261,36.798458,,33NG,Ngumo Market,Ngumo Stage
+0701GHS,Good Samaritan High School,-1.296923,36.749861,,4W,Ithembe | Wanyee Stage,Satellite
+0201GSP,Gospel Church,-1.208688,36.893951,thika_road,44G 44K 44Z,Royal,Zimmerman Stage
+6050GPO,GPO,-1.286040,36.818211,,5 7C 24C 32A 46K 46Y 33UTW,Gpo,East Africa Shuttles and Safaris
+0211GRF,Graffins College,-1.265996,36.805414,,23W,,Westlands Bus Stop
+0700GBK,Green Belt/Kanyariri,-1.227800,36.698182,,103 129,Kanyariri,King'eero/Mwisho
+0401GNF,Green Field,-1.294510,36.896260,,34B 1961K 19Cjk 1961Kd,,
+0700GGL,Green Gardens School,-1.250890,36.664915,,102,,Kikuyu
+0400GNS,Green Span,-1.285960,36.904160,,1961K 19Cjk 1961Kd,Green Span Estate,Masimba
+0101GVS,Green Valley School,-1.125007,36.677194,,116,,
+0101GOG,Guango,-1.195673,36.780783,,106 116,,Guango
+0211GNK,Guru Nanak,-1.268919,36.832850,thika_road,6 25 49 11C 145 237 25A 44G 44Z 45K 46B 46H,,
+0810GCR,Ha Gicuru,-1.228431,36.665231,,115 135 114W,,Gitaru
+0411HMZ,Hamza,-1.296980,36.875660,,36 58 33C 34B 34J 04SK 1960 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39,,
+0401HRB,Harambee,-1.285141,36.873807,,26,,
+0401HRS,Harambee Sacco,-1.292620,36.899270,,34B 1961K 19Cjk 1961Kd,Phase 5,
+0401HUJ,Harambee Uhuru Junction,-1.281880,36.871372,,26 26S 23KS,Uhuru Primary School,
+0500HRN,Hardy Junction,-1.364737,36.742286,,24 24C,Hardy Shopping Centre/Hardy Police Station | Hardy Stage,
+0501HMA,Hardy Manor,-1.365576,36.737851,,24 24C,,
+0401HMN,Harmony,-1.266028,36.879881,,26 17A 26S 17Aky,Mayaka,Kwa Mbao Stage
+0501HCC,Hashi/Visions Of Glory Church,-1.390667,36.766832,,125 126,Masai Lodge,
+0501HAZ,Hazina Estate,-1.316030,36.848409,,11,South B Mwisho | South B Stage,Dreamline Bus services
+0701HKA,Hekima,-1.330450,36.678428,,111,Maasai High School,Umoja Bus Station
+0800HES,Heshima Supermarket,-1.264030,36.751390,,30 105 115 135 114W 23KG,Posta Kangemi,Sodom
+0211HIP,High Point,-1.094897,37.028827,thika_road,237,Highpoint,High point
+0503HRS,Highrise,-1.314683,36.808175,,16 24C 34L 33SB,,Kenyatta Market
+0601HIG,Highway,-1.311264,36.800064,,33NG,Highway Cottage | Pcea Junior,Ngummo Bus Stop
+0503HWY,Highway Estate,-1.326008,36.840219,,12D,,Dreamline Bus services
+0801HVW,Hill View,-1.246299,36.774265,,118 119,,Crossroads
+0501HLC,Hillcrest,-1.338550,36.736950,,24BK,Hillcrest Lane | Hillcrest Road,
+0510HLC,Hillcrest,-1.338090,36.733920,,24BK,,
+0400HCC,Hillocks Country Club,-1.319164,36.865314,,69,,
+0400HDH,Hodihodi,-1.293090,36.866034,,10 26,,
+0401HMB,Homabay,-1.307088,36.842819,,69,,
+0201HML,Homeland In,-1.232262,36.875650,thika_road,49 145 17B 237 44G 44Z 45G 45K,,Route 44/45
+0200HML,Homeland In,-1.234187,36.874215,thika_road,43 49 145 17B 237 44G 44Z 45G 45K,Shell,
+0700HVE,Hopevision Academy/Karen End Flats,-1.296535,36.682916,,1,,
+0400HNB,Hornbill,-1.278760,36.888656,,17A 17Aky 35/60 3560_2,Junction | Plan B,Umoja/ Mutindwa
+0500HSM,Horse Man,-1.421689,36.700664,,126 126RK,,
+0500HST,Hostel,-1.338413,36.773181,,24 125 126 24C,Wck,
+0411HOM,Houes Of Manji,-1.309543,36.857300,,70/71,,
+0510HQS,Hq/Headquaters,-1.324143,36.797008,,15 125 126 24C,,
+0601HDH,Huduma Church/Hotel 56,-1.287819,36.753322,,56,St.Francis/Kanisani,St Francis
+0211HNT,Huntas,-1.227542,36.917967,thika_road,49 17B 17B_2,Huntas Stage,Hunters
+0611HUR,Hurlingham,-1.294638,36.797727,,5 56 46K 46Y,Hurlinghum,Bus Stop
+0610INM,I&M,-1.284968,36.820236,,5 7C 32A 46K 46Y,,East Africa Shuttles and Safaris
+0811IKA,Ika Ithano,-1.178246,36.643085,,115 135 114W,,Muguga
+0201IKN,Ikinu,-1.099779,36.795763,kiambu_road,120,,
+0701LRI,ILRI,-1.266950,36.723189,,3U 103,Ilri,ILRI Bus Stop
+0801ILA,Ilri/Uthiru Roundabout,-1.264320,36.721200,,30 3U 103,Uthiru | Uthiru Roundabout,Uthiru
+0513IMD,Imara Daima,-1.325200,36.880808,,33IMR 33MKR,,Maziwa bus stop
+0501IMR,Imara Daima,-1.328381,36.881282,,110 33B 33TP 33FED 33UTW 110ATH,,Maziwa bus stop
+0711IMP,Impala,-1.300448,36.769200,,2 5 24 4W 102 111 24C,Impala/Makini/Jamuhuri,Kibera
+0800IMP,Impala Hotel,-1.264075,36.810185,,118 119 11B 119A,Mp Shah,Westlands/Ngara/Town Stage
+0801IMP,Imperial Bank,-1.270324,36.799344,,48A,,Westlands Bus Stop
+0511IND,Industrial Area,-1.298461,36.828025,,11 11_2,Industrial Area Round About,Railway Stage
+0401IND,Industrial Area,-1.300130,36.836010,,405,,
+0401IFA,Infill A,-1.271380,36.909510,,19Cdc 19Cjk,Phase 3A,Kwa D.O
+0411IFB,Infill B,-1.266120,36.906820,,18C 19C2 16/62 19Cdc 19Cjk,Phase 4 | Phase 4 Stage | View Park,Kanisani
+0403INC,Innercore,-1.282910,36.895490,,35/60,,
+0601INT,Integrity Centre,-1.289765,36.810258,,5 56 46K 46Y,Panafric,
+0800IGL,Isaac Gathanju Road/Lavington Shopping Centre,-1.279960,36.769263,,48A 48K,Lavington Shopping Centre/Shell,
+0800ISK,ISK,-1.232788,36.763997,,119A,Isk,
+0201JAC,Jacarada,-1.192145,36.898695,thika_road,44G 44K,Kwa Mto,Githurai 44
+0801JCA,Jacaranda,-1.279428,36.783534,,48B 48O,,
+0401JCN,Jacaranda,-1.287520,36.904620,,34B 1961K 19Cjk 1961Kd,,
+0811SYJ,Jacaranda/Siaya Road,-1.282289,36.787224,,48B 48C,Siaya,
+0811JMK,Jacmil Supermarket/Kinoo Stage,-1.255330,36.693760,,103 105 115 135 114W,Kinoo,Kinoo Bus stop
+0101JAK,Jakai,-1.219745,36.772222,,108,,
+0201JAM,Jamaica,-1.074147,36.781376,kiambu_road,120,,
+0700JPS,Jamhuri Primary School,-1.302060,36.766956,,5,,Kibera
+0701JSC,Jamhuri Shopping Centre,-1.304417,36.771030,,5,,Jamhuri Estate
+0710JSS,Jamhuri Station Road Stage,-1.303983,36.769137,,5,,Kibera
+0101JHS,Jamuhuri High School,-1.273350,36.822970,,106 107 116 11A 11F 114R 114W,Ngara Stage | Ngara Teminal,Jamhuri High School
+0711JKR,Jamuhuri/Kibera Station Road,-1.300063,36.767103,,2 4W 102 111 24C,,Kibera
+0411JNV,Jana Villa,-1.291903,36.852417,,6E,,Church army
+0310JAY,Jay Community,-1.265996,36.852864,,14 28 41 18C 32D 46B 46H 16/62 17Aky,,Kambi
+0710JPS,Jayce Petro Station,-1.355179,36.657421,,111,Kenol | Pcea Endorro Emuny,Country Club
+0411JSC,Jerusalem Shopping Centre,-1.285251,36.867947,,26S 23KS,Uhuru Fields,
+0400JSK,Jeska,-1.287810,36.891670,,35/60,Kona,Umoja/ Mutindwa
+0701JCR,Jirani Centre,-1.295968,36.743277,,4W,,Satellite
+0210JKT,Jkuat,-1.106981,37.015873,thika_road,237,Jkuat Main Gate Stage | Juja Stage,towards Nairobi
+0311JOD,Joada,-1.256726,36.907904,,18C 3738 16/62,Ogopa Stage | Saika,
+0711JOG,Jogoo,-1.329173,36.681338,,111,Jogoo/Kbc,Bus station
+0311JSG,Johnsaga,-1.261960,36.874043,,14 28 41 18C 32D 46B 46H 16/62 17Aky,,ROUTE 46
+0403JOS,Joster,-1.282806,36.851112,,6E,,
+0100JYL,Joyland,-1.204690,36.775980,,107 114R,,
+0410JST,Joystar,-1.286890,36.889310,,35/60,,Umoja/ Mutindwa
+0311JUA,Jua Cali,-1.248276,36.908139,,36 41 42 32D,,
+0501JKL,Jua Kali,-1.306085,36.915927,,33B,Juakali,
+0101JLI,Jua Kali,-1.211161,36.874486,,53 107D,Maruirui,
+0810JUN,Junction,-1.131017,36.634524,,115 135 114W,,
+0401JNB,Junction,-1.289733,36.875458,,26,,
+0401JUC,Junction,-1.292078,36.868654,,10,,
+0400JNC,Junction,-1.263470,36.922130,,17A 1960 17Aky,Kona Mbaya | Sowematt,Mihango stage
+0401JUN,Junction,-1.279710,36.910580,,20 1960,,Masimba
+0310JUN,Junction,-1.259552,36.912367,,18C 04SK 3738 16/62 38/39,Junction-Komarock Road N Kangundo | Saika | Saika Junction,Step 1
+0210JUN,Junction,-1.189464,36.896528,thika_road,44G 44K,,Githurai 44
+0201KTJ,Junction,-1.151919,36.919517,,107D 145D,Ruiru Road Junction,Membley bus stop
+0400UMJ,Junction /Umoja,-1.275972,36.887153,,17A 04SK 19C2 17Aky 19Cdc 38/39,Umoja Junction,Kariobangi South
+0400TSX,Junction 30 Stage,-1.261387,36.886382,,36 41 42 18C 32D 3738 16/62,Mutarakwa Road,36 stage
+0300JAS,Junction Auto Spares,-1.260655,36.874143,,14 28,,ROUTE 46
+0101ION,Junction To Limuru Town,-1.133245,36.643564,,114R,,
+0401KOB,K South,-1.267632,36.885368,,36 23KS,Kariobangi South Primary School,Kariobangi South
+0800KLH,K1,-1.268386,36.812178,,118 119 11B 23W 119A,K1 Club,Chiromo Bus Stage
+0701KBG,Kabarnet Gardens,-1.302784,36.789113,,8 32A,,Prestige Plaza
+0800KBY,Kabay/Msamaria Mwema Children'S Home,-1.226270,36.728250,,119,,
+0710KJS,Kaberia Junction Stage,-1.297030,36.756553,,2 3U 4W 102 103,,Tankard
+0701KPY,Kaberia/Pc Kinyanjui Technical Training Institute,-1.292670,36.735423,,4W,Riruta Satellite Primary School,Riruta
+0800KBL,Kabete Lane/Total Spring Valley,-1.254190,36.792800,,118 119,Total/Kabete Lane,Kabete Lane/Total Spring Valley/ Bypass
+0811KBP,Kabete Police Station,-1.261620,36.725514,,105 115 135 114W,Mariguini,N (Posta / Technical)
+0810KBT,Kabete Pp,-1.263112,36.728762,,30 105 115 135 114W,Nne Market Stage,N (Posta / Technical)
+0810KRC,Kabete Rehabilitation Center,-1.238917,36.731366,,118,,Gacio
+0801KBT,Kabete Springs,-1.240831,36.751169,,118,,Kabete Spring Valley
+0801KBI,Kabete Technical Institute,-1.263610,36.727050,,30,,N (Posta / Technical)
+0110BUK,Kabuku Junction,-1.150767,36.668272,,114R,,
+0211KAH,Kahawa,-1.198452,36.921460,thika_road,145 237 45K,,Githurai
+0101KHR,Kahawa Railways Roundabout,-1.185664,36.906667,,107D,,Kahawa West
+0500KHN,Kahungo,-1.422616,36.697947,,126 126RK,,
+0812KAK,Kaka Terminal,-1.285635,36.830776,,7 58 135 32D 34B 34J 04SK 33TP 19Cdc 19Cjk 33FED 35/60,Salvation Army | Terminal Otc,Naivasha bus stop
+0410KLL,Kaloleni,-1.293040,36.845630,,10 36 58 33C 34B 34J 04SK 1960 23KS 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39 70/71,Shauri Moyo,Church army
+0401KMK,Kamakis,-1.171119,36.972287,,145B,,
+0811KDR,Kamandura,-1.129363,36.633967,,115 135 114W,,
+0810KBB,Kambembe,-1.145791,36.637495,,115 135 114W,Rironi,
+0201KAM,Kamindi Supermarket,-1.171710,36.828080,kiambu_road,100,,Kiambu Bus Stage
+0801KRH,Kamirithu,-1.117688,36.631237,,115 135 114W,,
+0200KMT,Kamiti Road Junction,-1.182127,36.894298,thika_road,44G 44K,Karura,
+0810KPL,Kampala,-1.240285,36.675546,,103 105 115 135 114W,Kampala Way Filling Station,Kampala
+0801KPL,Kampala,-1.135621,36.635547,,115 135 114W,,
+0401KPL,Kampala,-1.311243,36.849444,,69,Kayaba,
+0101KKB,Kamukabi,-1.222324,36.780623,,108,,
+0500KMR,Kamura,-1.410050,36.712277,,126 126RK,,
+0811KAM,Kamutii Car Wash,-1.234571,36.714712,,118,Ndongoro,Kamutii-Ini
+0801KAM,Kamutii-Ini,-1.229795,36.709790,,118,Modern Oil Service Station | Rungiri,Kamuti-ini Bus stop
+0801KAN,Kandara Road,-1.276110,36.793069,,48B 48O,Kileleshwa Day Nursery | Parklane Place,
+0501KND,Kanga Road,-1.323440,36.778660,,15,,
+0810KMI,Kangemi,-1.264120,36.746630,,30 105 115 135 114W,Kangemi Market | Mountain,Kangemi
+0813KGT,Kangemi Terminus,-1.264980,36.749530,,23KG,Total Petrol Station Kangemi,Kangemi
+0801KGD,Kangundo,-1.279635,36.790476,,48B 48C,Queen'S Park,
+0801KNN,Kanini,-1.234120,36.744580,,119,,Kirawa Close
+0500TAB,Kanisa Mabati,-1.310757,36.835206,,11 11_2 33SB,Mariakani | South B Stage | Vumira House,Mash Bus services
+0500KAN,Kanisani,-1.407446,36.714446,,126 126RK,Kanisani/Pcea,
+0401KSN,Kanisani,-1.257172,36.878816,,26 42 26S 2030,Kariobangi | Shell Petrol Station,ROUTE 46
+0411KNS,Kanisani,-1.269850,36.913350,,17A 1960 17Aky 19Cjk,Pcea,Kanisani
+0700KPG,Kanisani Pcea Gathimwa,-1.281360,36.691763,,2 102,,Dagoretti Market
+0603KNG,Kanungaga/56 Mwisho,-1.278492,36.750875,,56,,56 Stage
+0511KAP,Kapa,-1.363709,36.910514,,110 110ATH,,
+0510KPT,Kapiti Crescent,-1.313471,36.838260,,11 11_2,Karuku,Mash Bus services
+0501KPT,Kapiti Junction,-1.310729,36.837755,,11 11_2,Mchumbi Road | Mosque | South Gate Centre,Mash Bus services
+0411KPS,Kapsoit Road Junction,-1.282040,36.886710,,35/60 3560_2,Umoja Dispensary,Umoja/ Mutindwa
+0301KMB,Karambe,-1.266832,36.845440,,14 46H,,Mkokoteni
+0701KAR,Karanja,-1.309714,36.780324,,8 32A,San Siro,Karanja Stage
+0711KRN,Karen,-1.322568,36.706687,,1 24 111 24C,Karen Dispensary | Karen Police Station | Karen Shopping Centre/Karen | Karen/Nakumatt Crossroads | Karen/Shell,The Lower Shell Stage
+0500KCY,Karen C Primary School,-1.339320,36.742600,,24BK,Karen C Secondary School,
+0501KCL,Karen Catholic Church,-1.325946,36.710312,,24 24C,St.Marys Karen Primary School,Karen Hardy Bus Station
+0501KAE,Karen Country Club,-1.339400,36.714824,,24 24C,,
+0511KNH,Karen Hospital,-1.336970,36.725770,,24BK,,
+0500KRJ,Karen Road Junction,-1.333746,36.716578,,24 24C 24BK,Karen Road-Lang'Ata Road Junction | Lang'Ata Road Junction,
+0501KSS,Karen South Secondary,-1.339800,36.745560,,24BK,,
+0510KJC,Kareng'Ata/Jkuat/Cuea,-1.353708,36.747080,,24 24C,Karengata/Cuea/Jkuat Stage,Karen Campus
+0811KAR,Kari,-1.259740,36.773920,,30 105 115 135 114W 23KG,,James Gichuru/Agriculture
+0501RIA,Kariba Estate,-1.311496,36.840821,,11_2,,Mash Bus services
+0701KRD,Karinde Pcea Junction,-1.299046,36.681759,,1,,
+0201KBM,Kariobangi Market Stage,-1.255538,36.878823,,14 28 42 2030,Kariobangi Terminal,ROUTE 46
+0201KRK,Kariokor,-1.279431,36.833293,kiambu_road thika_road,14 3N 43 120 121 145 17B 32D 45G 46B 46H 16/62,,Narokline
+0300KAR,Kariokor Dc,-1.277703,36.834997,,7 3N,Kariokor Estate | Kwa Dc/Id,Narokline
+0701KMH,Karmu House,-1.346582,36.663923,,111,,El Paso Bus Stop
+0400KRT,Kartasi,-1.315107,36.860227,,69,,
+0113KAR,Karura Mwisho,-1.194350,36.732040,,107,Karura Stage,Rt 107 Bus Stop
+0111KRU,Karura/Runda,-1.220820,36.801360,,106 107 116 11F 114R,Runda/Karura Carwash,Karura/Runda
+0801KAC,Kasuku Centre,-1.275441,36.794799,,48B 48C 48O,Kasuku/Mwingi | Kileleshwa Police Station/Roundabout | Mwingi/Kasuku Centre,
+0613MWI,Kawangware Mwisho,-1.283934,36.742585,,46K,,46 Stage
+0402KY1,Kayole 1,-1.262020,36.919670,,20 17A 1960 17Aky,,Kayole 1
+0410K1M,Kayole 1 Market,-1.266300,36.922660,,17A 1960 17Aky,Mihang'O | Nyora,Mihango stage
+0401KYJ,Kayole Junction,-1.257342,36.922846,,20 3738 38/39,,Kayole Junction Ez
+0400KPS,Kayole Police,-1.264330,36.923510,,17A 1960 17Aky,Mihang'O | Post/Mihang'o,Mihango stage
+0401KSR,Kayole Spine Junction,-1.278250,36.900060,,20 17A 17Aky,,Kwa maji
+0700KBN,Kbc,-1.329592,36.680282,,111,,Bus station
+0211KCA,Kca,-1.252175,36.859441,thika_road,25 43 49 145 17B 237 25A 44G 44Z 45G 45K 29/30,,adapt a light
+0701KCC,Kcb Community,-1.329666,36.686842,,111,,K.C.B
+0201KCB,Kcb Kiambu,-1.172840,36.830020,kiambu_road,100,,Kiambu Bus Stage
+0400KCU,Kcb Umoja,-1.284680,36.885050,,35/60 3560_2,Mutindwa,Umoja/ Mutindwa
+0700KCQ,KCB/Equity,-1.301328,36.812437,,32A,,KCB/Equity
+0500KEA,Kemsa,-1.314942,36.916668,,33B 33FED,,75
+0101KCK,Ken Chick,-1.132763,36.697946,,116,,
+0500KNC,Kenchik,-1.411761,36.949273,,110 110ATH,,
+0412KNC,Kencom,-1.285890,36.824290,,5 7C 32A 34B 34J 46K 46Y 19Cjk,,46 Bus station
+0501KNL,Kenol,-1.397200,36.755415,,125 126,,
+0700KEO,Kenol,-1.304210,36.746710,,24 111 24C,,Pathway Stage
+0201KNL,Kenol Petro Station,-1.183113,36.899833,thika_road,44G 44K,,Kahawa West
+0401KNL,Kenol Petrol Station,-1.284054,36.880382,,36,,Umoja/ Mutindwa
+0501KNA,Kenol/Nairobi Academy,-1.340951,36.753609,,24 24C 24BK,Kobil/Mokoyeti Road West,
+0500KSG,Kenol/South C Gardens,-1.313202,36.826786,,12C 12D 33SB,Mama Ngina Children'S Home | South B Shopping Centre | South C Shopping Centre,
+0400KNP,Kenpoly,-1.304277,36.883407,,70/71,,
+0701KNC,Kenvic,-1.343876,36.666123,,111,Naivas | Naivas/ Vet | Nyali House,Juanco Bus Stop
+0700KAK,Kenya Assemblies Of God King'Eero,-1.222091,36.710964,,103 129,,Wangige Stage
+0701KDF,Kenya Defense,-1.308581,36.695920,,1,,
+0501KPU,Kenya Polytechnic Bus Stop,-1.292001,36.822352,,24 14A 14B 11_2,,Railway Stage
+0201KEP,Kenya Power,-1.242862,36.890840,thika_road,25A,,Kemrif
+0701KRC,Kenya Redeemed Church Riruta,-1.291077,36.733127,,4W,Redeemed Church Of Kenya/Kaberia,Kabiria Kwa maji
+0811KSA,Kenya School Of Administration,-1.239977,36.744484,,118,Lower Kabete Posta,Kirawa Close
+0501SOL,Kenya School Of Law,-1.359019,36.746983,,24 24C,School Of Law,Karen Campus
+0501KSB,Kenya Society For The Blind,-1.314250,36.818310,,14B,Magharibi/Kogo Star | Space Apartments,
+0211KRD,Kenyata Road Stage,-1.124170,37.003518,thika_road,237,,Kenyatta Road Stage
+0713KNS,Kenyatta Hospital Stage,-1.300734,36.808817,,7C 32A,Kenyatta National Hospital,Kenyatta National Hospital Bus Stop
+0711KEM,Kenyatta Market,-1.307506,36.802754,,16 24C 34L 33NG 33SB,Kenyatta Market Flyover | Ngumo Stage,Kenyatta Market
+0712KNT,Kenyatta National Hospital,-1.297568,36.804868,,2 8 4W 102 111 32A 34L 33NG,,KNH/KMTC
+0712KNH,Kenyatta/Nairobi Hospital,-1.297520,36.803230,,2 8 24 4W 102 111 24C 32A 34L 33NG,,KMTC Bus Stop
+0700KPI,Kephis,-1.327601,36.690963,,111,Kephis Stage | Mbagathi/Kephis,Kephis Stage
+0800KIA,KIA,-1.238980,36.765030,,119,Kia,
+0800KMC,Kiahuria Medical Clinic/Mama Symo Kiosk,-1.221610,36.717430,,119,Tcbe | Wangige Health Centre,Wangige Stage
+0810KBA,Kiambaa,-1.198661,36.653775,,115 135 114W,,
+0800KBA,Kiambaa,-1.205796,36.656692,,115 135 114W,,Zambezi - Nakuru Bus Stage
+0401KBU,Kiambiu,-1.280591,36.871026,,26 26S 23KS,,
+0400BKB,Kiambiu,-1.278592,36.872755,,26 26S 23KS,Kobil Calvary Temple,
+0213TMA,Kiambu Bus Terminus,-1.168120,36.826680,kiambu_road,100,,Kiambu Bus Stage
+0213KHO,Kiambu Hospital,-1.170370,36.830528,kiambu_road,100A,,Kiambu Bus Stage
+0800KHC,Kiambu Institute Of Hostels And Catering,-1.224340,36.724660,,119,Kiambu Institute Of Hotels And Catering/Valence School,
+0211KPO,Kiambuu Posta,-1.166900,36.825087,kiambu_road,120 121,,Kiambu Bus Stage
+0201KGM,Kiangima,-1.075928,36.786734,kiambu_road,120,,
+0111KAU,Kianjogu Stage,-1.181209,36.727208,,114R,,
+0801KBU,Kibichiku Centre,-1.227910,36.730420,,119,,
+0211PIO,Kie/Pioneer,-1.271566,36.828250,thika_road,6 25 49 11C 25A 44G 44Z 45K 29/30,,Ngara
+0801KAH,Kihingo,-1.220034,36.742507,,119A,,
+0713KKY,Kikuyu,-1.246540,36.664933,,102 105 129,Kikuyu Terminus,Kikuyu Bus Station
+0800KRY,Kikuyu Country Resort,-1.238010,36.666360,,105 129,,Kikuyu Bus Station
+0801KPR,Kileleshwa Primary School,-1.277406,36.791720,,48B 48O,,
+0611KIL,Kilimani,-1.292340,36.786012,,56 46K,Kilimani Primary School,Elgeyo
+0501KIL,Kilimani Junior School,-1.364492,36.745067,,24 24C,Matbronze,
+0201KBO,Kimbo,-1.132586,36.974481,thika_road,237,,
+0101KME,Kimera Medical Centre,-1.146608,36.716753,,116,,
+0811KIM,Kimetrica,-1.236617,36.781227,,119A,,
+0710KNA,King'Eero Stage,-1.225540,36.704265,,103 129,,King'eero/Mwisho
+0801KGH,Kinoo Girls High School,-1.256400,36.696820,,103 105,,Kinoo Bus stop
+0701KJI,Kinyanjui,-1.291616,36.747588,,2 3U 102 103,,Coast Stage
+0400KOI,Kioi,-1.279200,36.915410,,20 17A 1960 17Aky,,Nyando
+0801KRW,Kirawa Road,-1.236980,36.760240,,119,,
+0800KIR,Kirawa School,-1.230213,36.761508,,119A,,
+0501KRD,Kirdi/Southend Estate,-1.322499,36.831532,,12C,,Mash Bus services
+0601KIR,Kirichwa,-1.292501,36.781542,,56 46K,,Elgeyo
+0710KRD,Kirichwa Road Junction,-1.299879,36.782118,,2 5 24 4W 102 111,,Adams
+0200KJN,Kirigiti,-1.178950,36.837480,kiambu_road,100 120 121 100A,Kirigiti Junction,Kirigiti Bus Stop
+0711KRG,Kirunguro,-1.268466,36.679189,,102,Kirunguro Junction,Thogoto
+0501KIR,Kirush,-1.323752,36.789895,,15 34L,Phase 4 Gate,
+0510KSM,Kiserain Nairobi Bus Stop,-1.429533,36.685794,,126 126RK,Kiserian Market | Kiserian Terminus,Kiserian matatu station
+0501KIS,Kiserian,-1.429062,36.686887,,126 126N 126RK,,Kiserian matatu station
+0501KSG,Kiserian Girls/Kwa Maji,-1.423356,36.696028,,126 126RK,Kwa Maji,
+0610KSS,Kismart  Supermarket,-1.286478,36.753424,,56,,St Francis
+0211KST,Kist,-1.184680,36.838670,kiambu_road,100 120 121 100A,,
+0401KSD,Kisumu Ndogo,-1.299240,36.890120,,34B 1961K 19Cjk 1961Kd,,
+0513KIT,Kitengela,-1.477218,36.958032,,110 110AK,,
+0401KTN,Kitindo,-1.326587,36.895879,,33B 33C 33H 33J 33DC 33TP 33FED 33UTW,,Rounda
+0111KIV,Kivuti Stage,-1.188314,36.771234,,106 116,Traveller'S View Muchatha,Kibutu Stage/Bread of Life
+0500KLB,KLB,-1.324394,36.830671,,12D,Mugoya Phase 4,Mash Bus services
+0500KME,Kma Estate,-1.320531,36.829166,,12C 12D,Mugoya Phase 1,Mash Bus services
+0501KMC,KMC,-1.452390,36.979922,,110AK 110ATH,,Athi River (MGR)
+0401KNB,Knlb,-1.282930,36.879950,,36,,Umoja/ Mutindwa
+0401KBE,Kobe,-1.226859,36.990212,,145B,,
+0511KOB,Kobil,-1.395939,36.762455,,125 126,St.Mary'S Ccatholic Church,
+0500KOB,Kobil,-1.307247,36.833344,,11 11_2,Mater Hospital,
+0801KOL,Kobil,-1.244710,36.665270,,105 129,,Kikuyu Bus Station
+0400KBL,Kobil,-1.328278,36.892562,,33B 33C 33H 33J 33DC 33TP 33FED 33UTW,,Cabanas Bus Stop
+0501KBL,Kobil Haile Selassie,-1.293350,36.820878,,11 125 126 11_2,,Railway Stage
+0501KDT,Kodi Ii,-1.307474,36.820249,,15 16 24 125 126 14A,Madaraka Flyover Stage,
+0812KNJ,Koja,-1.280852,36.822802,thika_road,6 25 49 106 115 116 118 119 11B 11C 145 237 23W 25A 44G 44Z 45K 46B 46H 119A,Koja/Nation Centre | Nation Building Terminal,Trufi Stop
+0401KOJ,Koma Junction,-1.265460,36.904551,,18C 04SK 19C2 16/62 19Cdc 38/39,Kona/Junction,Kwa maji
+0101KTO,Komototho,-1.202020,36.766200,,107 114R,Mifereji/God'S Ability,
+0701KON,Kona,-1.376570,36.676480,,126N,,Kona Stage 46
+0400KON,Kona,-1.268650,36.920630,,20 17A 18C 1960 16/62 17Aky,,Kayole Hospital
+0400ONA,Kona,-1.308037,36.868145,,70/71,,
+0111KNA,Kona,-1.220945,36.778584,,108,,
+0201RKN,Kona,-1.225183,36.873912,,53,,Route 44/45
+0201RIL,Kona Kwa Rail,-1.208181,36.922337,,45P,,Githurai
+0500KPS,Kongoni Primary School,-1.312282,36.828122,,12C 12D,,
+0501KOD,Kordes Roses,-1.360904,36.727629,,24,,
+0400KOT,Kotini,-1.295080,36.862289,,10,,
+0701KRE,Krep/Equity,-1.284773,36.737551,,2 3U 102 103,Precious Blood Girls' School,Riruta Stage
+0501KSP,Kspca/Marist Lane,-1.337930,36.732730,,24BK,Marist Lane/Kspca,
+0213MKU,KU,-1.181746,36.937403,thika_road,145 237 45K,Ku Fly Over,Kenyatta University Stage Bus Bay
+0210KAD,Kwa Ahindi,-1.174055,36.828014,kiambu_road,120,,Kiambu Bus Stage
+0511KCF,Kwa Chief,-1.282876,36.959833,,33H 33J 33UTW,,Kwa Chief Stage
+0410KCF,Kwa Chief,-1.271860,36.918720,,20 17A 18C 1960 16/62 17Aky 1961K 1961Kd,,Kwa Chief
+0400KWC,Kwa Chief,-1.280170,36.896280,,17A 17Aky 35/60 3560_2,,
+0401KDO,Kwa D.O,-1.274650,36.910460,,17A 18C 1960 16/62 17Aky 1961K 19Cdc 19Cjk 1961Kd,Kwa Do | Rocks,Kwa D.O
+0701ADC,Kwa DC,-1.305922,36.787509,,8 32A,,Prestige Plaza
+0211KDO,Kwa DO,-1.174410,36.833430,kiambu_road,100 120 121 100A,Kwa Do/Kiambu-Limuru Road Junction/Red Nova,Kirigiti Bus Stop
+0801DOS,Kwa Do,-1.107940,36.639396,,115 135 114W,,Kwambira
+0211KWD,Kwa Dogi,-1.156977,36.932324,,145D,,
+0701KFR,Kwa Farasi,-1.319781,36.714437,,111 24C,,Kabuagi
+0501KWG,Kwa Gate,-1.300485,36.914382,,33B,,
+0111JEK,Kwa Jeki,-1.194099,36.778615,,106 116,Kwa Jeki/Wambi | National Oil/Muchatha,Kwa Njoki
+0201JNT,Kwa Junction,-1.043316,37.070831,thika_road,237,,
+0201KAI,Kwa Kairu,-1.142084,36.966911,thika_road,237,,Kwa Kairu Stage
+0501KWK,Kwa Kanisa,-1.309593,36.914791,,33B,,
+0101NTO,Kwa Kanisa Ack/National Oil,-1.193291,36.777536,,106 116,Total/Muchatha,Kwa Kanisa ACK/National Oil
+0500KKM,Kwa Kimani/Laiser,-1.395561,36.733890,,126 126RK,,
+0701KAJ,Kwa Maji,-1.358460,36.656570,,111,Kwft/Kobil,Country Club
+0311DIZ,Kwa Mandazi,-1.254192,36.900310,,36 41 42 32D,Marigo Nne,
+0311BAO,Kwa Mbao,-1.261797,36.884450,,41 42 18C 32D 3738 16/62,,Kwa Mbao Stage
+0310MBO,Kwa Mbao,-1.254916,36.909958,,18C 3738 16/62,Maili Saba D,
+0801MBR,Kwa Mbira,-1.110411,36.631226,,115 135 114W,,Kwambira
+0701WGT,Kwa Mchanga/Total,-1.262886,36.718480,,3U 103,,Uthiru
+0201KMT,Kwa Miti,-1.229538,36.920874,thika_road,17B 17B_2,Sunton,Hunters
+0201MLM,Kwa Mlima,-1.233034,36.928621,thika_road,17B 17B_2,Maji Mazuri,Mwiki
+0103MSQ,Kwa Mosque/Highridge Mwisho,-1.256870,36.810770,,11A,,Westlands/Ngara/Town Stage
+0700KSS,Kwa Muchina/Star Shake Girls' Secondary School,-1.341907,36.666560,,111,,Juanco Bus Stop
+0711KNG,Kwa Ng'Ang'A,-1.284074,36.729192,,2 102,,Kibiria
+0801NGA,Kwa Ngwacii,-1.235380,36.668080,,103 105 129,Kwa Ngwacii Junction,Gitaru
+0701KNK,Kwa Nicholas,-1.411734,36.687934,,126N,Oloosuruutia,Kwa Nicholas Bus Stop1
+0500NGA,Kwa Njenga,-1.414989,36.711049,,126 126RK,,
+0711NJG,Kwa Njeru Stage,-1.230536,36.675502,,103 129,Kwa Njeru/Gitaru/Pank View,Mlango Soko
+0701NJR,Kwa Njiru(Petrol Station),-1.308446,36.781577,,8 32A,Toi/Kwa Njiru,Karanja Stage
+0100NJT,Kwa Njoki / Thimbigwa Ack,-1.183852,36.763684,,106 116,Kwa Njoki/Ack Thimbigwa,Kwa Njoki/Ack Thimbigwa
+0101NJK,Kwa Njoki Kamili,-1.184899,36.764492,,106 116,,Kwa Njoki Kamili
+0500KRT,Kwa Ratio,-1.420068,36.704601,,126 126RK,Nalepo,
+0811KRH,Kwa Rhoda,-1.232910,36.738950,,119,,
+0401KRY,Kwa Roy,-1.168359,36.967716,,145B,,
+0100KSS,Kwa Shule/Seth Home Of Love Children'S Home/Muchatha Dispensary,-1.189608,36.773253,,106 116,Muchatha Dispensary/Kwa Shule/Yamongo Drive,Kwa Shule/Seth Home Of Love Children's Home/Muchatha Dispensary
+0501KSN,Kwa Stone,-1.286664,36.973706,,33J 33UTW,Shopping Mall,Fagilia Stage
+0500KWT,Kwa Transfomer,-1.303645,36.916636,,33B,,
+0400KWA,Kwal,-1.306381,36.841321,,69,Total,
+0513KWR,Kware,-1.396812,36.750240,,125 126 126RK,,
+0401KWR,Kware,-1.307549,36.889996,,33C 34J 33DC 33DP 33TP 33FED 33GTB,,Tassia Matatu Stage
+0211KRE,Kware,-1.189211,36.930236,thika_road,145 237 45K,,Kahawa sukari
+0210KRE,Kware,-1.191558,36.928653,thika_road,145 237 45K,,Kahawa sukari
+0500LBN,Laibon Lane,-1.360978,36.724102,,24C,,
+0801LVW,Lake View,-1.243660,36.768240,,119,,Crossroads
+0511LGT,Lang'Ata,-1.328457,36.789744,,15 24 125 126 24C 34L,Lang'Ata Hospital | Langata | Langata/Mobil,
+0501LGC,Lang'Ata Cemetery,-1.334967,36.778186,,24 125 126,,
+0500LRJ,Lang'Ata Road Junction,-1.340833,36.750538,,24 24C 24BK,Mamba | Nairobi Academy,Tangaza University
+0500LGS,Lang'Ata Road Stage/St. Mary'S H,-1.332642,36.782240,,24 125 126 24C,Orphanage,
+0511HIG,Langata High,-1.325639,36.785386,,15 34L,Mugumoini Market,
+0500LNP,Langata Primary,-1.324970,36.779970,,15,,
+0501PRI,Langata Prisons,-1.323154,36.776741,,15 34L,Mosque,
+0510LGP,Langata Road Primary School,-1.317562,36.812316,,15 125 126 34L,,
+0511TUS,Legend/Tuskys,-1.397014,36.753156,,125 126,Tuskys,
+0801LKM,Lekamu,-1.228830,36.731750,,119,,
+0700LEA,Lenana,-1.308366,36.732493,,24 111 24C,,Lenana
+0801LNN,Lenana,-1.289025,36.787129,,48C,Spanish Villas/Lenana,Elgeyo
+0101LSC,Life Sanctuary Church/Muchatha Shopping Centre,-1.191450,36.775071,,106 116,Life Sanctuary/Muchatha | Muchatha Shopping Centre,Life Sanctuary Church/Muchatha Shopping Centre
+0801LNI,Likoni,-1.283381,36.785810,,48B 48C,Viraj,
+0401LKN,Likoni,-1.296171,36.855461,,70/71,,Church army
+0101LIK,Likoni,-1.178733,36.760654,,106 116,Mombasa | Zakau,Likoni
+0101LMC,Limuru Cataring,-1.124567,36.679518,,116,Limuru Catering,
+0101RIE,Limuru Diaries,-1.125841,36.642507,,114R,,
+0100LPS,Limuru Post Office,-1.118464,36.643126,,116,,Limuru Train Station
+0113LMD,Limuru Terminus,-1.108043,36.643534,,115 116 135 114R 114W,Limuru Town Terminal,Limuru Train Station
+0810LIO,Lion'S Place,-1.260681,36.794578,,30 105 115 135 48K 114W 23KG,Lions Place,Safaricom/Saf
+0801MSO,Loreto Msongari,-1.262055,36.774296,,48K,,James Gichuru/Agriculture
+0801PST,Lower Kabete Posta,-1.240176,36.745579,,118,,Kirawa Close
+0213LUD,Lucky Summer Terminal,-1.239762,36.897502,thika_road,25A,,Kwa Mosque
+0401LHS,Lumumba Hosptial,-1.291841,36.871440,,10,,
+0401LUM,Lumumba Madukani,-1.292253,36.869728,,10 26,Lumumba Shops,
+0800LUN,Lunapark,-1.263331,36.806535,,118 119 11B 119A,Mayfair,Westlands/Ngara/Town Stage
+0700MAU,Maasai Academy/Umoja,-1.331178,36.676680,,111,Umoja,Umoja Bus Station
+0500MSW,Maasai Lane/Masai West,-1.360987,36.722714,,24 24C,Moran Lane/Masai Lane Junction,
+0501MBT,Mabati,-1.369525,36.917027,,110 110ATH,,
+0510MFL,Madaraka Flyover,-1.307844,36.819182,,15 16 125 126 14B 33SB,,
+0500MPS,Madaraka Primary School,-1.306910,36.816270,,14A,Nhc Flats/Madaraka Primary School,KCB/Equity
+0501MKS,Madaraka Shopping Centre,-1.306820,36.817790,,14A,,
+0501MDN,Madina Estate,-1.325505,36.835461,,12D,,Mash Bus services
+0500MIO,Madina Shops,-1.314670,36.823189,,12C 12D,,
+0500MGC,Magacia,-1.395882,36.729181,,126 126RK,,
+0811MGN,Magnolia Hills,-1.233195,36.767044,,119A,,
+0711MGU,Magu,-1.230145,36.680691,,103 129,,
+0201MHG,Mahiga Prima,-1.182534,36.896914,thika_road,44G 44K,,
+0301MSB,Maili Saba,-1.254436,36.911444,,18C 3738 16/62,,
+0810MCP,Main Campus,-1.280986,36.816241,,30 105 115 48A 48B 48C 48O 23KG,,Arusha shuttle
+0212GHT,Main Stage,-1.285212,36.828894,thika_road,145 45G 45K 46B 04SK 35/60,Terminal Tusker | Tuskys Ronald Ngala,Minibuses for Naivasha
+0212RUS,Main Stage,-1.207161,36.785845,,106 107 116 11F 107D 114R,Ruaka Junction | Ruaka Stage | Ruaka/Banana Junction,Ruaka/Banana Junction/Tuskys Supermarket
+0213KHW,Main Stage,-1.183832,36.902287,thika_road,44G 44K,Maziwa,Kahawa West
+0501KAB,Makaburini,-1.299550,36.824716,,11 15 16 110 12C 12D 14A 14B 33B 11_2 33IMR 33MKR 33UTW 110ATH,,
+0511MDK,Makadara,-1.456905,36.974657,,110AK 110ATH,,Athi River (MGR)
+0701MKA,Makina/Kibera Law Courts,-1.307308,36.782543,,8 32A,,Karanja Stage
+0400MKG,Makongeni,-1.294254,36.851282,,10 36 58 33C 34B 34J 04SK 1960 23KS 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39 70/71,Rikana,Church army
+0801MNI,Makueni,-1.284216,36.779104,,48B 48O,Mugoiri,Elgeyo
+0111MKT,Makutano,-1.159354,36.743484,,116,,
+0201MNO,Makutano,-1.064754,36.783189,kiambu_road,120,,
+0401MLH,Mama Lucy,-1.272892,36.897320,,04SK 19C2 19Cdc 38/39,Mama Lucy Hospital,Pioneer academy junction
+0402MLY,Mama Lucy Terminal,-1.275035,36.898525,,20,,Kwa maji
+0401MAM,Mamba,-1.309228,36.859428,,70/71,,
+0301MBP,Mamba Petro Station,-1.268941,36.841927,,6 14 11C 32D 46B 46H 16/62,,Mathare Bus Stop
+0800MGJ,Mandera/Gichugu Road Junction,-1.274985,36.793481,,48B 48O,,
+0211MNG,Mang'U,-1.074880,37.046347,thika_road,237,Mang'u,Witethie
+0401MYJ,Manyanja,-1.294900,36.886970,,1960,,
+0411MRR,Manyanja Road Round About,-1.287370,36.897120,,1960,,
+0400MRS,Mara Savanna,-1.298668,36.892513,,34B 1961K 19Cjk 1961Kd,Savanna,
+0101MRB,Maramba Tea Factory,-1.134492,36.703458,,116,,
+0411MRB,Mareba,-1.308839,36.862310,,70/71,,
+0400MRA,Maria,-1.274310,36.917840,,20 17A 18C 1960 16/62 17Aky 1961K 1961Kd,,Sabasaba
+0410MAK,Market,-1.288553,36.874986,,26,Metropolitan Hospital,
+0500MAR,Marmanet House,-1.310343,36.833681,,11 11_2,Meridian,
+0501MRG,Maro Gardens,-1.358862,36.762636,,125 126,Swara,
+0101ETA,Marrieta,-1.143779,36.661749,,114R,,
+0201MRT,Martanet,-1.223037,36.911830,thika_road,49 17B 17B_2,,Hunters
+0501MAU,Marula,-1.336740,36.715753,,24 24C,,
+0101MIC,Mary Immaculate Catholic Church/Muchatha Shopping Centre,-1.190698,36.774211,,106 116,Mary Immaculate Secondary School/Muchatha,Mary Immaculate Catholic Church/Muchatha Shopping Centre
+0501MBO,Masai Lane Bogani Lane Junction,-1.355250,36.723203,,24 24C,Masai Lane Junction,
+0501MAS,Masai Road,-1.360855,36.729176,,24 24C,Masai West Road,
+0500MSV,Masai Villas,-1.357741,36.723063,,24C,,
+0500MSR,Mashuria,-1.419320,36.706250,,126 126RK,,
+0400MSB,Masimba,-1.278180,36.907970,,20 17A 1960 17Aky 1961K 19Cdc 19Cjk 1961Kd,,Masimba
+0701MTS,Matasia,-1.391168,36.682261,,126N,,Matasia
+0711MTS,Matasia,-1.397253,36.686142,,126N,,Matasia
+0501MAB,Matbronze,-1.363583,36.747385,,24,,
+0500MAT,Mater Hospital,-1.299133,36.826856,,11 11_2,,Railway Stage
+0213MAT,Mathare North Terminal,-1.252119,36.867298,thika_road,29/30,,Stage 29/30
+0301MAP,Mathare Worship,-1.265889,36.851330,,14 28 41 18C 32D 46B 46H 16/62 17Aky,,Kambi
+0701RNR,Matta,-1.230007,36.682717,,103 129,,
+0700MAA,Matta,-1.229908,36.685421,,103 129,,
+0800MAY,Mayfair,-1.263458,36.808186,,118 119 11B 119A,Total Mayfair,Westlands/Ngara/Town Stage
+0503MZW,Maziwa,-1.324799,36.888658,,33MKR,,Maziwa bus stop
+0411MZW,Maziwa,-1.293600,36.849200,,10 36 58 33C 34B 34J 04SK 1960 23KS 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39 70/71,,Church army
+0501ZZL,Mazzoldi House,-1.336380,36.719880,,24BK,,
+0500MGT,Mbagathi,-1.396507,36.761035,,125 126,,
+0600MBA,Mbagathi Flats,-1.301077,36.802553,,24C 34L 33NG,,Mosque
+0401MBC,Mbuyu Court,-1.263300,36.913750,,19C2 19Cdc 19Cjk,Msaponi Court | Msisi Court,Step 1
+0511MCU,Mchumbi Road,-1.311857,36.838319,,11 11_2,South B Mchumbi Road,Mash Bus services
+0700MMB,Meaty Meals Butchery,-1.296511,36.740570,,4W,,Riruta
+0501MLK,Mega Link,-1.339590,36.744000,,24BK,,
+0211MBL,Membley,-1.156242,36.925771,,107D 145D,Round A Bout Eastern Bypass,Membley bus stop
+0210MBL,Membley,-1.156222,36.930358,,145D,,Membley bus stop
+0201MBC,Membley Church,-1.158563,36.937352,,145D,,
+0500MEM,Memorial Hospital,-1.310274,36.805254,,16 33SB,,Kenyatta Market
+0803MDM,Methodist/Mazeras,-1.290119,36.777343,,48B,,Elgeyo
+0511MHG,Mihang'O,-1.287924,36.951816,,33H 33J 33UTW,,Kwa Chiefs Stage
+0710MIH,Mihonge,-1.282169,36.722930,,2 102,Mithonge,
+0500PCH,Milele Nairobi Pcea Headquarters,-1.312743,36.824658,,12C 12D 33SB,Mosque,
+0500MLN,Millenium,-1.395977,36.739571,,126 126RK,,
+0101MIM,Mimosa,-1.212005,36.804767,,107D,,Mugumoini
+0700MTO,Miotoni,-1.312670,36.722468,,24 111 24C,,Kabuagi
+0111MCM,Mirai Court/Mifereji,-1.203220,36.770460,,107 114R,,
+0210MRM,Mirema,-1.213255,36.893031,thika_road,44G 44K 44Z,Mirema Garden | Supreme,Stage
+0401MTK,Mitikenda,-1.180853,36.987592,,145B,,Corner Station
+0501MJN,Mjengo,-1.406255,36.946630,,110 110ATH,,
+0403MKC,Mkanju Court,-1.264130,36.914780,,19C2 19Cdc 19Cjk,,Step 1
+0611MKF,Mkombozi/Fraemy Supermarket,-1.281142,36.751916,,56,,Stage 2
+0101MKB,Mkulima Supermarket/Banana,-1.175287,36.759291,,106 116,,Mkulima Supermarket/Banana
+0301MLG,Mlango,-1.267348,36.843678,,6 14 11C 32D 46B 46H 16/62,Mlango Kubwa,Mlango Kubwa Stage
+0501MLG,Mlangoni,-1.450050,36.968372,,110,Portland,Athi River (MGR)
+0711MLK,Mlangosoko,-1.288554,36.743012,,2 3U 102 103,,Kawangware
+0511MLL,Mlolongo,-1.393566,36.939562,,110 110ATH,Stage  Ya Chini,Mlolongo
+0500MMU,Mmu/Posta,-1.382143,36.770575,,125 126,Multimedia University,
+0310FRC,Moi Airforces Stage,-1.265835,36.858775,,14 28 41 18C 32D 46B 46H 16/62 17Aky,,Matatu
+0501MOE,Moi Educational Centre,-1.313370,36.818980,,14B,,
+0700MOG,Moi Girls,-1.303361,36.787901,,8 32A,Moi Girls' School Junction,Prestige Plaza
+0501MSA,Mombasa Road,-1.318342,36.838730,,11 11_2,Sori,Mash Bus services
+0501MRT,Mombasa Road Turnoff,-1.321916,36.842236,,110 12C 12D 33B 33IMR 33MKR 33UTW 110ATH,Shell,Dreamline Bus services
+0601MON,Montessouri,-1.292854,36.774758,,56 46K,,Elgeyo
+0600MOS,Mosque,-1.303038,36.802441,,24C 34L 33NG,,Mosque
+0201MSQ,Mosque,-1.252661,36.865157,thika_road,29/30,,Stage 29/30
+0301MTS,Mother Teresa Road,-1.257648,36.874272,,14 28,,ROUTE 46
+0711MTL,Motherland,-1.299889,36.783829,,2 5 4W 102 111 24C,,Adams
+0101MCY,Mothers Mercys,-1.180059,36.725487,,114R,,
+0801MVT,Mountain View/Total Petrol Station,-1.264670,36.738660,,30 105 115 135 114W,Thing'O,Mountain View
+0100MRC,Movers/Rosslyn Centre,-1.211020,36.790190,,106 107 116 11F 114R,Shakers/Rosslyn Gate,Movers/Rosslyn Centre
+0500MOW,MOW,-1.318489,36.829564,,12C 12D,,Mash Bus services
+0310MPP,Mowlem Police Post,-1.256670,36.905902,,18C 3738 16/62,,
+0800MPS,Mp Shah,-1.264820,36.811256,,118 119 11B 119A,Police Post Parklands,Chiromo Bus Stage
+0401MKB,Mt Kenya Bar Shauri Moyo,-1.291703,36.855431,,23KS,,Church army
+0411MUT,Mtindwa,-1.285120,36.883921,,04SK 19C2 19Cdc 35/60 38/39 3560_2,Mutindwa,Umoja/ Mutindwa
+0701MUT,Mugiriti,-1.281313,36.703454,,2 102,,Waithaka
+0811MUG,Muguga,-1.186133,36.646986,,115 135 114W,,Muguga
+0111FRM,Muguku Farm,-1.176554,36.718575,,114R,,
+0703MHR,Muhia Road,-1.290511,36.730253,,4W,Shine Centre,Kibiria
+0401MKC,Mukokoa Court,-1.262199,36.912699,,19C2 19Cdc 19Cjk,,Step 1
+0501MKR,Mukoma Road,-1.372141,36.768620,,125 126,,
+0700MRT,Murigiti,-1.282518,36.699162,,2 102,,
+0800MUS,Museum,-1.274128,36.811825,,30 105 115 135 48A 48B 48C 114W 23KG,,Nairobi
+0810MSM,Museum,-1.272516,36.815132,,118 119 11B 23W 119A,,Nairobi
+0201MSH,Mushroom,-1.195820,36.838220,kiambu_road,100 120 121 100A,,
+0700MUL,Muslim,-1.281990,36.737025,,3U 103,Naivasha/Naivasha Road Flat | St.John College | St.John College Riruta,Raila Estate
+0211MTG,Muthaiga,-1.259818,36.843621,kiambu_road thika_road,25 43 49 100 120 121 145 17B 237 25A 44G 44Z 45G 45K 100A 29/30,Muthaiga Golf Club Entrance | Muthaiga Golf Club Stage,Muthaiga Bus Stop
+0101MTH,Muthaiga Junction,-1.228633,36.798518,,108,New Muthaiga,Village Market
+0110MTS,Muthaiga Shopping Centre,-1.250440,36.820580,,106 107 116 11F 114R,,Muthaiga Mini Market
+0700MTM,Muthama,-1.280641,36.718732,,2 102,,Waithaka
+0801MGI,Muthangari Police Station,-1.265893,36.773464,,48K,,School
+0810MTG,Muthiga,-1.249498,36.684430,,103 105 115 135 114W,Muthiga/Kikopey | Mutiga,Muthiga
+0800MTG,Muthiga,-1.251837,36.687823,,103 105 115 135 114W,Muthiga Academy,Muthiga
+0711MUT,Muthure,-1.229684,36.687599,,103 129,,
+0412MTW,Muthurwa,-1.288449,36.834243,,10 69 33DP 38/39 70/71,,ENA Coach
+0701MTW,Mutindwa,-1.295200,36.744798,,4W,,Satellite
+0403MTW,Mutindwa,-1.286010,36.880660,,36 58,Tuskys,Umoja/ Mutindwa
+0401MVC,Mvinje Court,-1.261780,36.911650,,19C2 19Cdc 19Cjk,,Step 1
+0213STG,Mwiki,-1.233935,36.930523,thika_road,17B 17B_2,,Mwiki
+0403MKI,Mwiki Terminal,-1.235916,36.934875,,20,,Mwiki
+0810MWM,Mwimuto,-1.235070,36.748000,,119,Total/Ack Mwimuto,Kirawa Close
+0801MWG,Mwingi/Garage,-1.280611,36.781790,,48B 48O,,
+0403LMS,Mwisho,-1.290631,36.873744,,10,,
+0400MYC,Myca,-1.260856,36.909709,,04SK 38/39,,Step 1
+0810NNN,N,-1.264136,36.734075,,115 135 114W,,Mountain View
+0400NCC,Nacico,-1.288920,36.839800,,58 33C 34B 34J 04SK 1960 23KS 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60,,ENA Coach
+0711NAT,Nairobi Area Police Traffic Headquarters,-1.296463,36.808161,,2 8 4W 102 111 32A 33NG,,KNH/KMTC
+0710NAQ,Nairobi Area Traffic Headquarters,-1.297054,36.806435,,8 4W,,KNH/KMTC
+0501NNP,Nairobi National Park Gate,-1.348156,36.764887,,125 126,,
+0511OPR,Nairobi National Park/Orphanage,-1.334299,36.779501,,24 125 126,,
+0801NSH,Nairobi School,-1.260350,36.771080,,30 105 115 135 114W 23KG,,School
+0701NWT,Nairobi Water,-1.303876,36.777757,,5,,Ndemi bus stop
+0500NBW,Nairobi Women,-1.396461,36.745890,,126 126RK,Nairobi Womens,
+0201NAS,Naivas,-1.218873,36.895474,thika_road,49 17B,,Roysambu
+0210NVS,Naivas,-1.243809,36.877718,thika_road,25 25A,,adapt alight
+0710NKT,Nakumatt Junction,-1.299031,36.762577,,2 24 4W 102 111 24C,,Tankard
+0711NKP,Nakumatt Prestige,-1.299708,36.787362,,2 5 4W 102 111 24C,,Prestige Plaza
+0201NTR,Nakumatt Ridgeways,-1.225250,36.838830,kiambu_road,100 120 121 100A,,
+0110NKT,Nakumatt Stage,-1.260180,36.818550,,11A,Nakumatt/Post Office,Agha khan hospital junction/ 3rd parklands ave
+0501NMJ,Namanga Junction,-1.434982,36.971118,,110ATH,,Namanga Junction
+0610NWH,Nariobi Womens Hospital,-1.293984,36.795456,,5 56 46K 46Y,Quality,Bus Stop
+0401NAS,Nas,-1.337240,36.919257,,34J,,
+0410NSE,Nasra Estate,-1.279780,36.900980,,20 17A 17Aky,,Masimba
+0510NST,Naston,-1.397324,36.758091,,125 126,,
+0501NTN,Nation,-1.372267,36.920297,,110 110ATH,,
+0410NCK,Ncck,-1.295810,36.876680,,36 58,,
+0501NDG,Ndege Road,-1.336550,36.722490,,24BK,,
+0500NDG,Ndege Road,-1.354816,36.720121,,24C,,
+0101NDJ,Ndenderu Junction,-1.192266,36.743758,,107 114R,Ndenderu Redeemed Gospel | Ndenderu Sda,
+0100NKD,Ndenderu Kwa Maduka,-1.194490,36.750610,,107 114R,,
+0111NDS,Ndenderu Stage,-1.193030,36.748020,,107 114R,,
+0200DBR,Nduberi Factory,-1.140917,36.805701,kiambu_road,120,Ndumberi Factory,
+0211DBR,Ndumberi,-1.151550,36.805526,kiambu_road,120 121,,
+0803NDT,Ndumbuini Terminus,-1.256940,36.723700,,30,,Ndumbuini
+0701NDW,Ndwaru,-1.279007,36.735903,,3U 103,,Raila Estate
+0201NEH,Neighbours,-1.226942,36.871015,,53,,
+0401NBP,Neighbours Buruburu Phase 1,-1.277615,36.875755,,26 26S 23KS,Neighbours Phase 1,
+0501NEK,Nema/Mavuno,-1.320611,36.837315,,12C 12D,,Mash Bus services
+0700NPS,Nembu Primary School,-1.281202,36.720097,,2 102,,Waithaka
+0800NKE,New Kitisuru Estate,-1.235760,36.749480,,119,New Kitisuru Estate/Total,Kirawa Close
+0300NGE,New Ngara Estate,-1.279750,36.831313,,3N,,Narokline
+0711NEW,Newa Estate,-1.308006,36.799441,,33NG,,Ngumo Stage
+0211NGR,Ngara,-1.274601,36.824122,kiambu_road thika_road,6 25 3N 49 11C 145 237 25A 44G 44Z 45K 46B 100A 29/30,Ngara Bus Terminals,Ngara
+0800NGR,Ngara Flyover Bottom,-1.277281,36.821147,,118 119 11B 119A,,Globe
+0200GPS,Ngemwa Police Post,-1.121695,36.818793,kiambu_road,120,Police Post,
+0713NBT,Ngong Bus Terminus,-1.360429,36.656037,,111 126N,Ngong Town,Country Club
+0701NGR,Ngong Resort,-1.380401,36.676708,,126N,,Kona Stage 46
+0700PTR,Ngong/Petroh,-1.363019,36.656141,,126N,Petro/Mwisho,Country Club
+0213NGB,Ngumba Terminal,-1.233753,36.884501,thika_road,43,,Ngumba Bus Terminal
+0700NHF,Nhif,-1.294490,36.812269,,2 8 24 4W 56 102 111 24C 33NG,,KCB/Equity
+0501NIB,Nibs/Ongata Rongai,-1.391825,36.765940,,125 126,,
+0501NNL,Nice N Lovely,-1.354464,36.906630,,110 110ATH,Reliance,Nairobi Terminus
+0101NRE,Nish Raaj Estate,-1.258620,36.814840,,11A,Nish Raaj Estate/Kusi Lane,
+0200JIN,Njino,-1.100941,36.797296,kiambu_road,120,,
+0411NJR,Njiru,-1.250485,36.940001,,20 3738 38/39,,
+0800NJG,Njuguna'S,-1.258870,36.780390,,115 135 114W,,ABC
+0501NKO,Nkoroi White House,-1.404555,36.717500,,126 126RK,White House,
+0401N10,No 10,-1.293061,36.867141,,10 26,Number 10,
+0501NPC,Npc Karen,-1.341765,36.759372,,24 24C 24BK,,
+0700NPC,Npc Ngong,-1.368541,36.658177,,126N,,
+0701NPC,Npc Woodley,-1.303784,36.775032,,5,,Jamhuri Estate
+0311TEN,Number 10,-1.262975,36.863945,,14 28 41 18C 32D 46B 46H 16/62 17Aky,,Kwa Chief Stage
+0701NSC,Nursing Council,-1.301691,36.790328,,8 32A,Peak Academy,Prestige Plaza
+0401NYV,Nyama Villa,-1.276140,36.908850,,17A 1960 17Aky 1961K 19Cdc 19Cjk 1961Kd,,Masimba
+0400NYD,Nyando,-1.277360,36.915890,,20 17A 18C 1960 16/62 17Aky 1961K 1961Kd,,Nyando
+0101NYR,Nyari,-1.226487,36.795583,,108,,Rosslyn Valley
+0101NYG,Nyari Gate 2,-1.225544,36.791386,,108,,
+0101NGG,Nyari Gate 3,-1.225371,36.785596,,108,,
+0101NYP,Nyari Police,-1.225594,36.787764,,108,,
+0500NYT,Nyati,-1.420839,36.702737,,126 126RK,,
+0201NYT,Nyati,-1.220956,36.873096,,53,,
+0501NYY,Nyayo,-1.305844,36.827054,,15 16 110 125 126 12C 12D 14A 14B 33B 33TP 33FED 33IMR 33MKR 33UTW 110ATH,Nyayo Stadium/Nairobi West Stage,
+0510NYS,Nyayo Stadium,-1.305411,36.824418,,15 16 125 126 14A 14B,,
+0500NTU,Nyotu,-1.397259,36.756804,,125 126,Ongata Police Station/Nyotu,
+0211NYS,Nys Stage,-1.256155,36.855219,thika_road,25 43 49 145 17B 237 25A 44G 44Z 45G 45K 29/30,Survey,Moffa Stage
+0701NYI,Nyumbani,-1.312580,36.699218,,1,Nyumbani Diagnostic Lab,
+0801OMH,Oasis Mission Hospital,-1.232490,36.737670,,119,,
+0111OLB,Oilibya,-1.264690,36.824320,,106 107 116 11A 11F 114R,,OiLibya/2nd Parklands Avenue
+0200OKB,Old Kiambu,-1.173340,36.827050,kiambu_road,100,,Kiambu Bus Stage
+0800OKC,Ole Kejuodo Road/Corner Primary School,-1.275885,36.788924,,48B 48O,Ole Kejuodo/Kandara Road Junction,
+0701RMN,Ole Roimen,-1.405869,36.688167,,126N,Roimen,Oloosurutia Bus Stop
+0300OLE,Ole Suyean Guest Hs,-1.257796,36.911965,,18C 3738 16/62,,Step 1
+0400OOJ,Olomboni Junction,-1.277800,36.892500,,17A 17Aky 35/60 3560_2,,
+0701OLY,Olympic Primary School,-1.311680,36.778158,,8 32A,Olympic Primary School Stage,Olympic Stage
+0401ONT,Onyatta,-1.242568,36.989322,,145B,,
+0600OTH,Othaya,-1.290063,36.772991,,56 46K 48B 48O,Othaya Road | Othaya Road Stage,Valley Arcade Bus Stop
+0511OTD,Otiende,-1.323390,36.779920,,15 34L,,
+0601OLM,Our Lady Of Mercy,-1.311644,36.833907,,33SB,,Mash Bus services
+0401MWS,Outer Mwisho,-1.271684,36.879309,,26 36 26S 23KS,SOS | Sos,Kariobangi South
+0511PNR,Panari,-1.329531,36.855793,,110 33B 33TP 33FED 33IMR 33MKR 33UTW 110ATH,,
+0310PGG,Pangani Gals,-1.270169,36.837382,,6 14 11C 32D 46B 46H 16/62,Pangani Girls,Mathare Bus Stop
+0311PGP,Pangani Police Post,-1.270257,36.835758,kiambu_road,6 100 11C 46B,Pangani Post | Starehe Divisional Police Station,Mathare Bus Stop
+0303PGT,Pangani Terminal,-1.265068,36.838571,,11C,,Mathare Bus Stop
+0511PST,Park Side Towers,-1.324879,36.847687,,110 33B 33TP 33FED 33IMR 33MKR 33UTW 110ATH,,Dreamline Bus services
+0800WPB,Parklands Baptist/Westlands,-1.265669,36.800808,,48C,Westlands/Parklands Baptist,Westlands Bus Stop
+0801PSC,Parklands Sports Club,-1.269615,36.812425,,118 119 11B 119A,,Nairobi
+0501PVW,Parkview/Winners,-1.320817,36.849409,,11_2,Winners,Dreamline Bus services
+0413PSB,Passenger Boarding,-1.329602,36.924790,,34J,,
+0401PD1,Passenger Drop Off 1,-1.330685,36.924092,,34J,,
+0211WTH,Past Mang'U,-1.068262,37.050516,thika_road,237,Witeithie,Witethie
+0400PTC,Patco,-1.308593,36.864654,,70/71,,
+0700PWA,Pathway,-1.305832,36.742077,,24 111 24C,,Racecourse Bus Stage
+0410PCE,Pcea,-1.271410,36.912450,,1960 19Cjk,,Kanisani
+0500PCA,Pcea Junction,-1.330630,36.780500,,15,,
+0700PCS,Pcea Kwa Kanisa,-1.356696,36.657016,,111,,Country Club
+0710PMP,Pcea Milimani Presbytary,-1.328510,36.682712,,111,Shade Hotel,Bus station
+0401PCK,Peacock,-1.278310,36.890340,,17A 17Aky 35/60 3560_2,,
+0711PFE,Pefa King'Eero,-1.224241,36.706924,,103 129,,Pefa King'eero
+0100PEF,Pefa/All Nations/Muchatha,-1.197129,36.782933,,106 116,Redeemed/Pefa Muchatha,Pefa/All Nations/Muchatha
+0801PPC,Peponi Court,-1.285899,36.782360,,48B,,Elgeyo
+0801PSE,Peponi House,-1.243697,36.760810,,118,Peponi House Preparatory,
+0801PPN,Peponi Road,-1.259150,36.801770,,118 119 119A,Peponi Road Junction/Sarit | Sarit,Peponi Road
+0701PMS,Perminus,-1.351343,36.658962,,111,,Elpaso
+0501SYC,Petma/Mlolongo Chini,-1.396349,36.941417,,110 110ATH,Solomon,Mlolongo
+0201PTR,Petro Ststin,-1.050380,37.057783,thika_road,237,,Njomoko
+0400PSM,Phase 1 Monument,-1.274204,36.877514,,26 26S 23KS,,
+0401P3B,Phase 3B,-1.268758,36.906726,,19Cdc 19Cjk,,Kanisani
+0411PFS,Phase 4 Stage,-1.289460,36.882040,,36 58,,Umoja/ Mutindwa
+0411PFJ,Phase 4 Ya Juu,-1.292520,36.882460,,36 58,,Umoja/ Mutindwa
+0401PS4,Phase 4/Car Wash,-1.268370,36.905710,,19Cdc 19Cjk,,Kwa maji
+0411PH5,Phase 5,-1.291850,36.900560,,34B 1961K 19Cjk 1961Kd,,
+0410PH8,Phase 8,-1.288710,36.903420,,34B 1961K 19Cjk 1961Kd,,
+0401P1M,Phase1  Market,-1.262430,36.910300,,19C2 19Cdc 19Cjk,,Step 1
+0800PCR,Pine Crib Apartments,-1.240220,36.665730,,105 129,Starehe Maize,Kikuyu Bus Station
+0400PIO,Pioneer Estate,-1.267833,36.880376,,26 26S,,Kwa Mbao Stage
+0401PPL,Pipeline,-1.317528,36.896065,,33C 34J 33DC 33DP 33TP 33FED,,Fedha Matatu Stage
+0500PLC,Places,-1.396056,36.740775,,126 126RK,,
+0511PLV,Plains View Primary,-1.315158,36.838304,,11,,Mash Bus services
+0500PVE,Plainsview Education Point,-1.319592,36.841317,,11 11_2,Sana Sana,Dreamline Bus services
+0500PLV,Plainsview Phase 5,-1.318531,36.845042,,11 11_2,,Dreamline Bus services
+0110PMT,Pm Flats,-1.203750,36.772570,,107 114R,Pm Flats/ Runda View | Pm Flats/ Runda View 2,
+0112POL,Poland Embassy,-1.234835,36.803782,,106 107 108 116 11F 114R,Redhill Road | Redhill Road Junction,Redhill Road/Polish Embassy
+0201PPS,Police Post,-1.219857,36.894257,thika_road,49 17B,Regional,Roysambu
+0210PPS,Police Post,-1.219433,36.903631,thika_road,49 17B 17B_2,Seasons,Kwa DO
+0400PST,Post,-1.281050,36.913740,,20 17A 1960 17Aky,Soweto,Soweto
+0701PSA,Posta,-1.300362,36.774018,,2 5 24 4W 102 111 24C,Posta Stage | Posta/Ole Odume Road,Ndemi bus stop
+0411PST,Posta,-1.295280,36.856780,,10 36 58 33C 34B 34J 04SK 1960 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39,,Church army
+0301PST,Posta,-1.276317,36.826705,,3N,,Ngara
+0503PEV,Posta Embakasi Village,-1.308323,36.911462,,33FED,,
+0101POW,Power,-1.217477,36.778214,,108,,
+0801PMB,Prime Bank,-1.271048,36.801651,,48A 48B 48C 48O,Prime Bank Stage,Chiromo Bus Stage
+0400PMR,Prime Rose,-1.276350,36.916760,,20 17A 18C 1960 16/62 17Aky 1961K 1961Kd,Rasta | Raster,Nyando
+0401PSN,Prison,-1.300879,36.837576,,69,,
+0211PRS,Prison,-1.151880,36.929416,,107D 145D,Ruiru Prisons,
+0213PGG,Proggie,-1.209074,36.928213,,45P,,
+0210PMH,Pumwani Hos,-1.279972,36.846210,,28 41,,
+0210PMS,Pumwani Stage,-1.284349,36.843160,,28 41,,
+0500QRL,Quarry Lane,-1.354529,36.717501,,24C,,
+0403QKM,Quickmart,-1.271193,36.996888,,3738 38/39,,Ruai
+0700RAC,Racecourse,-1.306525,36.738683,,24 111 24C,,Racecourse Bus Stage
+0501RTI,Railway Training Institute,-1.313674,36.842114,,11_2,,Mash Bus services
+0512RLW,Railways,-1.290352,36.828268,,2 8 4W 56 102 111 125 126,,Railway Stage
+0400RPY,Raiply,-1.307445,36.873329,,70/71,,
+0800RRD,Ramisi Road,-1.285672,36.762897,,48K,,Legomaria
+0400RST,Raster,-1.275370,36.917430,,20 17A 18C 16/62 17Aky 1961K 1961Kd,,Sabasaba
+0300RND,Raunda,-1.262478,36.878913,,26 41 42 17A 18C 26S 32D 46B 2030 3738 16/62 17Aky,Rounda | Rounder | Terminal Tusker | Tounder Terminal,Kwa Mbao Stage
+0700RCR,Red Cross,-1.279765,36.689714,,102,,Dagoretti Market
+0101RED,Red Hill,-1.170810,36.708554,,114R,,
+0501RCK,Redcross/Kipi,-1.322266,36.833311,,12C,,Mash Bus services
+0101REN,Redeemed Ndenderu,-1.192380,36.745040,,107 114R,,
+0801RGN,Regen Filling Station,-1.246530,36.680240,,103 105,,White House/Regen
+0201RGC,Regional Centre,-1.220720,36.892773,thika_road,49 17B,,TRM
+0700REL,Relic House,-1.297839,36.753706,,4W,Suma House,Tankard
+0610RMX,Remax Shopping Village,-1.293373,36.792853,,5 56 46Y,,Bus Stop
+0701RHP,Rhino/Rhinopark Road,-1.301905,36.684969,,1,Rhinopark Road/Rhino/Resurrection Gardens,
+0801RHY,Rhythm College,-1.238770,36.728965,,118,,Gacio
+0700RIR,Riara,-1.295857,36.755917,,2 3U 102 103,,Tankard
+0101DGG,Ridgesways Girls,-1.215046,36.864683,,107D,,
+0201RDS,Ridgeway Springs,-1.229240,36.840250,kiambu_road,100 120 121 100A,,
+0411RIK,Rikana,-1.293424,36.852130,,6E,,Church army
+0501RIM,Rimpa,-1.418404,36.708186,,126 126RK,,
+0811RRN,Rironi,-1.154499,36.638699,,115 135 114W,,
+0701RSF,Riverside Flats,-1.277609,36.735855,,3U 103,,Raila Estate
+0800RLN,Riverside Lane,-1.269707,36.794005,,48A,Riverside Lane/Montessori,
+0201RZA,Riziki Academy,-1.280670,36.838466,,7,,Narokline
+0401ROA,Road A,-1.318074,36.863021,,69,,
+0201RST,Roasters,-1.233597,36.872552,,53,,
+0201ROC,Rock City,-1.238200,36.843980,kiambu_road,100 120 121 100A,,
+0401ROK,Rocks,-1.272850,36.911150,,17A 1960 17Aky 19Cdc 19Cjk,,Kwa D.O
+0402CMK,Ronald Ngala/Tuskys,-1.285901,36.827633,,46H 19Cdc,Terminal Tusker,ROG SACCO
+0500RNG,Rongai,-1.395231,36.763465,,125 126,Tumaini/Ongata Rongai | Uchumi/Masai Mall/Ongata Rongai,
+0701ROS,Rose Of Sharon,-1.301224,36.792779,,8 32A,,Prestige Plaza
+0101RSH,Roslyn Heights,-1.223669,36.782832,,108,Sda Church,
+0101ROR,Rosslyn Road,-1.217210,36.800430,,106 107 116 11F 114R,Rosslyn Road/Karura Community Chapel,Rosslyn Road/Riviera
+0210RSB,Rosyabu,-1.220318,36.891129,thika_road,49 145 17B 237 45G 45K,Roysabu,Roysambu
+0101NRP,Round A Bout Eastern Bypass,-1.155165,36.926129,,107D 145D,Roundabout,Membley bus stop
+0411RND,Rounda,-1.264240,36.908340,,18C 19C2 16/62 19Cdc 19Cjk,Rounder,Kanisani
+0403RDA,Rounda,-1.322971,36.899447,,33B 33C 33H 33J 34J 33DC 33DP 33TP 33FED 33UTW,Rounda/Taj | Roundabout | Taj Mall Roundabout,Taj Mall
+0201RYS,Roysabu,-1.218631,36.890574,thika_road,145 237 44G 44K 44Z 45G 45K,Roysambu Terminus,Roysambu
+0212RSY,Roysambu Terminus,-1.217073,36.896534,,17B_2,,Equity
+0101RCC,Ruaka Catholic Church,-1.206200,36.780550,,107 114R,Ruaka Catholic Church Entrance | Slaughter,Bypass
+0101RDC,Ruaka Dc,-1.206500,36.781710,,107 114R,Ruaka Redeemed Gospel Church,Bypass
+0201RUK,Ruaraka,-1.214531,36.876177,,53,,
+0213MRY,Ruiru,-1.147565,36.959228,thika_road,145 107D 145B 145D,,Ruiru stage
+0101RMY,Rumenya,-1.199610,36.757940,,107 114R,,
+0500RRN,Rumi Road/Ngara Sports Club,-1.316231,36.827854,,12C 12D,,
+0101REE,Runda Estate Entrance,-1.218600,36.801680,,106 107 116 11F 114R,,Runda Estate Entrance
+0201RND,Runda Junction,-1.221810,36.836100,kiambu_road,100 120 121 100A,,
+0101RUD,Runda Road,-1.215523,36.815038,,107D,,
+0811RNG,Rungiri,-1.242850,36.677020,,103 105 115 135 114W,,Rungiri
+0501SBK,Sabaki,-1.420016,36.954022,,110 110ATH,,
+0400SBA,Sabasaba,-1.273060,36.918220,,20 17A 18C 1960 16/62 17Aky 1961K 1961Kd,,Sabasaba
+0101SHT,Sacred Heart,-1.186283,36.767421,,106 116,,Sacred Heart
+0411SKA,Saika,-1.258552,36.916400,,3738 38/39,,Kayole 1
+0511SMR,Sameer,-1.330708,36.863853,,110 33B 33TP 33FED 33IMR 33MKR 33UTW 110ATH,,
+0400SNG,Sango,-1.286530,36.894450,,35/60,,
+0700STK,Santack Estate,-1.302958,36.750277,,24 111,,Santack stage
+0800SRT,Sarit Center,-1.260787,36.802791,,118 119 119A,,Westlands/Ngara/Town Stage
+0401SVN,Savanna,-1.297100,36.894410,,34B 1961K 19Cjk 1961Kd,Tumaini,
+0211SSN,Seasons,-1.218672,36.902619,thika_road,49 17B 17B_2,Tides,Kwa DO
+0401S3B,Sector 3B,-1.265130,36.907690,,19C2 19Cdc 19Cjk,,Kanisani
+0510SBR,Sembe Road,-1.368350,36.767615,,125 126,,
+0500SNR,Senior,-1.437106,36.966675,,110,,Namanga Junction
+0311SEN,Senior,-1.260132,36.890638,,36 41 42 18C 32D 3738 16/62,,SENIOURS STAGE
+0611SRN,Serena,-1.288756,36.813043,,5 56 7C 24C 32A 46K 46Y,,East Africa Shuttles and Safaris
+0210SEW,Sewage,-1.098769,37.024440,thika_road,237,Sewage Stage,High point
+0701SHT,Shade Hotel,-1.328036,36.684113,,111,,Bus station
+0501SHM,Shalom,-1.435689,36.966667,,110,,Namanga Junction
+0211SHP,Shark'S Palace,-1.240600,36.844220,kiambu_road,100 120 121 100A,,
+0500SAT,Shee Ambaji Temple,-1.315905,36.826178,,12C 12D,,
+0510SHL,Shell,-1.447511,36.968263,,110,Shell/Kenol,Athi River (MGR)
+0710SEL,Shell,-1.280461,36.690578,,2 102,Shell Dagoretti Police Station | Shell/Dagoretti Police Station,Dagoretti Market
+0401SHL,Shell,-1.314588,36.858637,,69,,
+0200SHL,Shell,-1.235088,36.873169,thika_road,43,,
+0700SHW,Shell/Hobwogi/Motton West Road,-1.316487,36.718119,,24 111,,Kabuagi
+0501TML,Shell/T-Mall,-1.311067,36.817232,,15 16 24 125 126 14B 33SB,T-Mall,
+0401SLT,Shimo La Tewa,-1.303610,36.829010,,405,,
+0800SHK,Shirika House,-1.273255,36.816427,,118 119 11B 119A,,Stima Plaza
+0700SGR,Showground,-1.301694,36.753688,,24 111 24C,Showground/Fastenergy,Kimbo Stage Bus Stop
+0811SIG,Sigona,-1.223703,36.663543,,115 135 114W,Sigona Golf,
+0201SKL,Sikiliza,-1.187897,36.895412,thika_road,44G 44K,,
+0401SNI,Sinai,-1.306552,36.878740,,70/71,,
+0810SIT,Site,-1.180555,36.644643,,115 135 114W,,Muguga
+0510SKY,Skyline,-1.284278,36.972475,,33J 33UTW,,Fagilia Stage
+0101SLT,Slaughter,-1.205230,36.777540,,107 114R,,Bypass
+0801SDM,Sodom,-1.264250,36.754260,,30 105 115 135 114W 23KG,,Sodom
+0311SOK,Soko,-1.262113,36.881741,,41 42 18C 32D 3738 16/62,,Kwa Mbao Stage
+0510SKN,Sokoni,-1.448606,36.980339,,110AK 110ATH,Sokoni/Pauline,Athi River (MGR)
+0611SOK,Sokoni,-1.286301,36.745661,,46K,,Kawangware Sokoni
+0500SLN,Solomon,-1.398712,36.942261,,110 110ATH,,Mlolongo
+0400SOS,Sosiani,-1.281380,36.905430,,1960 1961K 19Cjk 1961Kd,,Masimba
+0501SBD,South B Dispensary,-1.316795,36.842860,,11_2,,Dreamline Bus services
+0500WAT,South C Turnoff/Water,-1.315526,36.824171,,12C 12D,,
+0500SFA,Southern First Assemblies Of God,-1.313530,36.823518,,12C 12D,,
+0500SLE,Southland Estate,-1.323070,36.786830,,15 34L,Southlands,
+0400SWT,Soweto,-1.281440,36.914760,,20 17A 17Aky,,Soweto
+0801SVP,Spring Valley Police Station,-1.250230,36.784930,,118 119,,Loresho
+0810SVI,Spring Valley Shopping Centre,-1.248083,36.797256,,119A,Spring Valley Shopping Centre/Oilibya,Kabete Lane/Total Spring Valley/ Bypass
+0811SVL,Spring Valley Stage/Intel College,-1.251430,36.786990,,118 119,,Kabete Lane/Total Spring Valley/ Bypass
+0111SPU,Spu Limuru,-1.148257,36.666204,,114R,,
+0200FRS,St Francis,-1.226196,36.916057,thika_road,49 17B 17B_2,,Hunters
+0201RET,St Margret,-1.207715,36.924788,,45P,,Githurai
+0301SNT,St Teresa,-1.266468,36.847688,,6 14 18C 32D 46B 46H 16/62 17Aky,St.Teresa,Mkokoteni
+0100STJ,St. Annes (Kwa Daraja),-1.194370,36.735060,,107,,Rt 107 Bus Stop
+0100STN,St. Annesud,-1.194520,36.738340,,107,St.Annes,Rt 107 Bus Stop
+0801STM,St. Marks,-1.261320,36.797490,,30 105 115 135 48K 114W 23KG,St. Marks Church,Peponi Road
+0801STU,St.Austin'S,-1.275686,36.771938,,48A 48K,,
+0801STC,St.Catherine,-1.234171,36.775423,,119A,,
+0710SHO,St.Hannah'S School,-1.302533,36.691254,,1,St.Hannahs School,
+0700SJK,St.Joseph'S Kabete,-1.265614,36.721817,,3U 103,,ILRI Bus Stop
+0801SNT,St.Mary'S School,-1.268121,36.775004,,48K,St.Mary'School,James Gichuru/Agriculture
+0513HOS,St.Marys Hospital,-1.321754,36.774397,,15 34L,Terminal,
+0501PET,St.Peters,-1.327623,36.785141,,15 34L,St.Peters Methodist,
+0602STP,St.Peters Clavers Primary School/Salvation Army/Otc,-1.287135,36.830235,,33NG,,ENA Coach
+0501SVK,St.Veronica Ack,-1.312392,36.842398,,11_2,,Mash Bus services
+0211STD,Stadium,-1.224904,36.885542,thika_road,49 145 17B 237 44G 44Z 45G 45K,,Route 44/45
+0210STD,Stadium,-1.221149,36.890238,thika_road,49 145 17B 237 44G 44Z 45G 45K,,Roysambu
+0300FTY,Stage 41,-1.249049,36.901230,,36 41 42 32D,,
+0401STG,Stage Mpya,-1.312419,36.892929,,33C 34J 33DC 33DP 33TP 33FED 33GTB,,Fedha Matatu Stage
+0500SYC,Stage Ya Chini,-1.394802,36.940013,,110 110ATH,,Mlolongo
+0500SYJ,Stage Ya Juu,-1.391432,36.937822,,110 110ATH,Tops/Stage Ya Juu,Mlolongo
+0501SDG,Standard Group,-1.330994,36.859842,,110 33B 33TP 33FED 33IMR 33MKR 33UTW 110ATH,,
+0501STS,Starsheik,-1.456219,36.979792,,110AK 110ATH,Starsheik Academy,Athi River (MGR)
+0201STM,Steam,-1.222930,36.872273,,53,,
+0500STM,Steel Markers,-1.337803,36.894404,,110 110ATH,Tuffsteel,Cabanas Bus Stop
+0400STL,Stella,-1.289596,36.885163,,04SK 19C2 19Cdc 35/60 38/39 3560_2,,Umoja/ Mutindwa
+0101STP,Stima Plaza,-1.270430,36.820480,,106 107 116 11A 11F 114R,Stima Plaza Stage,Stima Plaza
+0211STM,Stimmer Corner,-1.223906,36.908177,thika_road,49 17B 17B_2,,Kwa DO
+0811STR,Strathmore School,-1.271307,36.775231,,48A 48K,Strathmore School/Mbabane Road,
+0500STR,Strathmore University/Siwaka,-1.308740,36.812510,,14A,Strathmore/Siwaka,Kenyatta National Hospital Bus Stop
+0101CHF,Sub Chief,-1.219799,36.778197,,108,,
+0801SGS,Sugar Board/Shell,-1.264540,36.741970,,30 105,Sugarboard,Mountain View
+0711SGO,Sugoini,-1.290401,36.745675,,2 3U 102 103,,Coast Stage
+0500SMI,Sulami,-1.457730,36.978475,,110AK 110ATH,Sulami/Nyambura,
+0701SMR,Summer-Rock,-1.270700,36.728392,,3U 103,,ILRI Bus Stop
+0201SUN,Sunton,-1.228819,36.919796,thika_road,49 17B 17B_2,Suntos,Hunters
+0711SUN,Sunview Estate,-1.306038,36.801389,,33NG,,Kenyatta Market Flyover
+0401SPL,Supa Loaf,-1.269006,36.901947,,04SK 19C2 38/39,,Kwa maji
+0201SPH,Super High Way,-1.164449,36.955839,,145D,,Membley/ Gitambaya
+0400SPE,Super Highway,-1.165114,36.958521,,145B,Super Higway,Membley/ Gitambaya
+0210SMB,Supermambo,-1.270240,36.832700,kiambu_road,100 120,,
+0511SYK,Syokimau,-1.379047,36.927758,,110 110ATH,,
+0500SKR,Syokimau Railway Station,-1.359653,36.907814,,110 110ATH,,
+0501TAM,Tamambo,-1.345196,36.714403,,24,,
+0511TAN,Tangaza College,-1.348801,36.748751,,24 24C,,Tangaza University
+0700TRD,Tankard,-1.300614,36.756625,,24 111 24C,Tankard/Shallow,Tankard
+0400TSA,Tassia,-1.310417,36.891554,,33C 34J 33DC 33DP 33TP 33FED 33GTB,Tumaini,Tassia Matatu Stage
+0700TBK,Tea Board/Dagoretti Corner,-1.298052,36.757968,,2 3U 4W 102 103,,Tankard
+0411TEN,Tena,-1.293000,36.889790,,1960,,
+0212KRT,Terminal Otc,-1.284054,36.831179,,14,,Naivasha bus stop
+0401TPK,Tetrapark,-1.313706,36.855886,,69,,
+0311THY,Thayo,-1.262340,36.865956,,14 28 41 18C 32D 46B 46H 16/62 17Aky,,Kwa Chief Stage
+0700TLF,The Legend/Kwa Farasi,-1.321118,36.710461,,24 111,,Karen Bus Stop
+0511IFC,The Office,-1.309533,36.828803,,110 12C 12D 33B 33TP 33FED 33IMR 33MKR 33UTW 110ATH,,
+0800TGR,Thigiri Ridge,-1.243299,36.792342,,119A,Thigiri Ridge/Kitisuru Road,
+0213TKD,Thika Town,-1.035427,37.076427,thika_road,237,,Munyu Bus Station
+0211TND,Thindigwa,-1.200300,36.835010,kiambu_road,100 120 121 100A,,
+0101TIG,Tigoni,-1.126739,36.671944,,116,,
+0211TGA,Ting'ang'a,-1.128688,36.811402,kiambu_road,120,,
+0701TGA,Togo Apartments,-1.304884,36.774581,,5,,Jamhuri Estate
+0501TLL,Toll,-1.426369,36.958794,,110 110ATH,,
+0411TMH,Tom Mboya Hall,-1.296610,36.878320,,33C 34B 34J 04SK 1960 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39,,
+0311TON,Tononoka,-1.257539,36.902470,,18C 3738 16/62,,
+0211TRT,Torrents,-1.160659,36.943904,,145D,,
+0201TRT,Torrents,-1.158939,36.938575,,145D,,
+0511TSH,Tosha,-1.470376,36.960409,,110 110AK,,
+0400TTL,Total,-1.270318,36.880947,,26 17A 26S 23KS 17Aky,Total Petrol Station,Kariobangi South
+0311TOT,Total,-1.258169,36.893431,,36 41 42 18C 32D 3738 16/62,,SENIOURS STAGE
+0400TJR,Total Jogoo Road,-1.298008,36.869484,,36 58 33C 34B 34J 04SK 1960 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39,,
+0501KET,Total Karen,-1.338950,36.739760,,24BK,,
+0710TTL,Total Ngong Road,-1.299607,36.788665,,2 8 24 4W 102 111 32A,,Prestige Plaza
+0701TTW,Total Wangige,-1.220710,36.712074,,103 118 129,Wangige,Wangige Stage
+0212TKT,Townterminal,-1.284149,36.827805,thika_road,237,,Simba Booking Office
+0401TRN,Transami,-1.325301,36.897708,,33B 33C 33H 33J 33DC 33TP 33FED 33UTW,,Rounda
+0401TNS,Transgobal,-1.338612,36.910735,,34J,,
+0500TRN,Triangle,-1.426975,36.691508,,126 126RK,,Kiserian matatu station
+0200TSS,Tss Petrol Station/Blue Hut Hotel,-1.277000,36.830910,kiambu_road,100 120,,Narokline
+0401TMI,Tumaini,-1.309334,36.890975,,33C 34J 33DC 33DP 33GTB,,Tassia Matatu Stage
+0400TSH,Tushauriane,-1.266440,36.916100,,17A 1960 19C2 17Aky 19Cdc 19Cjk,,Tushauriane
+0201TKS,Tuskeys,-1.041316,37.071367,thika_road,237,,
+0510TSK,Tuskys,-1.317696,36.918819,,33B 33H 33J 33FED 33UTW,,75
+0701TSK,Tuskys,-1.382853,36.676901,,126N,,Kona Stage 46
+0400TSK,Tuskys,-1.290194,36.901926,,34B 1961K 19Cjk 1961Kd,Tuskys Green Span,
+0401TKY,Tuskys,-1.262146,36.976114,,3738 38/39,,
+0401TUY,Tuskys,-1.306922,36.875984,,70/71,,
+0601TWZ,Twinkling Stars School/Zebra Bar,-1.282386,36.752367,,56,Zebra Bar,Stage 2
+0401TWS,Twisters,-1.256270,36.926635,,20 3738 38/39,,Kayole Junction Ez
+0511UCC,Ucc,-1.276622,36.970368,,33H,,Benedicta Bus Stage
+0401UCB,Uchumi Buruburu,-1.288000,36.881530,,36 58,,Umoja/ Mutindwa
+0711UCN,Uchumi Hyper Ngong Road/ Ngong Hills Hotel,-1.299527,36.792314,,2 5 8 4W 102 111 24C 32A,Uchumi/National Oil,Prestige Plaza
+0400UJR,Uchumi Jogoo Road,-1.296180,36.860310,,10 36 58 33C 34B 34J 04SK 1960 33DP 33TP 1961K 19Cdc 19Cjk 33FED 33GTB 35/60 38/39,,Church army
+0400USS,Uhuru Secondary School,-1.283791,36.869433,,26S 23KS,Uhuru Shopping Centre | Uhuru Shops,
+0401UM1,Umoja 1,-1.284130,36.887110,,35/60 3560_2,Umoja 1/Jasho Stage | Umoja Market,Umoja/ Mutindwa
+0400UM2,Umoja 2,-1.279320,36.898080,,17A 17Aky 3560_2,Umoja 2 Terminus,Kwa maji
+0401UM3,Umoja 3,-1.274166,36.894854,,04SK 19C2 19Cdc 38/39,,Pioneer academy junction
+0401UMJ,Umoja Junction,-1.276388,36.886054,,04SK 19C2 19Cdc 38/39,,Kariobangi South
+0412NAI,Umoja Stage,-1.296393,36.886606,,04SK 1960 19C2 19Cdc 35/60 38/39 3560_2,,
+0111TUN,Un,-1.238670,36.810540,,106 107 116 11F 114R,,UN/Gigiri/KTTC
+0711UNV,Universal,-1.347724,36.662526,,111,,El Paso Bus Stop
+0801UON,University Of Nairobi School Of Business,-1.239690,36.739878,,118,,
+0701UKC,Uon Kikuyu Campus,-1.265918,36.674770,,102,Uon Kikuyu Campus Stage | Uon Kikuyu Gate 2,Thogoto
+0700UKG,Uon Kikuyu Gate,-1.263941,36.671096,,102,,Thogoto
+0810UTH,Uthiru,-1.260483,36.717077,,3U 103 105 115 135 114W,Uthiru Exit/Nucleur Petrol Station | Uthiru Pentecostal | Waiyaki Way/Uthiru Junction,Uthiru
+0601ARC,Valley Arcade,-1.290004,36.770133,,56 46K,,Valley Arcade Bus Stop
+0611VRP,Valley Road Pentecostal,-1.292408,36.804994,,5 56 24C 46K 46Y,,KNH/KMTC
+0501VNL,Vanillas,-1.451671,36.968198,,110 110AK,,Athi River (MGR)
+0100VDA,Victory Gospel/Sda,-1.194320,36.742900,,107,,
+0711VWO,Victory World Outreach,-1.297388,36.754936,,4W,,Tankard
+0501VLG,Village,-1.453628,36.967694,,110 110AK,,Athi River (MGR)
+0111VMA,Village Market,-1.228760,36.804430,,106 107 116 11F 114R,,Village Market
+0400VSP,Visa Place,-1.278040,36.895210,,17A 17Aky 3560_2,,Kwa maji
+0701WTK,Waithaka,-1.279621,36.712344,,2 102,,Waithaka
+0101WBR,Wambugu Road,-1.267990,36.821270,,106 107 116 11A 11F 114R,,Wambugu Road Bus stop
+0311RIS,Wamwaris,-1.261081,36.887801,,36 41 42 18C 32D 3738 16/62,,Wa Mwaris
+0201WJY,Wanderjoy,-1.231130,36.842250,kiambu_road,100 120 121 100A,Wonderjoy,
+0713WNG,Wangige Stage,-1.219195,36.712390,,103 118 129,,Wangige Stage
+0810WJM,Wanjimi,-1.258501,36.703092,,103 105 115 135 114W,,Junction
+0711WST,Wanyee Stage,-1.295965,36.749176,,4W,,Satellite
+0601WAR,Warrior/Califonia,-1.284821,36.753194,,56,,Mtimoja
+0401WKM,Welkim,-1.266680,36.989375,,3738 38/39,,Welkim
+0501WEB,West End Bar/Barclays,-1.307340,36.823660,,14A 14B,,
+0501WEM,West Mall,-1.309390,36.822250,,14B,,
+0201WST,West Plaza,-1.182706,36.897987,thika_road,44G 44K,,
+0812WST,Westlands,-1.262800,36.800310,,30 105 115 135 48K 114W 23KG,,Westlands Bus Stop
+0813WSA,Westlands,-1.262281,36.803707,,118 119 11B 23W 119A,Westlands Terminal,Westlands/Ngara/Town Stage
+0810WST,Westlands Stage,-1.265490,36.802770,,30 105 115 135 48C 114W 23KG,,Westlands Bus Stop
+0710WWD,Westwood,-1.325327,36.696969,,111,Westwood/Defense College,Kephis Stage
+0801WID,Wida Hotel,-1.220669,36.663259,,115 135 114W,,Zambezi - Nairobi Bus Stage
+0510WIL,Wilson,-1.315626,36.814272,,15 24 125 126 24C 34L,Wilson Airport/Shell | Wilson/Amref,
+0101WID,Windsor Advice,-1.215566,36.850327,,107D,,
+0701WRG,Windy Ridge/Group Africa,-1.324266,36.701959,,111,,The Lower Shell Stage
+0701WNK,Winners Chapel/Kanisani,-1.301972,36.779624,,5,,Adams
+0701WOO,Woodley,-1.303806,36.779586,,5,,Adams
+0611YAY,Yaya,-1.292751,36.789354,,5 56 46K 46Y,,Bus Stop
+0801YYA,Yaya,-1.291648,36.787161,,48C,,Prestige Plaza
+0810ZAB,Zambezi,-1.212741,36.659981,,115 135 114W,,Zambezi - Nakuru Bus Stage
+0700ZBA,Zambia,-1.354088,36.657717,,111,,Zambia
+0810ZEN,Zen Garden,-1.245280,36.769130,,118 119,Zen Gardens,Crossroads
+0811ZOP,Zopen,-1.201284,36.654722,,115 135 114W,,
+0700GPF,Zuku/Grace Pop/Dagoretti Flats,-1.276294,36.686224,,102,,Dagoretti Market

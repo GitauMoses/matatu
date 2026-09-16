@@ -1,0 +1,135 @@
+route_id,number,description,outbound_to,inbound_to,corridor
+70401000111,1,Karen-Karinde-Dagoretti Market,Dagoretti Market,Karen Shopping Centre/Karen,
+70601000211,2,Railways-Ngong Road-Kawangware-Dagoretti Market,Dagoretti Market Mwisho,Railways,ngong_road
+70301000511,5,Town-Kenyatta-Adams-Jamhuri,Togo Apartments,Ambassadeur,ngong_road
+20702000611,6,Koja-Pangani Flyover-Guru Nanak-Pangani Girls High School-Mlango-Eastleigh,Eastleigh Terminal,Koja,
+30100000711,7,Town-Kariokor DC-Gikomba,Gikomba,Town,
+70200000811,8,Railways-Ngong Road-Kibera,Equity Ayani,Railways,ngong_road
+40401001011,10,Muthurwa-Makadara-Maringo,Mwisho,Muthurwa,kangundo_road
+50100001111,11,Bus Station-Industrial Area-South B-Hazina,South B Mwisho,Bus Station,
+30800001411,14,Ronald Ngala-Juja Road-Eastleigh-Huruma-Kariobangi,Kariobangi Terminal,Terminal Otc,
+50204001511,15,Bus Station-Nyayo Stadium-Wilson-Langata,Terminal,Bus Station,langata_road
+50203001611,16,Bus Station-Nyayo Stadium-T Mall-Highrise,Highrise,Bus Station,langata_road
+40702002001,20,Mama Lucy Hospital-Kayole-Njiru-Mwiki,Mwiki Terminal,Mama Lucy Terminal,
+50206002411,24,Ambassadeur-Nyayo Stadium-Bomas-Hardy-Karen,Kencom,Karen/Nakumatt Crossroads,ngong_road
+20801002511,25,Odeon-Pangani-Alssops-Baba Dogo,Baba Ndogo Terminal,Odeon Terminal,thika_road
+40501002611,26,Makadara-Harambee-Outering-Kariobangi,Kariobangi,Makadara/Mwisho,
+30800002811,28,Gikomba-Eastleigh-Huruma-Kariobangi,Kariobangi Terminal,Gikomba Market Terminals,
+80400003011,30,Odeon-Westlands-Kangemi-Uthiru,Ndumbuini Terminus,Odeon Terminus,
+40601003611,36,City Stadium-Buruburu-Kwa Mbao-Dandora,Dandora Terminal,City Stadium,kangundo_road
+30007004111,41,Gikomba-Rounda-Dandora,Dandora Terminal,Gikomba,
+20807042011,42,Allsops-Rounda-Dandora,Dandora Terminal,Terminal,
+20901043011,43,Bus Station-Pangani-Alssops-Ngumba,Ngumba Terminal,Bus Station,thika_road
+21000004911,49,Odeon-Pangani-Roysabu-Kasarani-Sunton,Sunton,Odeon Terminals,thika_road
+20400005311,53,Roasters-Thome-Maruirui,Maruirui,Roasters,
+60201005611,56,Town-Yaya-Congo-Kanungaga,Kanungaga/56 Mwisho,Railways,
+40601005811,58,Ambassadeur-Jogoo Road-Buruburu,Mutindwa,Ambassadeur,kangundo_road
+40102040511,69,Muthurwa-Hillocks-GM,Gm Mwisho,Muthurwa,
+20100010011,100,O.T.C-Pangani-Muthaiga Roundabout-Kiambu Road-Kiambu Institute-Kiambu,Kiambu Bus Terminus,Githunguri Terminal,kiambu_road
+70600010211,102,Railways-NgongRoad-Kawangware-Kikuyu,Kikuyu,Railways,ngong_road
+70000010311,103,Dagoretti Market-Uthiru-Kinoo-Wangige,Wangige Stage,Kenol Dagoretti Corner,
+80500010511,105,Odeon-Westlands-Kangemi-Kinoo-Regen-Kikuyu,Odeon Terminus,Kikuyu Terminus,
+10300106011,106,Odeon-UN-Ruaka-Banana,Banana Terminus,Koja/Nation Centre,
+10400010711,107,Odeon-UN-Ruaka-Ndenderu,Karura Mwisho,Odeon,
+10200010811,108,UN-New Muthaiga-Gachie-Gichagi,Gasolina/Gichagi Mwisho,Poland Embassy,
+50800011011,110,Railways-Mombasa Road-Mlolongo-Kitengela,Kitengela,Easy Coach/Uchumi,mombasa_road
+70400011111,111,Railways-Ngong Road-Karen-Ngong,Ngong Bus Terminus,Railways,ngong_road
+80000115011,115,Koja-Westlands-Kangemi-Limuru,Limuru Town Terminal,Koja,
+10000116011,116,Koja-Ngara-Banana-Limuru,Limuru Terminus,Koja,
+80100011811,118,Koja-Westlands-Kabete-Wangige,Wangige Stage,Ngara Flyover Bottom,
+80000011911,119,Koja-Westgate-Wangige,Wangige Health Centre,Koja,
+20100012011,120,Kaka-Pangani-Muthaiga Roundabout-Kiambu Road-Kiambu Institute-Kiambu-Githunguri,Githunguri Terminal,Githunguri Terminal,kiambu_road
+20100012111,121, Kaka-Pangani-Muthaiga Roundabout-Kiambu Road-Kiambu Institute-Kiambu-Ndumberi,Ndumberi,Githunguri Terminal,kiambu_road
+50205012511,125,Railways-Langata Road-Bomas-Ongata Rongai,Kware,Railways,langata_road
+50205012611,126,Railways-Langata Road-Ongata Rongai-Kiserian,Kiserian,Railways,langata_road
+70000012911,129,Kikuyu-Magu-Kingeero-Wangige,Wangige Stage,Kikuyu Terminus,
+80000135011,135,Kaka-Westlands-Kangemi-Limuru,Limuru Town Terminal,Kaka Terminal,
+20000145011,145,Munyu Road-Pangani-Roysabu-Githurai-KU-Ruiru,Ruiru,Kenya National Archives,thika_road
+20000237011,237,Munyu Road-Pangani-Roysabu-Githurai-KU-Ruiru-Juja-Thika,Thika Town,Kenya National Archives,thika_road
+40101040501,405,City Stadium-Nyayo Stadium,Baricho Road Terminus,City Stadium/Lusaka Road Junctn,
+40703196011,1960,OTC-Donholm-Kayole,Kayole 1,Ladhes Road/Otc,kangundo_road
+20800203001,2030,Allsops-Rounda,Rounder,Terminal,
+30603373812,3738,Rounda-Saika-Ruai,Quickmart,Rounder,kangundo_road
+4070500SK11,04SK,Ronald Ngala-Jogoo Road-Kangundo Road-Saika-Kayole Junction,Saika Junction,Tuskys Ronald Ngala,kangundo_road
+20100100A11,100A,Ngara-Pangani-Muthaiga Roundabout-Kiambu Road-Kiambu Institute-Kiambu Hospital,Kiambu Hospital,Ngara Bus Terminals,kiambu_road
+10000107D11,107D,Ruaka-Ruiru,Ruiru,Main Stage,
+50100001121,11_2,Town-Industrial Area-Mater-Railways Training Institute-Balozi-Hazina,Diamond Park Estate,Bus Station,
+50901011012,110AK,Athi River-Makadara-Kitengela,Kitengela,Devki,mombasa_road
+50901011011,110ATH,Railways-Mombasa Road-Devki-Makadara,Makadara,Easy Coach/Uchumi,mombasa_road
+10000114011,114R,Ngara-Rwaka-Ndenderu-Limuru,Limuru Terminus,Ngara Stage,
+80000114011,114W,Ngara-Westlands-Kangemi-Limuru,Limuru Town Terminal,Ngara Teminal,
+80000119A11,119A,Town-Westlands-Peponi Road-Spring Valley-ISK-Gathiga,Gathiga Mwisho,Koja,
+10100011A11,11A,Odeon-Aga Khan-Highridge,Kwa Mosque/Highridge Mwisho,Odeon,
+80000011B11,11B,Koja-MP Shah-Westlands,Mayfair,Koja,
+30100011C11,11C,Odeon-Pangani Flyover-Pangani Girls High School-Mlango-Pangani Terminus,Pangani Terminal,Odeon,
+10300011F11,11F,Odeon-UN-Ruaka,Ruaka Stage,Odeon,
+70400012611,126N,Ngong-Kiserian,Kiserian,Ngong Town,
+50205012601,126RK,Ongata Rongai-Nkoroi-Kiserian,Kiserian Terminus,Kware,langata_road
+50300012C11,12C,Bus Station-Red Cross-Mugoya,Container/New Apostolic Church,Bus Station,mombasa_road
+50301012D11,12D,Bus Station-Red Cross-KPA-College Of Insurance-Amboseli,Highway Estate,Bus Station,mombasa_road
+50700014501,145B,Bypass-Ruiru Ndani-Ruiru,Ruiru,By Pass,
+20700145D01,145D,Torrents-Membley-Ruiru,Ruiru,Super High Way,
+50201014A11,14A,Bus Station-Nairobi West-Madaraka-Strathmore,Strathmore/Siwaka,Bus Station,langata_road
+50201014B11,14B,Bus Station-Nairobi West-TMall,T-Mall,Bus Station,langata_road
+30600186211,16/62,Bus Station-Rounda-Dandora-Kayole,Kanisani,Bus Station Terminal,
+40705017A01,17A,Rounder-Umoja 2-Kayole,Calvary,Rounda,
+30600017A11,17A,EastLeigh-Rounda-Umoja 2-Kayole,Kayole 1,Eastleigh Terminal,
+21000017B11,17B,Bus Station-Pangani-Roysambu-Kasarani-Mwiki,Mwiki,Bus Station,thika_road
+21200017B12,17B_2,Roysambu-Sunton-Kasarani-Mwiki,Mwiki,Roysambu Terminus,
+30600018C11,18C,Eastleigh-Rounda-Dandora-Kayole,Eastleigh Terminal,Kanisani,
+40702196111,1961K,Landhies Road-Jogoo Road-Jacaranda-Kayole,Diesel,Ladhes Road/Otc,kangundo_road
+40702196112,1961Kd,Caltex Donholm-Jacaranda-Kayole,Diesel,Caltex,
+4070519C211,19C2,Donholm-Caltex-Komarocks,Tushauriane,Umoja Stage,kangundo_road
+40705019C11,19C,Ambassadeur-Jogoo Road-Donholm-Caltex-Komarocks,Mkanju Court,Ronald Ngala/Tuskys,kangundo_road
+40702019C11,19C,Ambassadeur-Donholm-Jacaranda-Komarocks,Mkanju Court,Kencom,kangundo_road
+80000002311,23KG,Odeon-Chiromo-Westlands-Kangemi,Kangemi Terminus,Odeon Terminus,
+40201002311,23KS,Gill House-Jogoo Road-Shauri Moyo-Jerusalem-Buruburu-Kariobangi South,Kariobangi South Estate/Deliverance Church,Ambassadeur,
+20000002311,23W,Nation Building-Museum Hill-Graffins College-Westlands,Westlands Terminal,Nation Building Terminal,
+50000002412,24BK,Bomas-Karen Hospital-Karen,Karen Road-Lang'Ata Road Junction,Bomas,
+70201024C11,24C,Kencom-Valley Road-Ngong Road-Karen-Hardy,Karen,Kencom,ngong_road
+20801025A11,25A,Odeon-Pangani-Alssops-Baba Dogo-Lucky Summer,Lucky Summer Terminal,25A Terminal,thika_road
+40403002611,26S,Aquinas-Jerusalem-Outering-Kariobangi,Kariobangi,Aquinas,
+20701293011,29/30,Ngara-Pangani-Alssops-Drive in-Mathare,Mathare North Terminal,Ngara Bus Terminals,thika_road
+70200003211,32A,Kencom-Community-KNH-Ngong Road-Ayani,Ayani,Ambassadeur,ngong_road
+30907003211,32D,OTC-Kariokor-Mlango-Rounda-Dandora,Dandora Terminal,Terminal Otc,
+40700003311,33DC,Donholm-Rounda-Carbanas,Kobil,Doni,
+40700033C11,33C,Commercial-Jogoo Road-Pipeline-Cabanas,Kobil,Commercial,kangundo_road
+50703033C11,33B,Commercial-Cabanas-Baraka,Baraka Estate,Commercial Imara,mombasa_road
+50702003311,33FED,Commercial-Cabanas-Tuskys-Village-Gate A-Posta,Posta Embakasi Village,Commercial,mombasa_road
+40701003311,33GTB,Accra Road-Jogoo Road-Donholm-Fedha-Gate B,Gate B,Commercial,kangundo_road
+50700033H01,33H,Cabanas-Utawala-Bypass,By Pass,Cabanas,
+50600003311,33IMR,Commercial-Belleview-Imara Daima,Imara Daima,Commercial Imara,mombasa_road
+50703033J01,33J,Cabanas-Utawala-Githunguri,Githunguri,Cabanas,
+50600033A11,33MKR,Bus Station-Mombasa Road-Imara Daima-St.Bakhita,Maziwa,Bus Station,mombasa_road
+70000203311,33NG,Racecourse Road-Ngong Road-KNH-Ngumo,Ngumo Market,St.Peters Clavers Primary School/Salvation Army/Otc,
+40100003311,33DP,Muthurwa-Donholm-Pipeline,Rounda,Muthurwa,kangundo_road
+50701003311,33TP,Commercial-Mombasa Road-Taj Mall-Pipeline,Transami,Commercial,mombasa_road
+70101013301,33SB,Ngumo-Highrise-Nairobi West-Couth C-South B,South B Stage,Ngumo Stage,
+50700003311,33UTW,Utawala-Ambassadeur,Githunguri,Ambassadeur,mombasa_road
+40702034B11,34B,Ambassadeur-Donholm-Jacaranda,Jacaranda,Kencom,kangundo_road
+40700003411,34J,Ambassadeur-Donholm-Rounda-JKIA,Passenger Boarding,Kencom,kangundo_road
+70100203411,34L,Kenyatta National Hospital-Mbagathi Road-Wilson Airport-Langata,St.Marys Hospital,Kenyatta/Nairobi Hospital,langata_road
+40704356011,35/60,Town-Donholm-Umoja,Umoja Market,Tuskys Ronald Ngala,kangundo_road
+40704356001,3560_2,Donholm-Mutindwa-Umoja 2,Umoja 2 Terminus,Umoja Stage,kangundo_road
+40705383911,38/39,Town-Donholm-Njiru-Ruai,Joska,Bus Station,kangundo_road
+30101000311,3N,Gikomba-Kariokor-Ngara,Gikomba,Ngara,
+70000000311,3U,Dagoretti Corner-Naivasha Road-Uthiru,Uthiru Pentecostal,Kenol Dagoretti Corner,
+21100004411,44G,Odeon-Pangani-Roysambu-Githurai-Ku,Main Stage,Main Stage,thika_road
+21100004421,44K,Roysambu-Githurai-Ku,Main Stage,Roysambu Terminus,
+21100004412,44Z,Odeon-Pangani-Roysabu-Zimmerman-KU,Main Stage,Main Stage,thika_road
+20000004512,45G,Munyu Road-Pangani-Roysabu-Githurai,Gihurai,Main Stage,thika_road
+20000004511,45K,Munyu Road-Pangani-Roysabu-Githurai-Ku,KU,Main Stage,thika_road
+20000004513,45P,Githurai-Proggie,Proggie,Githurai,
+30000046B11,46B,Ronald Ngala-Juja Road-Eastleigh-Rounda,Tounder Terminal,Terminal Tusker,
+30000004611,46H,Ronald Ngala-Juja Road-Eastleigh-Huruma,Johnsaga,Terminal Tusker,
+60200004611,46K,Kencom-Valley Road-Yaya Centre-Kawangware,Kawangware Mwisho,Ambassadeur,
+60000004611,46Y,Kencom-Valley Road-Hurlinghum-Yaya Centre,Yaya,Ambassadeur,
+80100048A11,48A,Odeon-Chiromo-Strathmore School-Lavington,Lavington Shopping Centre/Shell,Odeon Terminus,
+80101048B11,48B,Odeon-Chiromo-Westlands Bypass-Methodist Guesthouse-Othaya Road,Othaya Road Stage,Odeon Terminus,
+80200048C11,48C,Odeon-Chiromo-Westlands-ByPass-Yaya,Yaya,Odeon Terminus,
+80200004811,48K,Westlands-ABC Place-Lavington-Kawangware,Co-Op Bank,Westlands,
+80101004811,48O,Odeon-Chiromo-Kileleshwa-Othaya Road,Othaya Road,Odeon Terminus,
+70500004W11,4W,Railways-Ngong Road-Wanyee-Kaberia,Chemist/Kwa Maji/Kaberia,Agip,ngong_road
+40200000601,6E,Church Army-Biafra-Joster,Joster,Church Army,
+40301707111,70/71,Muthurwa-Likoni-Sinai-Lunga Lunga,Donholm,Muthurwa,kangundo_road
+60101007C11,7C,Kencom-Community-Equity Center-Kenyatta National Hospital,Kenyatta Hospital Stage,Ambassadeur,

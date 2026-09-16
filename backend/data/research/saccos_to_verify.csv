@@ -1,0 +1,29 @@
+route,corridor,destination,proposed_terminal,terminal_lat,terminal_lon,proposed_saccos,confidence,source,VERDICT,your_notes
+110,mombasa_road,Kitengela,Railways,-1.290352,36.828268,Super Metro|Metro Trans,medium,"pulse.co.ke CBD stages; nai254 sacco list",,
+110,mombasa_road,Kitengela,Kencom,-1.285890,36.824290,,low,"pulse.co.ke says 110KIT also boards Kencom",,
+110AK,mombasa_road,Athi River,Railways,-1.290352,36.828268,Metro Trans,low,"nai254: Metro Trans serves Athi River",,
+125,langata_road,Ongata Rongai,Railways,-1.290352,36.828268,Super Metro|Metro Trans|Zuri,medium,"pulse.co.ke; nairobileo Super Metro Rongai route",,
+126,langata_road,Kiserian,Railways,-1.290352,36.828268,Metro Trans|Zuri|MOA,medium,"pulse.co.ke; nai254",,
+126RK,langata_road,Ongata Rongai - Kiserian,,,,,unknown,"no source found",,
+111,ngong_road,Ngong,Railways,-1.290352,36.828268,MOA|Super Metro|Metro Trans,medium,"pulse.co.ke: 111 from Railways and Afya Centre",,
+111,ngong_road,Ngong,Afya Centre,,,,low,"pulse.co.ke names Afya Centre; no coords in our data",,
+24,ngong_road,Karen,Railways,-1.290352,36.828268,MOA,low,"nai254: MOA serves Karen",,
+24C,ngong_road,Karen - Hardy,,,,,unknown,"no source found",,
+2,ngong_road,Dagoretti Market,Railways,-1.290352,36.828268,MOA,low,"nai254: MOA serves Dagoretti",,
+8,ngong_road,Kibera,Railways,-1.290352,36.828268,,low,"pulse.co.ke: Railways serves Kibera",,
+102,ngong_road,Kikuyu,Railways,-1.290352,36.828268,Super Metro,medium,"nai254: Super Metro CBD-Kikuyu; route 105 also cited",,
+105,,Kikuyu,,,,Super Metro,medium,"nai254 names Super Metro on 105 Kikuyu",,
+46K,,Kawangware,Railways,-1.290352,36.828268,,low,"pulse.co.ke: Railways serves Kawangware",,
+100,kiambu_road,Kiambu,OTC,-1.284054,36.831179,,low,"survey description starts O.T.C",,
+120,kiambu_road,Githunguri,Kaka,,,,unknown,"survey says Kaka; not verified",,
+121,kiambu_road,Ndumberi,Kaka,,,,unknown,"survey says Kaka; not verified",,
+35/60,kangundo_road,Umoja,Tea Room,,,Embassava,medium,"nai254: Embassava at Tearoom and OTC for Umoja/Kayole/Donholm",,
+17A,kangundo_road,Kayole,Tea Room,,,Embassava,medium,"nai254",,
+19C,kangundo_road,Komarock,Tea Room,,,Embassava,low,"inferred from Embassava corridor list - NOT stated",,
+1960,kangundo_road,Kayole,OTC,-1.284054,36.831179,Embassava,low,"survey says OTC; Embassava inferred",,
+145,thika_road,Ruiru,Kenya National Archives,-1.284989,36.825949,Lopha,CONFIRMED,"rider, Aug 2026",OK,already implemented
+237,thika_road,Thika via Juja,Kenya National Archives,-1.284989,36.825949,Super Metro|Latema|Enabled,CONFIRMED,"rider, Aug 2026",OK,already implemented
+237,thika_road,Thika via Juja,Odeon Cinema,-1.282760,36.825050,Lopha,CONFIRMED,"rider, Aug 2026",OK,already implemented
+237,thika_road,Thika via Juja,Mfangano / Ronald Ngala,-1.285856,36.827525,Nicco,CONFIRMED,"rider, Aug 2026",OK,already implemented
+38/39,kangundo_road,Joska via Kamulu,Bus Station,-1.285560,36.828700,Super Metro|City Shuttle,CONFIRMED,"rider, Aug 2026",OK,already implemented
+38/39,kangundo_road,Joska via Kamulu,Temple Road,-1.286232,36.829627,Obamana|Eastern Bypass Travellers|EBTI|Forward Travellers|Kubamba Ltd|KMO Sacco,CONFIRMED,"rider, Aug 2026",OK,already implemented

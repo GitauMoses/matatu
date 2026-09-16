@@ -1,0 +1,18 @@
+landmark,lat,lon,status,notes
+Bus Station,-1.287281,36.828863,live in network,stage 0512BST — 11 routes start here today
+Railways,-1.290352,36.828268,live in network,stage 0512RLW — 8 routes start here; OSM's Nairobi Central Railway Station is 150m away at -1.291650,36.828559, consistent
+Koja,-1.280852,36.822802,live in network,stage 0812KNJ — 7 routes
+Kencom,-1.285890,36.824290,live in network,stage 0412KNC — 6 routes; OSM node -1.285640,36.824990 nearby, consistent
+Ambassadeur,-1.285315,36.825615,live in network,stage 0512AMU — 6 routes; OSM "Ambassador Bus Stage" -1.285462,36.825877 nearby, consistent
+Muthurwa,-1.288449,36.834243,live in network,stage 0412MTW — 5 routes; OSM "Muthurwa Market" -1.285588,36.832995 is ~350m away, likely the market building vs. the matatu stage itself
+OTC,-1.284054,36.831179,live in network,stage 0212KRT (from_terminus "Terminal Otc"/"Ladhes Road/Otc") — 4 routes combined
+Odeon,-1.282760,36.825050,live in network,stage exists (237's confirmed terminal "Odeon Cinema"); route from_terminus values "Odeon"/"Odeon Terminus" resolve to nearby stages, not one exact name match
+Kenya National Archives,-1.284904,36.825950,confirmed twice,OSM node matches your own verified terminals.csv entry (-1.284989,36.825949) almost exactly — strong cross-validation
+Temple Road,-1.285499,36.830309,confirmed twice,OSM way matches your own verified terminals.csv entry (-1.286232,36.829627) within ~150m — consistent
+Ronald Ngala,-1.284805,36.830048,found via OSM,"Ronald Ngala Post Office"; stage "Ronald Ngala/Tuskys" already in network at -1.285901,36.827633, ~350m away — likely the same zone, different exact point
+Tom Mboya Street,-1.283060,36.824335,found via OSM,a ~1.2km street with several named segments; picked the CBD-central one nearest Odeon/Latema — not a single terminus, matches the article's own framing
+Latema Road,-1.281991,36.825262,found via OSM,"Latema Sacco;Nawas Hotel" node
+Green Park Terminus,,not found,"no OSM node/way matched; already documented in this folder's README as built-but-largely-unused as of Aug 2026 — Railways remains the real boarding point for southern routes"
+Afya Centre,,not found,"a shopping building, not a transport facility — likely used as a walking/orientation landmark near Kencom/Tom Mboya rather than a stage with its own coordinate"
+Accra Road,,not found,a street, not a single point — matatus board at various points along it, same as Tom Mboya St
+Tea Room,,not found,"a landmark cafe/junction reference near Kenyatta Ave/Moi Ave; no OSM tag found under this name"

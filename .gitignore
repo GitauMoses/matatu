@@ -1,0 +1,20 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# node / expo
+node_modules/
+.expo/
+mobile/android/
+mobile/ios/
+*.log
+npm-debug.*
+
+# os
+.DS_Store

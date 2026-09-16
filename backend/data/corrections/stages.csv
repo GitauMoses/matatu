@@ -1,0 +1,13 @@
+stage_id,name,lat,lon,source
+kr_ruai,Ruai,-1.27133,36.99714,osm
+kr_block10,Block 10,-1.27610,37.01058,osm
+kr_kangundo_rd,Kangundo Road,-1.27667,37.01779,osm
+kr_acacia,Acacia,-1.27703,37.02190,osm
+kr_makongeni,Makongeni,-1.27741,37.02583,osm
+kr_26,26,-1.27835,37.03371,osm
+kr_kanisani,Kanisani,-1.27878,37.04013,osm
+kr_kipawa,Kipawa,-1.27936,37.04606,osm
+kr_sir_henry,Sir Henry,-1.27987,37.05027,osm
+kr_kingoris,King'oris,-1.28073,37.05623,osm
+kr_kamulu,Kamulu,-1.28262,37.06448,osm
+kr_joska,Joska,-1.28411,37.09745,osm
