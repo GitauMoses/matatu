@@ -1,0 +1,36 @@
+# systemd unit for the Flask backend, run under gunicorn.
+#
+# Install:
+#   sudo cp backend/deploy/matatu-backend.service /etc/systemd/system/
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now matatu-backend
+#
+# Bound to 127.0.0.1 only — Caddy (see deploy/Caddyfile) is the one thing
+# exposed to the internet, terminates TLS, and reverse-proxies here. Keeps
+# the app process itself off the public interface.
+[Unit]
+Description=Matatu backend (Flask via gunicorn)
+After=network.target
+
+[Service]
+Type=simple
+User=matatu
+Group=matatu
+WorkingDirectory=/opt/matatu/backend
+# Leading "-" makes this optional — the app has no required env vars today
+# (routing and search need no API keys), but this covers anything added later.
+EnvironmentFile=-/opt/matatu/backend/.env
+ExecStart=/opt/matatu/backend/.venv/bin/gunicorn -w 2 -b 127.0.0.1:8123 --access-logfile - app.main:app
+Restart=on-failure
+RestartSec=3
+
+# Light sandboxing — the process only needs to read its own tree and talk
+# out to Photon over HTTPS.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/matatu/backend
+ProtectHome=true
+
+[Install]
+WantedBy=multi-user.target

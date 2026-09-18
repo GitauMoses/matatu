@@ -1,0 +1,17 @@
+# Alternative to the systemd path (deploy/matatu-backend.service) if you'd
+# rather run this as a container. Pick one, not both.
+#
+#   cd backend && docker compose -f deploy/docker-compose.yml up -d --build
+#
+# Published to 127.0.0.1 only, same reasoning as the systemd unit: Caddy is
+# the one thing that should be reachable from the internet.
+services:
+  backend:
+    build: ..
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8123:8123"
+    env_file:
+      # Optional — the app has no required env vars today.
+      - path: ../.env
+        required: false

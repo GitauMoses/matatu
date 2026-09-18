@@ -1,0 +1,12 @@
+# Caddy reverse-proxies the public internet to the backend, which only
+# listens on 127.0.0.1 (see matatu-backend.service).
+#
+# Automatic HTTPS needs a real DNS name, not a bare IP — Let's Encrypt won't
+# issue a cert for "20.164.2.5" directly. nip.io is a free wildcard DNS
+# service that maps any "<ip-with-dashes>.nip.io" name back to that IP, with
+# no signup and no records to manage, so it works as a real hostname for
+# ACME. Swap in a proper domain later by just changing this one line and
+# reloading Caddy — nothing else changes.
+20-164-2-5.nip.io {
+	reverse_proxy 127.0.0.1:8123
+}
